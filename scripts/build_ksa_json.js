@@ -19,7 +19,11 @@ async function build() {
 
   // 2) Find all markdown files, excluding README.md files
   const allFiles = glob.sync(SRC_GLOB);
-  const files = allFiles.filter(f => path.basename(f).toLowerCase() !== "readme.md");
+  const files = allFiles.filter(f =>
+    path.basename(f).toLowerCase() !== "readme.md" &&
+    !f.includes("_crosswalk") &&
+    !f.includes("_archive")
+  );
   console.log(`📄  Found ${files.length} KSA file(s) (${allFiles.length - files.length} READMEs excluded)`);
 
   if (!files.length) {

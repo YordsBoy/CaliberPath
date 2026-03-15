@@ -34,6 +34,7 @@
 - **quality_management_iso9001** – *Quality Management System (QMS) – ISO 9001* (core) – Implements and maintains a quality management system aligned with ISO 9001 requirements, including internal audits and corrective actions.
 - **collaborative_robotics_operations** – *Collaborative Robotics Operations* (emerging) – Operates and monitors collaborative robots (cobots) on the factory floor; programs simple robot tasks and ensures safe human-robot interaction per ISO standards.
 - **construction_3d_printing_basics** – *Construction 3-D Printing Basics* (emerging) – Operates large-scale concrete or polymer extrusion systems for on-site additive construction in accordance with ISO/ASTM 52939 quality-assurance requirements.
+- **cloud_manufacturing_data** – *Cloud Manufacturing Data Infrastructure & Analytics* (emerging) – Designs, configures, and governs cloud-based data infrastructure for manufacturing operations — ingesting time-series data from OT sources into cloud data lakes, building streaming pipelines, and enabling analytics workloads.
 
 ## Referenced Frameworks & Standards
 
