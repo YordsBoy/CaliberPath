@@ -92,15 +92,31 @@ _Last updated: 17 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~18.0 million in Office and Administrative Support Occupations (SOC 43-0000, BLS OES May 2024). One of the three largest occupational groups in the U.S. economy. Key sub-groups: Customer service representatives: 2.8M; General office clerks: 2.4M; Secretaries and administrative assistants (except legal/medical/executive): 1.8M; Executive secretaries and executive administrative assistants: 476K; Bookkeeping, accounting, and auditing clerks: 1.4M; Receptionists: 834K.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Office and administrative support occupations: projected decline of approximately -3.5% 2024–2034 (BLS Employment Projections), driven by automation, AI-assisted tools, and workflow digitization. AI/generative document tools are expected to increase productivity and reduce headcount in data entry, transcription, and routine correspondence roles. However, executive administrative assistants and high-complexity coordination roles remain in demand. RPA specialists and office automation roles: growing counter-trend within this group.
+
+**Median Annual Wage:** ~$47,200 (Office and Administrative Support Occupations group median, BLS OOH May 2024). By sub-group: Executive secretaries/administrative assistants: $70,400; Bookkeeping clerks: $47,440; Customer service representatives: $40,990; General office clerks: $40,780; Receptionists: $36,050; Office automation/RPA roles: estimated $55,000–$75,000 (cross-coded in 15-0000 or 43-0000 depending on org).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 43-6011.00 — Executive Secretaries and Executive Administrative Assistants
+- 43-4051.00 — Customer Service Representatives
+- 43-3031.00 — Bookkeeping, Accounting, and Auditing Clerks
+- 43-9061.00 — Office Clerks, General
+- 43-4171.00 — Receptionists and Information Clerks
+- 43-6014.00 — Secretaries and Administrative Assistants (Except Legal, Medical, and Executive)
+- 43-5061.00 — Production, Planning, and Expediting Clerks
+- 13-1111.00 — Management Analysts (process improvement in admin context)
+
+**Common Entry-Level Titles:** Administrative Assistant, Receptionist, Data Entry Specialist, Office Coordinator, Customer Service Representative, Records Clerk
+
+**Common Mid-Career / Senior Titles:** Executive Administrative Assistant, Office Manager, Records/Knowledge Management Specialist, Operations Coordinator, Senior Administrative Business Partner, Workflow Automation Specialist
+
+**Emerging / watch_2030 Roles:** Conversational AI Chatbot Manager, Voice-Driven Document Capture Specialist, Generative Document Summarization Coordinator
+
+**CSRA Employment Density:** Administrative support roles are distributed across every employer sector in the Augusta MSA — Fort Gordon GS admin staff, Augusta University administrative workforce, hospital administrative personnel, and commercial business support. Estimated 18,000–24,000 office/administrative support workers in Augusta MSA. Georgia statewide office/admin support: ~750,000+ workers (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

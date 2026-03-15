@@ -42,15 +42,31 @@ CRE_Market_Analysis · Real_Estate_Data_Analytics · Financial_Modelling_Cash_Fl
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Real Estate Sales Agents (41-9022): 418,350 (BLS OES May 2024). Real Estate Brokers (41-9021): 138,720. Property, Real Estate, and Community Association Managers (11-9141): 296,640. Appraisers and Assessors of Real Estate (13-2021): 81,790. Real estate and rental and leasing industry (NAICS 53): approximately 2.5 million workers total.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Real estate brokers and sales agents: +4% / +23,000 jobs 2024–2034. Property managers: +5% / +14,800 jobs. Real estate appraisers: approximately flat (+1–2%); automated valuation models limiting traditional appraisal demand while ESG-focused appraisal growing. PropTech and digital transaction roles: growing faster than average. Note: NAR commission structure changes (2024 settlement) may reshape agent/broker employment models significantly over the projection period.
+
+**Median Annual Wage:** $59,870 (Real Estate Sales Agents, BLS OES May 2024); $82,720 (Property, Real Estate, and Community Association Managers, BLS OES May 2024); $73,910 (Real Estate Brokers, BLS OES May 2024); $62,790 (Appraisers and Assessors, BLS OES May 2024). Commercial real estate (CRE) professionals at senior levels: $100,000–$180,000+.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 41-9022.00 — Real Estate Sales Agents
+- 41-9021.00 — Real Estate Brokers
+- 11-9141.00 — Property, Real Estate, and Community Association Managers
+- 13-2021.00 — Appraisers and Assessors of Real Estate
+- 13-2051.00 — Financial and Investment Analysts (CRE investment modeling)
+- 13-1022.00 — Wholesale and Retail Buyers (leasing/tenant relations context)
+- 11-9199.11 — Brownfield Redevelopment Specialists
+- 17-1012.00 — Landscape Architects (development/facility management)
+
+**Common Entry-Level Titles:** Real Estate Sales Agent (licensed), Leasing Consultant, Property Management Associate, Real Estate Analyst (junior), Appraisal Trainee
+
+**Common Mid-Career / Senior Titles:** Senior Commercial Real Estate Broker, Property Portfolio Manager, CRE Market Analyst, Facilities Director, Director of Real Estate Development, PropTech Solutions Manager
+
+**Emerging / watch_2030 Roles:** Green Building Certification Manager (LEED/BREEAM), PropTech Cybersecurity Specialist, Real Estate Transaction Due Diligence Specialist (AI-assisted)
+
+**CSRA Employment Density:** Augusta's real estate market is one of the most active in Georgia: Columbia County is among the top-growth counties in the state. Residential real estate has surged with military housing demand (Fort Gordon population expansion). Commercial real estate activity driven by data center/cyber corridor development. Estimated 3,500–5,000 real estate and property workers in Augusta MSA. Georgia statewide real estate and rental/leasing: ~110,000+ workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

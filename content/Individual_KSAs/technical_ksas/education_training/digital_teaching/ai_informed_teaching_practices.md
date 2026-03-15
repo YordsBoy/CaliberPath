@@ -5,7 +5,7 @@ category: Technical
 sector: education_training
 horizon: emerging
 cluster_tags:
-  - "Artificial Intelligence"
+  - "AI"
   - "Pedagogy"
 description: >
   Integrates artificial-intelligence (AI) tools—adaptive tutors, generative content engines—into instruction while upholding UNESCO’s AI Competency Framework for Teachers ethics, transparency, and human-agency principles.

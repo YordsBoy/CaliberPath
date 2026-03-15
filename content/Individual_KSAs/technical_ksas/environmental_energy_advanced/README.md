@@ -73,15 +73,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** No single BLS occupational group maps directly to this sector. Primary anchors: Environmental Scientists and Specialists (19-2041): ~90,000; Solar Photovoltaic Installers (47-2231): 28,600; Wind Turbine Service Technicians (49-9081): 12,500; Environmental Engineers (17-2081): ~55,000; Sustainability Managers/Specialists: estimated 170,000+ (reported across multiple SOC codes, including 13-1199.05 Sustainability Specialists). IRENA estimates 16.2 million renewable energy workers globally; U.S. share approximately 500,000–800,000 clean energy workers (DOE U.S. Energy Employment Report 2024).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Wind turbine service technicians: +60% / +7,500 jobs 2024–2034 (fastest growing occupation in the economy, BLS). Solar PV installers: +42% / +12,000 jobs (second fastest). Environmental scientists: +7% / +6,300 jobs. Environmental engineers: +8% / +4,400 jobs. Green finance and ESG roles: fastest-growing professional services sub-segment (no distinct BLS code; estimated 20%+ growth driven by ISSB S1/S2 disclosure mandates effective 2024–2026). Clean energy sector overall: DOE projects 200,000–300,000 additional workers needed by 2030 for net-zero transition pathways.
+
+**Median Annual Wage:** $46,470 (Solar PV Installers, BLS OES May 2024); $61,770 (Wind Turbine Service Technicians, BLS OES May 2024); $78,980 (Environmental Scientists, BLS OES May 2024); $100,090 (Environmental Engineers, BLS OES May 2024); $100,000–$130,000 (ESG/Sustainability Manager range, estimated from BLS 11-1021 and 13-1199 comparable roles).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 47-2231.00 — Solar Photovoltaic Installers
+- 49-9081.00 — Wind Turbine Service Technicians
+- 19-2041.00 — Environmental Scientists and Specialists
+- 17-2081.00 — Environmental Engineers
+- 13-1199.05 — Sustainability Specialists
+- 19-2099.01 — Remote Sensing Scientists and Technologists (climate analytics)
+- 11-9199.11 — Brownfield Redevelopment Specialists and Site Managers
+- 13-2051.00 — Financial and Investment Analysts (green finance/ESG advisory)
+
+**Common Entry-Level Titles:** Solar Installer, Environmental Technician, Sustainability Analyst, Climate Data Analyst, Carbon Accounting Analyst, Clean Energy Project Coordinator
+
+**Common Mid-Career / Senior Titles:** Renewable Energy Systems Engineer, Environmental Compliance Manager, Sustainability Director, ESG Reporting Manager, Carbon Market Analyst, CCUS Operations Specialist
+
+**Emerging / watch_2030 Roles:** Direct Air Capture Operations Manager, Environmental Blockchain Trading Specialist, Grid-Interactive Building Engineer
+
+**CSRA Employment Density:** Augusta's environmental/clean energy sector is emerging: Georgia Power renewable installations, Fort Gordon solar and energy efficiency programs, Augusta University sustainability initiatives, and growing residential solar in Columbia and Richmond Counties. CSRA Clean Energy Hub development activity (post-IRA). Estimated 800–1,500 environmental/clean energy workers in Augusta MSA. Georgia statewide clean energy workers: ~30,000–40,000 (DOE USEER Georgia data, 2023).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

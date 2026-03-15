@@ -58,15 +58,31 @@
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Utilities industry (NAICS 221): approximately 570,000 workers (BLS QCEW 2024). Key occupational anchors within the sector: Power Plant Operators (51-8013): ~54,000; Electricians (47-2111): 805,000 across all industries; Electrical Power-Line Installers and Repairers (49-9051): ~120,000; Control and Valve Installers and Repairers (49-2095): ~46,000; Nuclear Power Reactor Operators (51-8011): ~6,100. Total electric power generation and transmission workforce (NAICS 2211–2212): approximately 350,000.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Utilities industry overall: +0.6% annually (modest overall; strong renewable growth offset by fossil fuel decline). The four fastest-growing detailed industries in the entire 2024–2034 projection are all renewable energy generation. Solar, wind, and geothermal power generation industries projected to grow 25–60%+. Solar PV Installers: +42% / +12,000 jobs. Wind Turbine Service Technicians: +60% / +7,500 jobs. Electricians (all industries): +11% / +88,000 jobs. Power Plant Operators: modest decline as fossil fuel plants retire.
+
+**Median Annual Wage:** $81,760 (Power Plant Operators, 51-8013, BLS OES May 2024); $100,790 (Nuclear Power Reactor Operators, 51-8011, BLS OES May 2024); $64,900 (Electricians, BLS OES May 2024); $80,460 (Electrical Power-Line Installers and Repairers, BLS OES May 2024). Utilities industry overall mean annual wage: approximately $80,000–$90,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 51-8013.00 — Power Plant Operators
+- 51-8011.00 — Nuclear Power Reactor Operators
+- 49-9051.00 — Electrical Power-Line Installers and Repairers
+- 17-2071.00 — Electrical Engineers
+- 47-2111.00 — Electricians
+- 51-8099.00 — Plant and System Operators, All Other (SCADA/grid control)
+- 15-1212.00 — Information Security Analysts (utility OT/SCADA cybersecurity)
+- 11-3051.00 — Industrial Production Managers (utility plant management)
+
+**Common Entry-Level Titles:** Plant Operator Trainee, Utility Lineman Apprentice, Substation Technician, Energy Analyst (entry), SCADA Technician I
+
+**Common Mid-Career / Senior Titles:** Power Plant Supervisor, Grid Operations Engineer, Energy Trading Analyst, Utility Regulatory Affairs Manager, Nuclear Systems Engineer, Senior SCADA Engineer
+
+**Emerging / watch_2030 Roles:** Distributed Energy Resource (DER) Management Specialist, Battery Energy Storage Operations Engineer, Hydrogen Production & Safety Specialist
+
+**CSRA Employment Density:** Georgia Power (Southern Company subsidiary) operates Plant Vogtle nuclear facility (~5,000 workers at peak construction; ongoing O&M ~3,000), Savannah Electric operations, solar installations across the CSRA service territory. Georgia Power's Augusta district office. Estimated 3,500–5,000 utility workers in Augusta MSA. Georgia statewide utilities employment: ~30,000–35,000 (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

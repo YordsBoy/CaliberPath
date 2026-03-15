@@ -5,7 +5,7 @@ category: Technical
 sector: finance_insurance
 horizon: emerging  
 cluster_tags: 
-    - "FinTech"
+    - "Fintech"
     - "APIs"
 description: >  
   Implements and manages secure Open Banking APIs to enable data sharing and third-party fintech integrations;  

@@ -70,15 +70,31 @@
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~990,000 in Farming, Fishing, and Forestry Occupations (SOC 45-0000, BLS OES May 2024). Agriculture, forestry, fishing, and hunting industry (NAICS 11): approximately 2.6 million workers including self-employed farmers not captured in BLS OEWS (which excludes self-employed agricultural workers). USDA NASS 2022 Census of Agriculture: 3.4 million farm operators/producers. Additional anchors: Agricultural engineers: ~14,000; Agricultural and food scientists: ~43,000; Agricultural and food science technicians: ~31,000.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Farming, fishing, and forestry occupations group: approximately -2% to -3% 2024–2034 (declining due to consolidation and automation). However, precision agriculture and agri-tech roles are growing within the sector. Agricultural engineers: +8%. Precision agriculture technicians (O\*NET 17-3026): rapid growth with no distinct BLS count. Agricultural data analysts and agri-tech roles: growing, cross-coded under computer/math and life science occupational groups. Cell-based meat and sustainable aquaculture: emerging workforce demand.
+
+**Median Annual Wage:** $37,660 (Farming, Fishing, and Forestry group median, BLS OOH May 2024). By sub-group: Agricultural engineers: $89,700; Agricultural and food scientists: $89,730; Farm managers (11-9013): $86,160; Precision agriculture technicians (estimated): $55,000–$75,000; Agricultural equipment operators: $42,550; Farmworkers and laborers: $32,700–$36,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 45-2011.00 — Agricultural Inspectors
+- 45-2021.00 — Animal Breeders
+- 45-2091.00 — Agricultural Equipment Operators
+- 17-2021.00 — Agricultural Engineers
+- 19-1011.00 — Animal Scientists
+- 19-1013.00 — Soil and Plant Scientists
+- 17-3026.00 — Industrial Engineering Technologists and Technicians (precision ag context)
+- 11-9013.00 — Farmers, Ranchers, and Other Agricultural Managers
+
+**Common Entry-Level Titles:** Farm Technician, Crop Scout, Precision Agriculture Technician, Agricultural Research Assistant, Irrigation Technician, Livestock Technician
+
+**Common Mid-Career / Senior Titles:** Farm Manager, Precision Agriculture Agronomist, Agricultural Data Analyst, Sustainable Aquaculture Manager, Agri-Tech Integration Specialist, Agricultural Supply Chain Coordinator
+
+**Emerging / watch_2030 Roles:** Cell-Based Meat Production & Regulatory Compliance Specialist, AI-Driven Precision Pest Management Specialist, Agricultural Carbon Credit Market Operator
+
+**CSRA Employment Density:** Augusta's agricultural footprint is primarily in the surrounding rural counties: Burke, Jefferson, McDuffie, Columbia, and Aiken (SC) counties. Key commodities: cotton, soybeans, corn, poultry (chicken processing), peaches, and timber. Georgia's agriculture sector is significant statewide. Estimated 3,000–5,000 agricultural workers in the extended Augusta MSA. Georgia statewide agriculture/natural resources: ~110,000+ wage and salary workers (BLS QCEW 2024); total farm operators 40,000+.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

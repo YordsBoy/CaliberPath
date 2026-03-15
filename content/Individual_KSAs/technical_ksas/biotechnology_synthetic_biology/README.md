@@ -74,15 +74,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Life Scientists (SOC 19-1000): 374,670 (BLS OES May 2024). Biological Technicians (19-4021): 76,190. Medical Scientists (19-1042): 148,540. Biochemists and Biophysicists (19-1021): 34,650. Bioengineers and Biomedical Engineers (17-2031): 21,080. Biotechnology industry (NAICS 3254 + 5417): approximately 340,000 workers per BIO/BARDA workforce estimates. Synthetic biology-specific workforce: approximately 50,000–80,000 globally (emergent segment; no distinct BLS SOC).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Life scientists group: +8.7% 2024–2034 (industry: scientific R&D services). Medical scientists: +11% / +16,300 jobs. Bioengineers and biomedical engineers: +10% / +2,100 jobs. Biological technicians: +9% / +6,800 jobs. Broader biotechnology sector: DOE and NIH project strong workforce demand through 2030 driven by personalized medicine, gene therapy, biomanufacturing scale-up, and synthetic biology commercialization. CRISPR and gene therapy: fastest-growing segment within biotech.
+
+**Median Annual Wage:** $101,980 (Life Scientists group median, BLS OES May 2024); $148,590 (Medical Scientists, BLS OES May 2024); $104,080 (Bioengineers/Biomedical Engineers, BLS OES May 2024); $58,020 (Biological Technicians, BLS OES May 2024); $108,620 (Biochemists and Biophysicists, BLS OES May 2024).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 19-1021.00 — Biochemists and Biophysicists
+- 19-1042.00 — Medical Scientists, Except Epidemiologists
+- 17-2031.00 — Bioengineers and Biomedical Engineers
+- 19-4021.00 — Biological Technicians
+- 19-1099.01 — Bioinformatics Scientists
+- 19-1029.01 — Biologists (synthetic biology)
+- 51-8099.04 — Biofuels Processing Technicians (biomanufacturing)
+- 13-1041.06 — Regulatory Affairs Specialists (FDA biologics/CMC)
+
+**Common Entry-Level Titles:** Lab Technician, Research Associate (wet lab), Bioinformatics Analyst, QA/QC Associate, Regulatory Affairs Coordinator
+
+**Common Mid-Career / Senior Titles:** Senior Scientist, Bioinformatics Scientist, Principal Investigator, Regulatory Affairs Manager, Biofoundry Operations Lead, CMC Specialist, Director of R&D
+
+**Emerging / watch_2030 Roles:** AI-Driven Protein Design Engineer, Biofoundry Automation Scientist, Cell-Free Biomanufacturing Specialist
+
+**CSRA Employment Density:** Augusta's biotech sector is anchored by Augusta University's research enterprise (Medical College of Georgia, research centers focused on cancer, cardiovascular disease, and regenerative medicine), Charlie Norwood VA Medical Center research programs, and Georgia Cyber Center biomedical informatics. Limited private biotech employer presence; Augusta is primarily an academic research node. Estimated 800–1,500 life scientists and biotech workers in Augusta MSA. Georgia statewide biotech/life sciences: ~50,000–65,000 workers (GRMA/BIO estimates).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

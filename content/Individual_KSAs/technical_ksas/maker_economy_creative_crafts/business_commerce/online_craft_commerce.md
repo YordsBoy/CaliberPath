@@ -5,7 +5,7 @@ category: Technical
 sector: maker_economy_creative_crafts
 horizon: core  
 cluster_tags: 
-    - "E-commerce"
+    - "E-Commerce"
     - "Craft"
 description: >  
   Sells handmade products or DIY creations through online marketplaces and social media; handles product photography, listings (e.g. on Etsy), pricing, shipping logistics, and customer communications to successfully monetize crafts in the digital marketplace.  

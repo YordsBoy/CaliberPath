@@ -5,7 +5,7 @@ category: Technical
 sector: real_estate_property
 horizon: emerging
 cluster_tags:
-  - "Cyber Security"
+  - "Cybersecurity"
   - "Building Systems"
 description: >
   Secures BAS, IoT, and tenant technologies by applying NIST SP 800-82 OT security guidance, ISA/IEC 62443 network segmentation, and real estate cybersecurity consortium frameworks (e.g., RECC guidelines).

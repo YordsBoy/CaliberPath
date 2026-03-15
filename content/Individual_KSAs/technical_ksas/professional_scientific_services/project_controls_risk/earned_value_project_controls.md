@@ -5,7 +5,7 @@ category: Technical
 sector: professional_scientific_services
 horizon: core
 cluster_tags:
-  - "Earned Value"
+  - "EVM"
   - "Project Controls"
 description: Implementing Earned Value Management (EVM) per ANSI/EIA-748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.
 source_frameworks:

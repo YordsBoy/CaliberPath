@@ -41,15 +41,31 @@ Additive_Manufacturing_Basics_Safety · Community_Workshop_Facilitation · Craft
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** No dedicated BLS SOC category for the maker economy. Primary occupational anchors: Craft and Fine Artists (27-1012): 12,600 (BLS OES May 2024); Industrial Designers (27-1021): 46,100; Jewelers and Precious Stone and Metal Workers (51-9071): 13,500; Cabinet Makers and Bench Carpenters (51-7011): 71,500; Printing Press Operators (51-5112): 43,800. Etsy and Shopify platform data: approximately 5.3 million active Etsy sellers (2024), with average annual revenue ~$1,800 (part-time majority). Full-time independent makers: estimated 400,000–600,000 in the U.S. Global maker economy market: $100+ billion (Etsy GMV + Shopify independent makers + Faire wholesale).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Craft and fine artists: +5% / +600 jobs 2024–2034. Industrial designers: +3%. Jewelers: -8% (factory production decline). Cabinet makers: -5% (automation). However, the independent/artisan maker segment is growing contra-trend driven by consumer demand for handmade/unique goods, 3D printing democratization, and e-commerce platform reach. Additive manufacturing (3D printing) operator roles: +15%+ (cross-coded across multiple SOC categories). Maker economy revenue is growing at approximately 15% CAGR.
+
+**Median Annual Wage:** $41,620 (Craft and Fine Artists, BLS OES May 2024); $83,050 (Industrial Designers, BLS OES May 2024); $56,210 (Jewelers, BLS OES May 2024); $49,370 (Cabinet Makers, BLS OES May 2024). Independent maker/crafter median income: highly variable — full-time makers average approximately $45,000–$65,000 (Maker's Row/Etsy economic surveys); part-time makers average $5,000–$20,000 supplemental income.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 27-1012.00 — Craft and Fine Artists
+- 27-1021.00 — Industrial Designers
+- 51-4021.00 — Extruding and Drawing Machine Setters (3D printing analog)
+- 51-7011.00 — Cabinetmakers and Bench Carpenters
+- 27-1024.00 — Graphic Designers (digital/print craft)
+- 51-9071.00 — Jewelers and Precious Stone and Metal Workers
+- 41-9041.00 — Telemarketers (Etsy/marketplace seller, customer-facing analog)
+- 11-1021.00 — General and Operations Managers (craft business owner)
+
+**Common Entry-Level Titles:** Craft Artist, 3D Printing Technician, Fabrication Lab Assistant, E-Marketplace Seller, Workshop Facilitator
+
+**Common Mid-Career / Senior Titles:** Product Designer, Maker Space Manager, Craft Entrepreneur, Digital Fabrication Specialist, Custom Order Business Owner, Community Workshop Facilitator
+
+**Emerging / watch_2030 Roles:** Open Source Hardware Compliance Specialist, Lifecycle Assessment Sustainable Product Designer, Crowdfunding Maker Venture Manager
+
+**CSRA Employment Density:** Augusta's maker ecosystem includes: the Westobou Arts Festival maker community, Downtown Augusta arts district, Augusta Locally Grown co-op network, and several independent woodworking, ceramics, and jewelry studios. Augusta University's art department generates maker-adjacent graduates. Estimated 500–1,500 maker economy/craft economy workers in Augusta MSA. No precise BLS MSA data available.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

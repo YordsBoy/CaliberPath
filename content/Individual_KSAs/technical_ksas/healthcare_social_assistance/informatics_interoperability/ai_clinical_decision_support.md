@@ -5,7 +5,7 @@ category: Technical
 sector: healthcare_social_assistance
 horizon: emerging
 cluster_tags:
-  - "Artificial Intelligence"
+  - "AI"
   - "Clinical Decision Support"
 description: >
   Evaluates, integrates, and monitors machine-learning and large-language-model

@@ -5,7 +5,7 @@ category: Technical
 sector: immersive_media_ar_vr_metaverse
 horizon: emerging
 cluster_tags:
-  - "WebXR"
+  - "Web XR"
   - "Frontend"
 description: |
   Builds immersive web experiences using WebXR Device API, Three.js, and WebGPU; ensures performance, security, and progressive fallback on non-XR browsers.

@@ -72,15 +72,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Aerospace industry (NAICS 3364): approximately 500,000 workers (BLS QCEW 2024). Aerospace Engineers (17-2011): 68,440 (BLS OES May 2024). Aircraft and Avionics Equipment Mechanics and Technicians (49-3011): ~168,000. Space industry-specific workforce (SpaceX, ULA, Blue Origin, satellite operators, ground systems): approximately 200,000–250,000 (Space Foundation 2024 Space Economy Report estimate). Commercial space sector growing at approximately 5–7% annually.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Aerospace engineers: +4% / +2,700 jobs 2024–2034. Aircraft mechanics and technicians: +6% / +10,000 jobs. Commercial space segment growing faster than defense aerospace. Small satellite (SmallSat) design and operations: one of the fastest-growing aerospace sub-segments (BryceTech: record 2,877 SmallSats launched in 2023). Cislunar, on-orbit servicing, and space weather analytics roles: emerging; no distinct BLS projections; workforce demand driven by NASA Artemis program and commercial lunar logistics.
+
+**Median Annual Wage:** $141,180 (Aerospace Engineers, BLS OES May 2024); $167,740 (Architectural and Engineering Managers — relevant for program managers, BLS OES May 2024); $75,730 (Aerospace Engineering and Operations Technologists, BLS OES May 2024); ~$130,000+ (Satellite Mission Operations Engineers, estimated from comparable systems engineering roles).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 17-2011.00 — Aerospace Engineers
+- 49-3011.00 — Aircraft Mechanics and Service Technicians
+- 17-2199.04 — Nanosystems Engineers (CubeSat/SmallSat)
+- 15-1241.00 — Computer Network Architects (ground segment, satellite communications)
+- 19-2012.00 — Physicists (space weather analytics, quantum sensing)
+- 11-9041.00 — Architectural and Engineering Managers (mission program management)
+- 23-1011.00 — Lawyers (space law, spectrum regulatory policy)
+- 13-2051.00 — Financial and Investment Analysts (space sector finance and investment)
+
+**Common Entry-Level Titles:** Mission Operations Analyst, Ground Systems Engineer (entry), Satellite Data Analyst, Launch Range Safety Officer Trainee, Space Systems Engineer I
+
+**Common Mid-Career / Senior Titles:** Satellite Mission Director, Spacecraft Systems Engineer, On-Orbit Servicing Engineer, Space Law Attorney, Commercial Space Finance Specialist, Cislunar Navigation Engineer
+
+**Emerging / watch_2030 Roles:** Cislunar Navigation & Operations Specialist, In-Space Propellant Depot Manager, Space-Weather Forecasting & Analytics Engineer
+
+**CSRA Employment Density:** Fort Gordon hosts U.S. Army Space and Missile Defense Command (SMDC) forward elements and signal/satellite communications infrastructure. Defense contractors (L3 Technologies, Leidos, KEYW Group/Jacobs) maintain Augusta-area space and satellite communications programs. ARL (Army Research Lab) has space-adjacent research programs. Estimated 800–2,000 aerospace/space workers in Augusta MSA (predominantly defense/government). Georgia statewide aerospace: ~30,000–35,000 workers (BLS QCEW 2024; Lockheed, Gulfstream, and Boeing dominate the state total in Marietta and Savannah).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

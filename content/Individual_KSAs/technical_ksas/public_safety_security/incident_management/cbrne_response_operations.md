@@ -6,7 +6,7 @@ sector: public_safety_security
 horizon: emerging
 cluster_tags:
   - "CBRNE"
-  - "HazMat"
+  - "Hazmat"
 description: >
   Conducts Chemical-Biological-Radiological-Nuclear-Explosive (CBRNE) incident
   operations per NFPA 472/1072 and FEMA HAZMAT Technician competencies,

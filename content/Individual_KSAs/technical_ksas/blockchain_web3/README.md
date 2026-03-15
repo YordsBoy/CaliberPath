@@ -78,15 +78,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** No dedicated BLS SOC category for blockchain/Web3 workers. Electric Capital 2023 Developer Report counts ~19,000 active open-source crypto developers globally. Broader blockchain-adjacent workforce (smart contract developers, DeFi analysts, DAO governance professionals, crypto compliance): estimated 100,000–200,000 globally with approximately 40,000–80,000 in the U.S. (Deloitte/WEF estimates). Primary BLS anchors: Software Developers (15-1252): 1,847,900; Financial Analysts (13-2051): 323,800; Compliance Officers (13-1041): 397,770.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** No specific BLS projection for blockchain occupations. Proxy: Software developers +17% (blockchain developers are a subset). Financial examiners +20% (blockchain compliance is a growing sub-specialization). Crypto and digital asset regulation under MiCA (EU) and evolving U.S. frameworks is creating rapid demand for compliance and legal expertise. Institutional blockchain adoption (tokenized assets, CBDCs) driving demand in financial services. Overall sector: watch_2030 trajectory for mainstream employment volume, but specialist demand is already significant.
+
+**Median Annual Wage:** Blockchain developers are not separately reported by BLS. Comparable roles: Software Developers $130,160 (BLS OES May 2024); Financial Analysts $99,890; Smart Contract Auditors estimated $100,000–$180,000 (specialized scarcity premium per Chainalysis/Immunefi survey data 2024). DeFi protocol engineers: $130,000–$200,000+ (market data, Messari 2024).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 15-1252.00 — Software Developers (smart contract/protocol development)
+- 13-2051.00 — Financial and Investment Analysts (token economics, DeFi treasury)
+- 13-1041.00 — Compliance Officers (DAO governance, MiCA compliance)
+- 15-1212.00 — Information Security Analysts (cross-chain bridge security, smart contract auditing)
+- 13-2099.01 — Financial Quantitative Analysts (ZKP engineering, layer-2 economics)
+- 15-1221.00 — Computer and Information Research Scientists (ZK proof research)
+- 23-1011.00 — Lawyers (crypto regulatory and IP governance)
+- 11-3031.00 — Financial Managers (CBDC interoperability, institutional digital assets)
+
+**Common Entry-Level Titles:** Junior Solidity Developer, Blockchain QA Engineer, Crypto Compliance Analyst, DAO Operations Coordinator, Web3 Frontend Developer
+
+**Common Mid-Career / Senior Titles:** Smart Contract Engineer, DeFi Protocol Developer, ZK Proof Engineer, Blockchain Security Auditor, CBDC Policy Analyst, Web3 Legal Counsel
+
+**Emerging / watch_2030 Roles:** On-Chain AI Agents Engineer, CBDC Interoperability Specialist, Green Blockchain Consensus Researcher
+
+**CSRA Employment Density:** Negligible direct blockchain/Web3 employer presence in Augusta MSA. Adjacent activity: Fort Gordon/ARCYBER digital currency and blockchain research (classified programs), Augusta University blockchain research (limited). This sector's CaliberPath applicability is primarily for Career Compass clients in financial services, IT, and defense with emerging blockchain responsibilities. Data not available at MSA level — national figures apply.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

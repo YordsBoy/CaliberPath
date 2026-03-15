@@ -6,7 +6,7 @@ sector: government_public_admin
 horizon: core
 cluster_tags:
   - "Digital Services"
-  - "User Experience"
+  - "UX"
 description: >  
   Designs and manages online public service platforms (e.g. e-government portals, digital IDs, online license renewals);  
   improves citizen experience and access by implementing user-friendly, secure digital services and streamlining bureaucratic processes via automation.  

@@ -42,15 +42,31 @@ Artisan_Craft_Mastery · Creative_Enterprise_Monetization · Creative_Project_Ma
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Arts, Design, Entertainment, Sports, and Media Occupations (SOC 27-0000): approximately 1.9 million total (BLS OES May 2024), shared with the media_arts_entertainment sector. Heritage-specific anchors: Archivists (19-3091): 7,050; Curators (19-3092): 12,280; Museum Technicians and Conservators (19-3093): 13,070. Digital media and design anchors: Graphic Designers (27-1024): 213,440; Web and Digital Interface Designers (15-1255): ~200,000. Creative economy total (UNESCO/UNCTAD): 3.1% of global GDP; approximately 50 million jobs worldwide.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Archivists: +11% / +800 jobs 2024–2034 (driven by digital heritage archiving demand). Curators: +8%. Graphic designers: +3%. Web and digital interface designers: +8%. Fashion designers: approximately flat (-1%). Digital content creation roles within cultural industries: faster than average as museums, cultural organizations, and heritage institutions build digital engagement strategies. Immersive experience production (cultural XR): emerging growth sector.
+
+**Median Annual Wage:** $67,620 (Archivists, BLS OES May 2024); $70,060 (Curators, BLS OES May 2024); $57,350 (Graphic Designers, BLS OES May 2024); $92,220 (Web and Digital Interface Designers, BLS OES May 2024); $80,620 (Fashion Designers, BLS OES May 2024). Creative cultural industries mean annual wage: approximately $45,000–$65,000 depending on sub-segment.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 19-3091.00 — Archivists
+- 19-3092.00 — Curators
+- 27-1024.00 — Graphic Designers
+- 15-1255.00 — Web and Digital Interface Designers
+- 27-1022.00 — Fashion Designers
+- 27-3043.00 — Writers and Authors (cultural journalism, grant writing)
+- 11-1021.00 — General and Operations Managers (cultural enterprise management)
+- 27-2012.00 — Producers and Directors (cultural heritage documentary)
+
+**Common Entry-Level Titles:** Gallery Assistant, Digital Collections Assistant, Junior Designer, Cultural Program Coordinator, Heritage Education Coordinator, Cultural Entrepreneurship Associate
+
+**Common Mid-Career / Senior Titles:** Cultural Enterprise Director, Senior Archivist, Heritage Conservation Specialist, Digital Fashion Designer, Immersive Experience Producer, IP & Rights Manager
+
+**Emerging / watch_2030 Roles:** Digital Heritage Archiving Specialist, Immersive Experience Producer (cultural XR), Digital Asset Rights Manager
+
+**CSRA Employment Density:** Augusta's cultural sector includes: Morris Museum of Art, Lucy Craft Laney Museum of Black History, Boyhood Home of President Woodrow Wilson, Imperial Theatre, Sacred Heart Cultural Center, and Augusta Opera. The Augusta Art Council coordinates local cultural programming. Estimated 500–1,000 creative/cultural industry workers in Augusta MSA. Georgia statewide creative/cultural industries: ~35,000–45,000 (BLS OES 2024 estimate; Atlanta film/music industry dominates the state total).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

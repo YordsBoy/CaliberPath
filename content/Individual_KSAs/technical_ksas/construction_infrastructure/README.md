@@ -93,15 +93,31 @@ _Last updated: 17 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~8.3 million in Construction and Extraction Occupations (SOC 47-0000, BLS OES May 2024). Architecture and Engineering Occupations (SOC 17-0000): approximately 2.8 million. Construction industry total (NAICS 23): approximately 8.0 million wage and salary workers (BLS QCEW 2024). Key sub-groups: Construction laborers: 1.2M; Electricians: 805K; Plumbers, pipefitters, and steamfitters: 598K; Carpenters: 688K; Construction and building inspectors: 113K; Civil engineers: 357K.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Construction and extraction occupations group: faster than average 2024–2034; 649,300 openings per year (BLS OOH). Construction industry sector: approximately +4% driven by data center build-out (AI), renewable energy infrastructure, electric vehicle charging networks, and infrastructure repair (IIJA). Electricians: +11% / +88,000 jobs. Solar PV installers: +42% (fastest construction occupation). Wind turbine technicians: +60% (second fastest). Architecture and engineering group: faster than average; 186,500 openings/yr. Construction managers: +8% / +28,000 jobs.
+
+**Median Annual Wage:** $58,360 (Construction and Extraction Occupations group median, BLS OOH May 2024). $97,310 (Architecture and Engineering group median, BLS OOH May 2024). By key sub-group: Civil engineers: $101,540; Electricians: $64,900; Construction managers: $104,900; Plumbers: $63,350; Carpenters: $60,090; BIM managers/specialists: ~$75,000–$95,000 (estimated from related IT/engineering roles).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 11-9021.00 — Construction Managers
+- 17-2051.00 — Civil Engineers
+- 47-2111.00 — Electricians
+- 47-2152.00 — Plumbers, Pipefitters, and Steamfitters
+- 47-2031.00 — Carpenters
+- 47-4011.00 — Construction and Building Inspectors
+- 17-1011.00 — Architects, Except Landscape and Naval
+- 47-2073.00 — Operating Engineers and Other Construction Equipment Operators
+
+**Common Entry-Level Titles:** Apprentice Electrician, Carpentry Helper, Construction Laborer, Surveying Technician, CAD Drafter, Construction Inspector Trainee
+
+**Common Mid-Career / Senior Titles:** Project Superintendent, Civil Engineer, BIM Manager, Construction Manager, Structural Engineer, Licensed Electrician/Journeyman, Site Safety Manager
+
+**Emerging / watch_2030 Roles:** Digital Twin Operations Specialist (built assets), Off-Site Modular Construction Manager, Additive Manufacturing (3D Printing) Construction Technician
+
+**CSRA Employment Density:** Augusta's construction sector is active with Fort Gordon expansion projects, I-20/I-520 corridor commercial development, data center construction (Cyber District), and AU Health system facility growth. Residential construction in Columbia County is among the fastest-growing in Georgia. Estimated 12,000–16,000 construction workers in Augusta MSA. Georgia statewide construction: ~325,000+ workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

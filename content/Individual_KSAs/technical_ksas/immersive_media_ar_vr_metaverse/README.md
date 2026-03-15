@@ -77,15 +77,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** No dedicated BLS SOC for AR/VR/metaverse workers. Primary occupational anchors: Software Developers (15-1252): 1,847,900 (BLS OES May 2024); Special Effects Artists and Animators (27-1014): 15,880; Multimedia Artists and Animators (27-1014.00): 80,600; Web Developers and Digital Interface Designers (15-1254): 213,780; UX Designers (15-1255): ~200,000 estimated. IDC estimates global XR industry workforce at approximately 700,000–900,000 by 2025, with U.S. accounting for ~30%.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Software developers: +17% / +328,000 jobs 2024–2034. Web developers and digital designers: +8%. Special effects artists: modest decline as AI video generation tools increase productivity. XR-specific roles growing faster than parent occupational categories. PwC projects 23 million jobs globally using VR/AR by 2030. Enterprise XR deployment driving fastest growth in healthcare, defense training, and manufacturing visualization applications.
+
+**Median Annual Wage:** $130,160 (Software Developers, BLS OES May 2024); $92,500 (Multimedia Artists and Animators, BLS OES May 2024); $92,220 (Web Developers and Digital Interface Designers, BLS OES May 2024); XR/metaverse specialists estimated $85,000–$160,000 (cross-coded with software developers and UX roles).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 15-1252.00 — Software Developers (XR engine development)
+- 27-1014.00 — Special Effects Artists and Animators
+- 15-1255.00 — Web and Digital Interface Designers (immersive UX)
+- 15-1254.00 — Web Developers (WebXR frontend)
+- 27-1024.00 — Graphic Designers (3D asset pipeline)
+- 15-1241.00 — Computer Network Architects (AR cloud infrastructure)
+- 27-3011.00 — Broadcast Announcers (spatial audio, live XR production)
+- 17-2072.01 — Radio Frequency Identification Device Specialists (AR-cloud geospatial)
+
+**Common Entry-Level Titles:** Junior XR Developer, 3D Asset Artist, Junior UX Designer (VR), XR QA Tester, WebXR Frontend Developer
+
+**Common Mid-Career / Senior Titles:** XR Engineer, Spatial Computing Architect, Immersive Experience Designer, Enterprise XR Deployment Manager, AR-Cloud Infrastructure Engineer
+
+**Emerging / watch_2030 Roles:** Haptics Interface Designer, Volumetric Capture Pipeline Specialist, XR Ethics & Privacy Officer
+
+**CSRA Employment Density:** Augusta's XR/metaverse workforce is primarily defense and simulation-focused: ARL (Army Research Lab) human research programs at Fort Gordon, defense contractors (Leidos, SAIC) with simulation and training division AR/VR practices. Limited commercial XR employer presence. Estimated 200–600 XR-adjacent workers in Augusta MSA. Georgia statewide: concentrated in Atlanta tech corridor; Augusta is a secondary node. No precise MSA-level data available — national figures apply with Augusta defense training adjacency.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

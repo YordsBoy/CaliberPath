@@ -61,15 +61,31 @@
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Retail trade industry (NAICS 44-45): approximately 15.7 million workers (BLS QCEW 2024). Wholesale trade industry (NAICS 42): approximately 6.1 million workers (BLS QCEW 2024). Sales and Related Occupations (SOC 41-0000): approximately 13.8 million. Key sub-groups: Retail salespersons: ~4.0M; Cashiers: ~3.0M; First-line supervisors of retail workers: ~1.3M; Customer service representatives: 2.8M; Wholesale and manufacturing sales representatives: ~1.5M.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Retail trade industry: -1.2% 2024–2034 (one of four sectors projected to lose jobs). Automation, consolidation, and e-commerce are expected to continue reducing in-store sales roles. Retail salespersons: modest decline. E-commerce and omnichannel roles: growth, driven by same sectors contributing to transportation/warehousing gains. Wholesale trade: approximately flat (+0.5%). Retail data analytics and omnichannel operations roles: faster than average growth. First-line supervisors: approximately average (+3%).
+
+**Median Annual Wage:** $36,680 (Retail Salespersons, BLS OES May 2024); $43,520 (First-line Supervisors of Retail Workers, BLS OES May 2024); $80,920 (Wholesale and Manufacturing Sales Representatives — technical products, BLS OES May 2024); ~$63,000–$80,000 (Retail Buyer/Merchandising roles, estimated from related management/business roles). Retail trade industry median annual wage (all workers): approximately $32,000–$36,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 41-2031.00 — Retail Salespersons
+- 41-1011.00 — First-Line Supervisors of Retail Sales Workers
+- 41-4012.00 — Sales Representatives, Wholesale and Manufacturing (technical)
+- 41-9031.00 — Sales Engineers
+- 13-1022.00 — Wholesale and Retail Buyers, Except Farm Products
+- 43-4151.00 — Order Clerks (omnichannel order management)
+- 43-5081.04 — Order Fillers, Wholesale and Retail Sales (e-commerce fulfillment)
+- 11-2021.00 — Marketing Managers (retail digital marketing)
+
+**Common Entry-Level Titles:** Retail Sales Associate, Stock Associate, Cashier, Customer Service Representative, Assistant Buyer, E-Commerce Coordinator
+
+**Common Mid-Career / Senior Titles:** Store Manager, Merchandise Planner, Regional Buyer, Omnichannel Operations Manager, Director of E-Commerce, Wholesale Account Manager, Retail Analytics Manager
+
+**Emerging / watch_2030 Roles:** Retail Media Network Specialist, Unified Commerce Platform Manager, Sustainable Circular Sourcing Specialist
+
+**CSRA Employment Density:** Augusta's retail sector includes major anchors: Augusta Mall, Bobby Jones Expressway corridor retail, Columbia County town centers. Major employers: Target, Costco, Home Depot, Publix, Walmart. Augusta's rapidly growing Columbia County is a primary retail market. Estimated 22,000–28,000 retail and wholesale trade workers in Augusta MSA. Georgia statewide retail trade: ~550,000+ workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

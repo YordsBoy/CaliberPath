@@ -80,7 +80,7 @@
     "sector": "cross_sector",
     "horizon": "perennial",
     "cluster_tags": [
-      "Well-Being",
+      "Well-being",
       "Stress Tolerance"
     ],
     "description": "Maintains performance and a positive outlook when faced with adversity, stress, or rapid change.\n",
@@ -3976,7 +3976,7 @@
     "sector": "real_estate_property",
     "horizon": "emerging",
     "cluster_tags": [
-      "Cyber Security",
+      "Cybersecurity",
       "Building Systems"
     ],
     "description": "Secures BAS, IoT, and tenant technologies by applying NIST SP 800-82 OT security guidance, ISA/IEC 62443 network segmentation, and real estate cybersecurity consortium frameworks (e.g., RECC guidelines).\n",
@@ -4680,7 +4680,7 @@
     "horizon": "emerging",
     "cluster_tags": [
       "CBRNE",
-      "HazMat"
+      "Hazmat"
     ],
     "description": "Conducts Chemical-Biological-Radiological-Nuclear-Explosive (CBRNE) incident operations per NFPA 472/1072 and FEMA HAZMAT Technician competencies, including PPE selection, metering, mass-decon, and hot-zone command.\n",
     "source_frameworks": [
@@ -5145,7 +5145,7 @@
     "sector": "professional_scientific_services",
     "horizon": "core",
     "cluster_tags": [
-      "Earned Value",
+      "EVM",
       "Project Controls"
     ],
     "description": "Implementing Earned Value Management (EVM) per ANSI/EIA-748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.",
@@ -10695,7 +10695,7 @@
     "sector": "maker_economy_creative_crafts",
     "horizon": "core",
     "cluster_tags": [
-      "E-commerce",
+      "E-Commerce",
       "Craft"
     ],
     "description": "Sells handmade products or DIY creations through online marketplaces and social media; handles product photography, listings (e.g. on Etsy), pricing, shipping logistics, and customer communications to successfully monetize crafts in the digital marketplace.  \n",
@@ -11619,7 +11619,7 @@
     "sector": "immersive_media_ar_vr_metaverse",
     "horizon": "emerging",
     "cluster_tags": [
-      "WebXR",
+      "Web XR",
       "Frontend"
     ],
     "description": "Builds immersive web experiences using WebXR Device API, Three.js, and WebGPU; ensures performance, security, and progressive fallback on non-XR browsers.\n",
@@ -13553,7 +13553,7 @@
     "sector": "healthcare_social_assistance",
     "horizon": "emerging",
     "cluster_tags": [
-      "Artificial Intelligence",
+      "AI",
       "Clinical Decision Support"
     ],
     "description": "Evaluates, integrates, and monitors machine-learning and large-language-model tools for diagnostics, triage, and workflow automation; addresses bias, safety, and FDA Software-as-Medical-Device (SaMD) guidance.\n",
@@ -14514,7 +14514,7 @@
     "horizon": "core",
     "cluster_tags": [
       "Digital Services",
-      "User Experience"
+      "UX"
     ],
     "description": "Designs and manages online public service platforms (e.g. e-government portals, digital IDs, online license renewals);   improves citizen experience and access by implementing user-friendly, secure digital services and streamlining bureaucratic processes via automation.  \n",
     "source_frameworks": [
@@ -15204,7 +15204,7 @@
     "sector": "finance_insurance",
     "horizon": "emerging",
     "cluster_tags": [
-      "FinTech",
+      "Fintech",
       "APIs"
     ],
     "description": "Implements and manages secure Open Banking APIs to enable data sharing and third-party fintech integrations;   ensures compliance with regulations (e.g. PSD2) and maintains customer data privacy and consent frameworks in API usage.  \n",
@@ -17788,7 +17788,7 @@
     "horizon": "emerging",
     "cluster_tags": [
       "Digital Citizenship",
-      "Well-Being"
+      "Well-being"
     ],
     "description": "Teaches students to navigate cyberbullying, screen-time balance, data privacy, and mental health online using Common Sense Education digital-citizenship curriculum and American Psychological Association (APA) guidelines.\n",
     "source_frameworks": [
@@ -17825,7 +17825,7 @@
     "sector": "education_training",
     "horizon": "emerging",
     "cluster_tags": [
-      "Artificial Intelligence",
+      "AI",
       "Pedagogy"
     ],
     "description": "Integrates artificial-intelligence (AI) tools—adaptive tutors, generative content engines—into instruction while upholding UNESCO’s AI Competency Framework for Teachers ethics, transparency, and human-agency principles.\n",

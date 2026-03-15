@@ -63,15 +63,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** No dedicated BLS SOC for the creator economy as a whole. Primary occupational anchors: Web Developers (15-1254): 213,780; Writers and Authors (27-3043): 168,310; Photographers (27-4021): 51,230; Film and Video Editors (27-4032): 28,860; Producers and Directors (27-2012): 187,380; Public Relations Specialists (27-3031): 243,950; Advertising Sales Agents (41-3011): 137,210. Creator economy total: Goldman Sachs estimates ~50 million people worldwide consider themselves creators; approximately 200 million globally participate in some form. U.S. full-time creators: approximately 3–4 million (IAB/Patreon data, 2024).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Web developers: +8%. Writers and authors: -4% (AI-assisted content generation reducing some demand). Producers and directors: +11%. Esports/digital media production: growing faster than traditional media. AI-assisted content generation: most rapidly growing sub-segment — McKinsey 2024 reports 55% of creators already using AI in workflows. Creator economy revenue overall: 23% CAGR projected through 2033.
+
+**Median Annual Wage:** $92,220 (Web Developers, BLS OES May 2024); $73,370 (Writers and Authors, BLS OES May 2024); $83,530 (Film and Video Editors, BLS OES May 2024); $79,280 (Producers and Directors, BLS OES May 2024); $55,650 (Photographers, BLS OES May 2024). Self-employed creators: median annual creator revenue approximately $40,000–$60,000 per IAB/NeoReach 2024 data; high variance (top 1% earn $1M+).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 15-1254.00 — Web Developers and Digital Interface Designers
+- 27-3043.00 — Writers and Authors
+- 27-4032.00 — Film and Video Editors
+- 27-2012.00 — Producers and Directors
+- 27-4021.00 — Photographers
+- 27-3031.00 — Public Relations Specialists
+- 41-3011.00 — Advertising Sales Agents (brand partnerships)
+- 27-1024.00 — Graphic Designers
+
+**Common Entry-Level Titles:** Content Creator (independent), Video Editor, Social Media Coordinator, Junior Producer, Brand Partnership Assistant, Esports Coordinator
+
+**Common Mid-Career / Senior Titles:** Senior Content Strategist, Creative Director, YouTube/Podcast Executive Producer, Esports Event Producer, Brand Partnerships Manager, Creator Economy Business Manager
+
+**Emerging / watch_2030 Roles:** AI-Assisted Content Generation Specialist, Esports Anti-Cheat Compliance Officer, Short-Form Video Algorithm Specialist
+
+**CSRA Employment Density:** Augusta's creator economy workforce is small but growing: Masters Tournament media production demands significant video/audio production talent annually. Augusta University's communications/media programs produce local talent. Limited platform-based creator presence. Estimated 500–1,200 digital content/creator economy workers in Augusta MSA. No precise MSA-level BLS data available for this sector — national figures apply.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

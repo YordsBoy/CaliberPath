@@ -46,15 +46,31 @@ Community_Event_Planning · Digital_Content_Creation_Tools · Esports_Event_Coor
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Recreation Workers (39-9032): 430,580 (BLS OES May 2024). Arts, entertainment, and recreation industry (NAICS 71): approximately 2.5 million workers (BLS QCEW 2024). Exercise Trainers and Group Fitness Instructors (39-9031): 613,260. Recreation and Fitness Workers combined: approximately 1.0 million. Additional anchors: Stage production and live events: Audio and video technicians (70,080); Lighting technicians (10,130); Stage production managers (~35,000 estimated cross-coded).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Arts, entertainment, and recreation sector: +6.4% 2024–2034. Exercise trainers and group fitness instructors: +11.9% / +72,900 jobs (faster than average). Coaches and scouts: +6.4%. Recreation workers: approximately +5%. Esports coordination: rapidly growing with no distinct BLS code. Virtual event management: faster-than-average growth. NRPA data indicates agencies tracking social-impact metrics secure 26% more grant funding, driving demand for recreation outcome measurement specialists.
+
+**Median Annual Wage:** $35,870 (Recreation Workers, BLS OES May 2024); $47,700 (Exercise Trainers and Group Fitness Instructors, BLS OES May 2024); $64,710 (Audio and Video Technicians, BLS OES May 2024); $70,000 (Lighting Technicians, BLS OES May 2024). Arts, entertainment, and recreation industry mean annual wage: approximately $41,000–$48,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 39-9032.00 — Recreation Workers
+- 39-9031.00 — Exercise Trainers and Group Fitness Instructors
+- 27-2022.00 — Coaches and Scouts (including esports coaches)
+- 27-3011.00 — Broadcast Announcers and Radio DJs (esports event hosting)
+- 27-4011.00 — Audio and Video Technicians (stage production)
+- 27-4015.00 — Lighting Designers and Technicians (live events)
+- 39-1022.00 — First-Line Supervisors of Personal Service Workers (recreation program supervisors)
+- 11-9199.02 — Compliance Managers (recreation facility safety/accreditation)
+
+**Common Entry-Level Titles:** Recreation Program Coordinator, Fitness Instructor, Stage Crew/Run Crew, Outdoor Recreation Guide, Community Event Planner, Esports Event Staff
+
+**Common Mid-Career / Senior Titles:** Recreation Program Director, Head Fitness Coach, Stage Production Manager, Outdoor Recreation Manager, Esports Tournament Organizer, Arts Program Manager
+
+**Emerging / watch_2030 Roles:** Esports Event Coordinator, Virtual Event Manager, Recreation Outcome Measurement Specialist
+
+**CSRA Employment Density:** Augusta's recreation sector is anchored by: Augusta GreenJackets (minor league baseball), Augusta Aquatics (competitive swimming), Richmond County parks system, Fort Gordon MWR (Morale, Welfare, and Recreation) programs, Augusta University athletics, and major events (Masters Tournament, IRONMAN Augusta, Augusta Futurity). Estimated 3,000–5,000 arts/recreation/services workers in Augusta MSA. Georgia statewide arts/entertainment/recreation: ~115,000–130,000 workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

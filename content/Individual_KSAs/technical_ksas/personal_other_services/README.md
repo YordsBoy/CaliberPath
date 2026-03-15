@@ -50,15 +50,31 @@ Appointment_Scheduling_Management · Chemical_Service_Safety · Client_Consultat
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Personal Care and Service Occupations (SOC 39-0000): ~3.7 million (BLS OES May 2024). Other services industry (NAICS 81 — personal services, repair, religious): approximately 8.4 million workers (BLS QCEW 2024). Key sub-groups: Hairdressers, hairstylists, and cosmetologists: 635,150; Barbers: 156,930; Skincare specialists: 91,350; Childcare workers: 520,180; Recreation and fitness workers: 613,260; Manicurists and pedicurists: 144,510; Massage therapists: 161,210.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Personal care and service occupations group: approximately +6% 2024–2034. Exercise trainers and group fitness instructors: +12% / +37,000 jobs. Skincare specialists: +11%. Massage therapists: +15%. Hairdressers and cosmetologists: approximately flat (licensed workforce relatively stable; self-employment dominant). Mobile and in-home personal services: growing faster than in-salon equivalents. Digital booking and client management platform adoption is restructuring the sector toward independent contractor models.
+
+**Median Annual Wage:** ~$37,060 (Personal Care and Service group median, BLS OOH May 2024). By sub-group: Hairdressers/cosmetologists: $35,420; Barbers: $36,850; Massage therapists: $54,330; Skincare specialists: $44,340; Exercise trainers: $47,700; Childcare workers: $33,140. Self-employed personal care workers median income varies widely ($25,000–$70,000+ depending on clientele and business development).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 39-5012.00 — Hairdressers, Hairstylists, and Cosmetologists
+- 39-5011.00 — Barbers
+- 39-5094.00 — Skincare Specialists
+- 39-1013.00 — First-Line Supervisors of Gambling Services Workers (analogous for service management)
+- 39-9031.00 — Exercise Trainers and Group Fitness Instructors
+- 39-1022.00 — First-Line Supervisors of Personal Service Workers
+- 39-5092.00 — Manicurists and Pedicurists
+- 31-9011.00 — Massage Therapists
+
+**Common Entry-Level Titles:** Licensed Cosmetologist, Barber, Esthetician (entry), Personal Trainer (entry), Nail Technician, Mobile Service Technician
+
+**Common Mid-Career / Senior Titles:** Salon Manager, Studio Owner, Master Esthetician, Lead Personal Trainer, Spa Director, Mobile Services Business Owner
+
+**Emerging / watch_2030 Roles:** Digital Client Management Specialist, Sustainable Product Sourcing Coordinator, Mental Health & Boundaries Specialist (professional service wellness)
+
+**CSRA Employment Density:** Personal services are distributed across the Augusta MSA in salons, spas, fitness studios, and mobile service businesses. Columbia County's growing residential population supports strong demand for personal care services. Estimated 5,000–8,000 personal care and service workers in Augusta MSA. Georgia statewide personal care and service occupations: ~160,000+ (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

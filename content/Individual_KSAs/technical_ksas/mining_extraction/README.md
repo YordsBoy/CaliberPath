@@ -64,15 +64,31 @@
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Mining, quarrying, and oil and gas extraction industry (NAICS 21): approximately 630,000 workers (BLS QCEW 2024). Mining occupations (47-5000 + 47-4000): approximately 180,000. Oil and gas extraction workers (47-5051 et al.): approximately 135,000. Additional anchors: Mining engineers (17-2151): ~7,500; Petroleum engineers (17-2171): ~35,000; Geoscientists and Geologists (19-2042): ~33,000. Total mining, quarrying, oil and gas workforce: approximately 630,000 wage and salary workers plus approximately 200,000 self-employed contractors.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Mining, quarrying, and oil and gas extraction industry: -1.6% 2024–2034 (one of four sectors projected to lose jobs). Productivity gains through robotics, drones, and automated extraction equipment limiting employment growth despite stable production. Petroleum engineers: approximately flat (+2%). Mining engineers: +4%. Environmental monitoring roles within mining: faster-than-average growth driven by EPA and MSHA compliance expansion. Oil and gas extraction: modest decline as energy transition accelerates. Critical minerals mining (lithium, cobalt, rare earth elements): growing sub-sector driven by EV battery supply chain demands.
+
+**Median Annual Wage:** $66,760 (Mining and Geological Engineers, BLS OES May 2024); $132,780 (Petroleum Engineers, BLS OES May 2024); $89,300 (Geoscientists and Hydrologists, BLS OES May 2024); $63,200 (Surface Mining Machine Operators, BLS OES May 2024); $58,200 (Underground Mining Machine Operators, BLS OES May 2024). Mining industry mean annual wage: approximately $65,000–$75,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 17-2151.00 — Mining and Geological Engineers, Including Mining Safety Engineers
+- 17-2171.00 — Petroleum Engineers
+- 19-2042.00 — Geoscientists, Except Hydrologists and Geographers
+- 47-5041.00 — Continuous Mining Machine Operators
+- 47-5011.00 — Derrick Operators, Oil and Gas
+- 47-5013.00 — Service Unit Operators, Oil and Gas
+- 47-5081.00 — Helpers — Extraction Workers
+- 11-3051.00 — Industrial Production Managers (mine/well site management)
+
+**Common Entry-Level Titles:** Mining Technician, Geological Survey Technician, Oil Field Service Worker, Underground Miner (apprentice), Mine Safety Inspector Trainee
+
+**Common Mid-Career / Senior Titles:** Mine Engineer, Petroleum Geologist, Operations Geologist, Mine Safety Manager, Site Rehabilitation Specialist, Environmental Monitoring Coordinator, Drilling Supervisor
+
+**Emerging / watch_2030 Roles:** Critical Minerals Mining Specialist (lithium, cobalt, rare earths for EV batteries), Mining Automation Systems Operator, Mine Site Rehabilitation & Environmental Monitoring Specialist
+
+**CSRA Employment Density:** Minimal direct mining or extraction industry presence in Augusta-Richmond County MSA. Adjacent activity: Kaolin clay mining in the Middle Georgia region (Sandersville, Washington County) — a significant Georgia industry approximately 90 miles west of Augusta. Georgia ranks among the top U.S. producers of kaolin clay. Some oil/gas pipeline operations pass through the CSRA corridor. For Augusta MSA: Data not available at MSA level — national and Georgia statewide figures apply. Georgia statewide mining/extraction: ~12,000–15,000 workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

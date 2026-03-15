@@ -5,7 +5,7 @@ category: Universal Professional
 sector: cross_sector
 horizon: perennial
 cluster_tags:
-  - "Well-Being"
+  - "Well-being"
   - "Stress Tolerance"
 description: >
   Maintains performance and a positive outlook when faced with adversity, stress, or rapid change.

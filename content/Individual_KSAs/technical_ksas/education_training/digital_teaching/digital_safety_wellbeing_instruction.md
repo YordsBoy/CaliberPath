@@ -6,7 +6,7 @@ sector: education_training
 horizon: emerging
 cluster_tags:
   - "Digital Citizenship"
-  - "Well-Being"
+  - "Well-being"
 description: >
   Teaches students to navigate cyberbullying, screen-time balance, data privacy, and mental health online using Common Sense Education digital-citizenship curriculum and American Psychological Association (APA) guidelines.
 source_frameworks:

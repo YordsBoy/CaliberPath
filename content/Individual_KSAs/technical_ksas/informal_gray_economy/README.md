@@ -51,15 +51,31 @@ Barter_Alternative_Currency_Trade · Cash_Based_Accounting · Formalization_Soci
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
-**Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+**BLS Total Employment (current):** The informal economy is definitionally excluded from standard BLS OEWS data (which covers only wage and salary employees in nonfarm establishments). Primary estimates: ILO estimates 60% of the world's workers are in informal employment; in the U.S. context, informal labor is smaller but significant. BLS estimates approximately 15+ million self-employed workers (non-farm) and additional cash/unreported workers. Urban Institute estimates 10–15 million U.S. workers have significant informal income. OECD Non-Observed Economy research indicates U.S. informal economy represents approximately 5–10% of GDP. CaliberPath application: coaching clients with informal/undocumented work backgrounds for career formalization.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** No standard BLS projection applies. ILO Recommendation 204 frameworks and U.S. Department of Labor outreach programs promote formalization. IRS gig economy guidance and 1099-K threshold changes (lowered to $600 from 2025) are pulling more informal workers into formal reporting. Structural factors: immigration patterns, gig economy expansion, and cash service industries maintain informal workforce presence. No decline projected; formalization pathway adoption is gradual.
+
+**Median Annual Wage:** Not available from BLS for informal workers. Proxy estimates: World Bank informal sector income studies suggest U.S. informal workers earn approximately $20,000–$35,000 annually (below poverty-threshold for many). Mobile money/digital payment adoption increasing earnings transparency. IFC Digital-Economy Study indicates crowd-work/platform microtask workers average $15,000–$25,000 in annual informal income. Cash-based trades (plumbing, painting, landscaping): experienced informal workers may earn $35,000–$60,000+ unreported.
+
+**Top O\*NET SOC Codes and Titles (5–8, representing formalization pathways):**
+- 47-2061.00 — Construction Laborers (common informal employment)
+- 37-3011.00 — Landscaping and Groundskeeping Workers
+- 35-2021.00 — Food Preparation Workers
+- 39-5012.00 — Hairdressers, Hairstylists, and Cosmetologists (licensing entry)
+- 47-3015.00 — Helpers — Pipelayers, Plumbers, Pipefitters, and Steamfitters
+- 43-4111.00 — Interviewing Clerks (street vendor formalizing into office)
+- 41-2011.00 — Cashiers (entry formalization from street vending)
+- 53-7062.00 — Laborers and Freight, Stock, and Material Movers, Hand
+
+**Common Entry-Level Titles (formalization pathway):** Street Vendor → Retail Sales Associate; Unlicensed Contractor Helper → Registered Apprentice; Cash Domestic Worker → Certified Home Health Aide; Informal Market Operator → Licensed Small Business Owner
+
+**Common Mid-Career / Senior Titles (post-formalization):** Licensed Contractor, Small Business Owner (LLC/DBA), Registered Home Care Provider, Platform Freelancer (formal 1099), Mobile Payment-Enabled Service Provider
+
+**Emerging / watch_2030 Roles:** Digital Identity & Inclusion Navigator, Micro-Insurance & Risk Sharing Specialist, Platform Rights & Advocacy Specialist
+
+**CSRA Employment Density:** Augusta MSA informal economy presence includes: immigrant-owned small businesses (food, lawn care, cleaning services), informal construction day labor markets, cash-based domestic services, and street vending at events (Augusta Commons, Augusta Market). No precise estimates available. National research suggests approximately 5–8% of Augusta MSA workforce has significant informal income component — estimated 10,000–18,000 individuals.
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

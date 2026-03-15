@@ -43,15 +43,31 @@ Assistive_Technology_Use_Home · Remote_Monitoring_Telecare · Basic_Home_Health
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** This sector addresses primarily unpaid caregiving — a population not captured in standard BLS employment surveys (which exclude household workers and unpaid family caregivers). The closest paid-employment anchors: Home Health and Personal Care Aides (SOC 31-1120): approximately 3.4 million (BLS OES May 2024 — the largest single occupation in the U.S. economy). Childcare workers: 520,180 (paid). AARP Public Policy Institute estimates 53 million Americans provide unpaid care. PHI (Paraprofessional Healthcare Institute) estimates the paid direct care workforce at approximately 4.7 million when including nursing assistants, home health aides, and personal care aides.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Home health and personal care aides: +22% / +718,900 jobs 2024–2034 (projected to add the most jobs of any single occupation in the entire U.S. economy). Nursing assistants: +5%. Childcare workers: approximately flat to -1% (declining enrollment due to demographic trends). The paid care economy is the fastest-growing sector of all. However, this sector's KSAs primarily serve the unpaid caregiving population — individuals performing these roles at home without wages. Transferable competency development for career re-entry is the primary CaliberPath application.
+
+**Median Annual Wage:** $33,530 (Home Health and Personal Care Aides, BLS OES May 2024); $37,010 (Nursing Assistants, BLS OES May 2024); $33,140 (Childcare Workers, BLS OES May 2024). Unpaid caregiving carries no direct wage; market-equivalent value of unpaid elder and child care is estimated at $470 billion annually (AARP, 2019). Note: CaliberPath uses this sector primarily for competency recognition and career-re-entry coaching, not for workforce forecasting.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 31-1121.00 — Home Health Aides
+- 31-1122.00 — Personal Care Aides
+- 31-2012.00 — Occupational Therapy Aides
+- 39-9011.00 — Childcare Workers
+- 21-1093.00 — Social and Human Service Assistants
+- 31-9092.00 — Medical Assistants (transition-adjacent for caregivers)
+- 39-9021.00 — Nannies
+- 31-1131.00 — Nursing Assistants
+
+**Common Entry-Level Titles (for career re-entry from caregiving background):** Home Health Aide (paid/certified), Patient Care Technician, Childcare Worker, Community Health Worker, Medical Assistant Trainee
+
+**Common Mid-Career / Senior Titles (career re-entry trajectory):** Home Care Coordinator, Geriatric Care Manager, Social Work Case Manager, Early Childhood Program Director, Caregiver Support Specialist
+
+**Emerging / watch_2030 Roles:** Remote Monitoring & Telecare Coordinator, Assistive Technology Specialist, Respite Care Program Manager
+
+**CSRA Employment Density:** Augusta's healthcare ecosystem directly employs large numbers of paid caregivers: AU Health, University Hospital, Charlie Norwood VA, and numerous home health agencies. Unpaid caregivers in the CSRA support the significant elder population (Richmond and Columbia Counties have above-average median age). Estimated 4,000–6,000 paid home health and personal care workers in Augusta MSA; unpaid caregiver population significantly larger (~30,000–50,000 estimated from national rate of ~16% of adults). Georgia statewide home health aides: ~130,000+ (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
