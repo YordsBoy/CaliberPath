@@ -94,15 +94,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Data Scientists (15-2051): 245,900 (BLS 2024 base year). Mathematical Science Occupations (15-2000): 406,230 total (BLS OES May 2024), including data scientists (233,440), operations research analysts (107,760), statisticians (29,800), actuaries (28,340). AI/ML Engineers are not yet a distinct BLS SOC category — counted within Software Developers (15-1252) and Computer and Information Research Scientists (15-1221, ~23,000). Quantum computing workers: negligible current count; classified watch_2030 in this sector.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Data scientists: +34% / +82,400 jobs projected 2024–2034 (4th-fastest growing occupation in the economy, BLS 2025). Computer and information research scientists: +20% / ~+4,700 jobs. Operations research analysts: +21% / +22,700 jobs. AI/ML-adjacent software developers: +17%. All AI and data occupations benefit from growing demand for AI-based systems, data-driven decision-making, and cloud infrastructure expansion. Quantum computing: watch_2030 — no meaningful BLS projection available at this time.
+
+**Median Annual Wage:** $112,590 (Data Scientists, BLS OES May 2024); $140,910 (Computer and Information Research Scientists, BLS OES May 2024); $91,290 (Operations Research Analysts, BLS OES May 2024); $117,190 (Mathematical Science Occupations group median, BLS OES May 2024). AI/ML Engineers estimated $120,000–$150,000+ (comparable roles within 15-1252 and 15-1221 groups).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 15-2051.00 — Data Scientists
+- 15-2051.01 — Business Intelligence Analysts
+- 15-1221.00 — Computer and Information Research Scientists (AI/ML research)
+- 15-2031.00 — Operations Research Analysts
+- 15-2041.00 — Statisticians
+- 15-1256.00 — Machine Learning Engineers (emerging SOC classification)
+- 15-1212.00 — Information Security Analysts (AI security and red team operations)
+- 15-1299.04 — Penetration Testers (AI-enabled security testing)
+
+**Common Entry-Level Titles:** Data Analyst, Junior Data Scientist, ML Engineer I, Analytics Engineer, AI/ML Research Associate, Data Engineer (Entry)
+
+**Common Mid-Career / Senior Titles:** Senior Data Scientist, Principal ML Engineer, AI Platform Engineer, MLOps Engineer, AI Governance Analyst, Head of Data Science
+
+**Emerging / watch_2030 Roles:** AI Safety & Red Team Engineer, Federated Learning Architect, Quantum Algorithm Designer (watch_2030), Distributed Quantum-Cloud Orchestration Engineer (watch_2030)
+
+**CSRA Employment Density:** Augusta's AI/data workforce is primarily defense-contractor-based: SAIC, Leidos, MITRE, and Booz Allen Hamilton each maintain data analytics and AI practices supporting Fort Gordon/ARCYBER (~500–1,000 data/AI workers across contractors). Augusta University Health system has growing data analytics infrastructure. Estimated 800–1,500 data/AI professionals in Augusta MSA. Georgia statewide data scientists and mathematical science occupations: ~18,000–22,000 (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

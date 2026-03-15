@@ -66,15 +66,31 @@ _Last updated: February 2026_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** 8.7 million in Production Occupations (SOC 51-0000, BLS OES May 2024). Manufacturing industry (NAICS 31-33): approximately 13.2 million workers total (BLS QCEW 2024), including production workers, engineers, quality managers, supervisors, and supply chain roles. Largest production sub-groups: Miscellaneous assemblers and fabricators: 1.5 million; First-line supervisors of production workers: 685,140; Welders, cutters, solderers, and brazers: 424,040; Inspectors, testers, sorters, samplers, weighers: 591,180.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Manufacturing industry overall: approximately -0.5% to +1% (automation and productivity gains limiting employment growth despite rising output). Industrial machinery mechanics and maintenance workers: +8% / +22,000 jobs 2024–2034. Quality control inspectors: -6% (automated inspection). Industrial production managers: +4%. Additive manufacturing technicians: +15% (emerging sub-segment). Smart manufacturing/IIoT integration roles: faster than average. Manufacturing sector projected to lose approximately 100,000–150,000 jobs over decade, with gains concentrated in higher-skilled roles.
+
+**Median Annual Wage:** $50,090 (Production Occupations mean annual wage, BLS OES May 2024). By sub-group: First-line supervisors of production workers: $72,310; Industrial machinery mechanics: $60,760; Quality control inspectors: $46,760; CNC machine tool operators: $50,090; Welders: $50,270; Industrial engineers: $100,990 (engineering/management level). Manufacturing sector median annual wage (all workers): approximately $45,000–$52,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 51-1011.00 — First-Line Supervisors of Production and Operating Workers
+- 49-9071.00 — Maintenance and Repair Workers, General
+- 51-4011.00 — Computer-Controlled Machine Tool Operators, Metal and Plastic
+- 51-4121.00 — Welders, Cutters, Solderers, and Brazers
+- 51-9061.00 — Inspectors, Testers, Sorters, Samplers, and Weighers
+- 51-2041.00 — Structural Metal Fabricators and Fitters
+- 17-3026.00 — Industrial Engineering Technologists and Technicians
+- 11-3051.00 — Industrial Production Managers
+
+**Common Entry-Level Titles:** Machine Operator, Production Associate, Quality Inspector, Welder/Fabricator, Assembly Technician, Maintenance Technician I
+
+**Common Mid-Career / Senior Titles:** Production Supervisor, CNC Programmer, Quality Engineer, Lean/Six Sigma Black Belt, Industrial Engineer, Plant Manager, Supply Chain Coordinator
+
+**Emerging / watch_2030 Roles:** IIoT Systems Integration Specialist, Additive Manufacturing Technician (3D printing production), Predictive Maintenance Analyst (CMMS/sensor-based), Manufacturing Data Analyst (cloud_manufacturing_data)
+
+**CSRA Employment Density:** Kimberly-Clark (tissue manufacturing, ~1,500 workers), Club Car/Textron (golf and utility vehicles, ~2,000), John Deere (Grovetown facility, ~1,500), Coats & Clark (thread/yarn, ~400), Iron Tiger Transport, and supporting industrial suppliers. Estimated 14,000–18,000 manufacturing workers in Augusta MSA. Georgia statewide manufacturing: ~400,000+ workers (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

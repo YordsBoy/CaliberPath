@@ -69,15 +69,31 @@ _Last updated: 11 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Healthcare and Social Assistance sector: approximately 22 million workers (BLS QCEW 2024). Healthcare Practitioners and Technical Occupations (SOC 29-0000): 9,592,690 (BLS OES May 2024). Healthcare Support Occupations (SOC 31-0000): 7,448,010 (BLS OES May 2024). Community and Social Service (SOC 21-0000): ~1.9M. Medical and health services managers: 565,840. Home health and personal care aides: ~3.4M (largest single occupation in the economy).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Healthcare and social assistance industry sector: +8.4% / +2.0 million jobs 2024–2034 (fastest growing and largest absolute job growth of all 20 sectors, BLS). Healthcare practitioners and technical occupations group: +7.2% 2024–2034. Healthcare support group: +12.4% 2024–2034 (fastest growing of all 22 major occupational groups). Nurse practitioners: +40.1% (fastest growing healthcare occupation). Physician assistants: +28%. Medical and health services managers: +29%. Home health aides: largest absolute job gains in economy.
+
+**Median Annual Wage:** $83,090 (Healthcare Practitioners and Technical Occupations median, BLS OOH May 2024); $37,180 (Healthcare Support Occupations median, BLS OOH May 2024); $137,730 (Medical and Health Services Managers, BLS OES May 2024); $81,350 (Registered Nurses, BLS OES May 2024). Physician/surgeon groups: $230,000+ median.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 29-1141.00 — Registered Nurses
+- 11-9111.00 — Medical and Health Services Managers
+- 29-1071.00 — Physician Assistants
+- 31-1121.00 — Home Health Aides
+- 29-1051.00 — Pharmacists
+- 21-1022.00 — Healthcare Social Workers
+- 29-2010.00 — Clinical Laboratory Technologists and Technicians
+- 29-2055.00 — Surgical Technologists
+
+**Common Entry-Level Titles:** CNA / Certified Nursing Assistant, Medical Assistant, Patient Care Technician, Health Information Technician, Entry-Level RN, Lab Technician
+
+**Common Mid-Career / Senior Titles:** Charge Nurse, Clinical Nurse Specialist, Nurse Practitioner, Health Informatics Manager, Revenue Cycle Director, Director of Clinical Operations, Chief Nursing Officer
+
+**Emerging / watch_2030 Roles:** AI-Enabled Clinical Decision Support Analyst, Telehealth Service Coordinator, Value-Based Care Quality Analyst
+
+**CSRA Employment Density:** Augusta University Health (~7,000 employees); University Hospital Augusta (~2,500); Charlie Norwood VA Medical Center (~1,800); Doctors Hospital of Augusta (~1,200); Wellstar MCG Health; numerous outpatient and specialty clinics. Healthcare is Augusta's largest employment sector. Estimated 28,000–32,000 healthcare workers in Augusta MSA. Georgia statewide healthcare workers: ~530,000+ practitioners + 400,000+ support = ~930,000+ (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

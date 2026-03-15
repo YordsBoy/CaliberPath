@@ -43,15 +43,31 @@ Incident_Command_NIMS · Emergency_Communications_Interoperability · Crowd_Even
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** 3,654,910 total in Protective Service Occupations (SOC 33-0000, BLS OES May 2024). Breakdown: Law enforcement workers: 1,177,270; Firefighting and prevention: 349,070; Security guards and gambling surveillance: 1,163,280; Other protective service: ~965,000. ISC2 2024 Cybersecurity Workforce Study estimates a global workforce of 5.5 million cybersecurity workers, with ~1.1 million in the U.S. across public and private sectors.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Protective service occupations overall: +3–5% (approximately average). Information security analysts: +29% / +57,200 jobs projected 2024–2034 (BLS OOH). Community and social service occupations (crisis intervention, social work): +6.6% 2024–2034. Public Safety Data Analytics roles: faster than average, driven by GIS and predictive analytics adoption.
+
+**Median Annual Wage:** ~$50,580 (Protective Service Occupations median annual, calculated from $24.32/hr median x 2,080, BLS OES May 2024); Information Security Analysts: $124,910 (BLS OES May 2024); Police and Sheriff's Patrol Officers: ~$74,910 (BLS OES May 2024). Mean annual for full protective service group: $61,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 33-3051.00 — Police and Sheriff's Patrol Officers
+- 33-1012.00 — First-Line Supervisors of Police and Detectives
+- 15-1212.00 — Information Security Analysts (cyber forensics, digital incident response)
+- 33-2011.00 — Firefighters
+- 33-9021.00 — Private Detectives and Investigators
+- 33-3021.00 — Detectives and Criminal Investigators
+- 21-1092.00 — Probation Officers and Correctional Treatment Specialists
+- 33-9099.00 — Protective Service Workers, All Other (including threat assessment professionals)
+
+**Common Entry-Level Titles:** Patrol Officer, Security Analyst (Tier 1), Dispatcher, Firefighter/EMT, Crisis Intervention Specialist, Digital Forensics Technician
+
+**Common Mid-Career / Senior Titles:** Detective/Investigator, Cybersecurity Incident Responder, Emergency Management Coordinator, Critical Infrastructure Protection Specialist, Police Sergeant/Lieutenant
+
+**Emerging / watch_2030 Roles:** Counter-UAS Operations Specialist, Public Safety AI/Predictive Analytics Analyst, Trauma-Informed Crisis Response Coordinator
+
+**CSRA Employment Density:** Richmond County Sheriff's Office (~800 sworn officers), Augusta Fire Department (~600 firefighters/paramedics), Fort Gordon Military Police and Security Contractors, Georgia Cyber Center law enforcement training (~300+ personnel), U.S. Army Cyber Command contracted security professionals. Estimated 4,000–5,500 protective service workers in Augusta-Richmond County MSA. Georgia statewide protective service: ~235,000 (BLS OES 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

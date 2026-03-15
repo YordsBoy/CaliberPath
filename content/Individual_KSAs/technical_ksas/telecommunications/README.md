@@ -45,15 +45,31 @@ Advanced_5G_Networking · 5G_Core_Network_Operations_Slicing · Private_5G_Enter
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** Telecommunications industry (NAICS 517): approximately 1.38 million workers (BLS QCEW 2024). BLS occupational anchors within the sector: Telecommunications Equipment Installers and Repairers (49-2022): ~236,000; Radio and Telecommunications Equipment Installers (49-2021): ~47,000; Computer Network Architects (15-1241): ~165,000; Network and Computer Systems Administrators (15-1244): ~421,000. Management and IT occupations within telecom add additional hundreds of thousands.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Telecommunications industry overall: approximately -1% to +2% (core PSTN-based wireline declining; broadband, 5G, and cloud-native telecom growing). Computer Network Architects: +3% / +5,000 jobs 2024–2034. Telecom equipment installers: modest growth driven by fiber and 5G buildout (+5–8%). IT occupations within telecom (cloud, security, analytics): much faster than average. NTN/satellite ground segment roles: emerging growth area (watch_2030 adjacent).
+
+**Median Annual Wage:** Telecommunications Equipment Installers (49-2022): $64,450 (BLS OES May 2024); Computer Network Architects (15-1241): $130,580 (BLS OES May 2024); Network and Computer Systems Administrators (15-1244): $90,520 (BLS OES May 2024); Telecom industry median annual wage (all occupations): approximately $72,000–$78,000 (BLS OES industry-specific data, NAICS 517).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 15-1241.00 — Computer Network Architects
+- 49-2022.00 — Telecommunications Equipment Installers and Repairers, Except Line Installers
+- 15-1244.00 — Network and Computer Systems Administrators
+- 49-2021.00 — Radio, Cellular, and Tower Equipment Installers and Repairers
+- 15-1212.00 — Information Security Analysts (network security and MANO hardening)
+- 17-2071.00 — Electrical Engineers (5G/RF engineering)
+- 15-1232.00 — Computer User Support Specialists (telecom operations center)
+- 11-3021.00 — Computer and Information Systems Managers (telecom IT leadership)
+
+**Common Entry-Level Titles:** Fiber Technician, NOC Analyst (Tier 1), Tower Technician, Field Service Technician, Telecom Support Specialist, RF Technician
+
+**Common Mid-Career / Senior Titles:** 5G Network Engineer, RAN Optimization Engineer, Cloud Telecom Architect, NFV/MANO Security Engineer, Network Operations Manager, Telecom Cloud FinOps Analyst
+
+**Emerging / watch_2030 Roles:** Open RAN Security Integration Engineer, Network Digital Twin Planner, Non-Terrestrial Network (NTN/Satellite) Integration Specialist
+
+**CSRA Employment Density:** AT&T, Comcast/Xfinity, Spectrum (Charter), and T-Mobile have regional infrastructure and service operations in Augusta. Lumen Technologies maintains enterprise telecom infrastructure for Fort Gordon/defense clients. Estimated 1,200–2,000 telecom workers in Augusta-Richmond County MSA. Georgia statewide telecommunications: ~60,000–70,000 (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

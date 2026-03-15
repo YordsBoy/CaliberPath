@@ -93,15 +93,31 @@ _Last updated: 17 Oct 2025_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~5.6 million in Computer and Information Technology Occupations (SOC 15-0000, estimated from BLS OES May 2024). Largest sub-groups: Software developers and QA analysts (~2.0M); Computer systems analysts (~650K); Information security analysts (~180K); Computer and information systems managers (~900K); Network architects and administrators (~500K); Computer support specialists (~770K).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Overall computer and IT occupations: much faster than average 2024–2034; ~317,700 openings projected per year (BLS OOH). Key sub-group projections: Information security analysts: +29% / +57,200 jobs; Computer and information systems managers: +15% / +136,400 jobs; Computer systems analysts: +9%; Software developers: +17% / +327,300 jobs. Cloud-specific roles are fastest-growing sub-segment, driven by AI workload migration to cloud infrastructure.
+
+**Median Annual Wage:** $105,990 (Computer and IT Occupations group median, BLS OOH May 2024). By sub-group: Computer and information systems managers: $171,200; Information security analysts: $124,910; Cloud architects/network architects: ~$130,000–$145,000; Systems administrators: ~$90,520; IT support specialists: ~$60,000–$75,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 11-3021.00 — Computer and Information Systems Managers
+- 15-1211.00 — Computer Systems Analysts
+- 15-1212.00 — Information Security Analysts
+- 15-1241.00 — Computer Network Architects
+- 15-1244.00 — Network and Computer Systems Administrators
+- 15-1252.00 — Software Developers
+- 15-1232.00 — Computer User Support Specialists
+- 15-1231.00 — Computer Network Support Specialists
+
+**Common Entry-Level Titles:** IT Support Specialist (Tier 1/2), Cloud Support Associate, Junior Systems Administrator, DevOps Associate, Network Technician, Junior Security Analyst
+
+**Common Mid-Career / Senior Titles:** Cloud Architect, Site Reliability Engineer, DevOps Engineer, Senior Network Engineer, Cloud Security Engineer, IT Director, Principal Systems Engineer
+
+**Emerging / watch_2030 Roles:** FinOps Engineer (cloud cost optimization), Green Cloud Specialist (sustainability-optimized compute), Confidential Computing Engineer (privacy-preserving cloud workloads)
+
+**CSRA Employment Density:** Georgia Cyber Center (~300+ cybersecurity professionals and trainers), Fort Gordon GS civilians in IT/cyber roles (~3,000+), defense contractors (SAIC, Leidos, Booz Allen, ManTech) with Augusta presence (~4,000–6,000 IT/cyber workers combined), Augusta University IT staff (~400). Estimated 8,000–12,000 IT/cloud workers in Augusta MSA. Georgia statewide computer/IT occupations: ~250,000–280,000 (BLS OES 2024 estimate).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

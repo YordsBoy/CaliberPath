@@ -52,15 +52,31 @@ Advocacy_Campaign_Management · Board_Governance_Fiduciary_Duty · Cross_Sector_
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** BLS does not publish a direct "nonprofit" occupational category. Primary BLS anchors: Community and Social Service Occupations (SOC 21-0000): approximately 1.9 million workers. Social and community service managers (11-9151): 195,490. Fundraisers (13-1131): ~88,000. The broader nonprofit sector (NAICS 813xxx — religious, grantmaking, civic, professional organizations) employs approximately 12.3 million workers per IRS Form 990 data and Giving USA estimates, representing roughly 10% of the U.S. private-sector workforce.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Community and social service occupations: +6.6% 2024–2034 (BLS Employment Projections). Driven by growing demand for counseling, social work, community health, and human services. Substance abuse and behavioral disorder counselors: +19%. Social workers: +6–7%. Healthcare social workers: +9%. Note: Traditional grant-writing and program management roles within nonprofits have no distinct BLS projection; growth tracks with community/social service and management analyst trends.
+
+**Median Annual Wage:** $78,580 (Social and Community Service Managers, 11-9151, BLS OES May 2024); ~$67,750 (Community and Social Service Occupations group median, BLS OES May 2024); ~$60,000–$70,000 (typical nonprofit program management roles, Giving USA workforce data); Fundraisers: $60,760 median (BLS OES May 2024).
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 11-9151.00 — Social and Community Service Managers
+- 21-1021.00 — Child, Family, and School Social Workers
+- 21-1022.00 — Healthcare Social Workers
+- 21-1093.00 — Social and Human Service Assistants
+- 13-1131.00 — Fundraisers
+- 21-1099.00 — Community and Social Service Specialists, All Other
+- 27-3031.00 — Public Relations Specialists (advocacy and communications)
+- 11-1021.00 — General and Operations Managers (in nonprofit context)
+
+**Common Entry-Level Titles:** Program Coordinator, Case Manager, Development Associate (fundraising), Volunteer Coordinator, Grants Writer I, Community Health Worker
+
+**Common Mid-Career / Senior Titles:** Program Director, Grants Manager, Development Director, Chief Operations Officer, Executive Director (smaller orgs), VP of Programs
+
+**Emerging / watch_2030 Roles:** DEI Program Strategist, Digital Fundraising & CRM Analyst, Social Enterprise Revenue Developer
+
+**CSRA Employment Density:** United Way of the CSRA, Salvation Army Augusta, Augusta Jewish Federation, Catholic Social Services, Augusta Symphony, Lucy Craft Laney Museum, and numerous faith-based and community service organizations. Estimated 5,000–8,000 nonprofit workers in Augusta MSA. Georgia nonprofit sector: ~200,000+ (Georgia Center for Nonprofits estimates).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

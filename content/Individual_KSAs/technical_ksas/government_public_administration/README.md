@@ -56,15 +56,31 @@ Civic_Tech_Open_Data_Governance · Digital_Government_Services · ECQ_Digital_Le
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~22.4 million federal, state, and local government workers combined (federal: 3.0M; state: 4.8M; local: 14.6M — BLS QCEW 2024). Professional/managerial/policy roles within government estimated at 3–4 million. Management analysts (13-1111): ~875,000 nationally across all sectors; heavy concentration in government.
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Government sector overall: modest growth aligned with population and budget trends. Digital government and cybersecurity roles growing faster than average. Management analyst occupation: +11% / +97,000 jobs projected 2024–2034 (BLS Employment Projections). State and local government education/hospital employment: slight decline due to enrollment trends.
+
+**Median Annual Wage:** $86,100 (Social and Community Service Managers, 11-9151, BLS OES May 2024); $99,310 (Management Analysts, 13-1111, BLS OES May 2024); $97,700 (Emergency Management Directors, 11-9161, BLS OES May 2024). Representative midpoint for professional government roles: ~$90,000–$99,000.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 11-1011.00 — Chief Executives (agency heads, city managers)
+- 13-1111.00 — Management Analysts (policy implementation, performance evaluation)
+- 19-3094.00 — Political Scientists (policy research and analysis)
+- 11-9151.00 — Social and Community Service Managers (program administration)
+- 11-3031.00 — Financial Managers (public budgeting, procurement)
+- 15-1299.08 — Computer Systems Engineers/Architects (digital government, e-services)
+- 13-1041.00 — Compliance Officers (regulatory and ethics oversight)
+- 11-9161.00 — Emergency Management Directors (continuity and resilience)
+
+**Common Entry-Level Titles:** Policy Analyst, Program Analyst, Budget Analyst, Government Technology Analyst, Procurement Specialist
+
+**Common Mid-Career / Senior Titles:** Senior Policy Advisor, Program Manager, Chief of Staff, Deputy Director, Government CIO/CISO, Contract Officer (GS-13+)
+
+**Emerging / watch_2030 Roles:** AI Governance Analyst (responsible AI in public services), Digital Services Product Manager (agile government), GovTech Procurement Specialist (civic technology acquisition)
+
+**CSRA Employment Density:** ~30,000–35,000 professional government workers in Augusta MSA (Richmond County + Columbia County combined). Anchors: Fort Gordon GS civilian workforce (~8,000+), Augusta city/county government (~5,000), Georgia state agencies, U.S. Army Cyber Center of Excellence civilian staff. Data not available at precise MSA level for SOC-specific breakdowns — Georgia statewide government employment: ~680,000+ (BLS QCEW 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*

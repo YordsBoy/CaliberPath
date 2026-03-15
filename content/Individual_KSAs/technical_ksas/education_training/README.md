@@ -43,15 +43,31 @@ Classroom_Management_Learner_Engagement · Competency_Based_Assessment_Design ·
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
 
-**BLS Total Employment (current):**
-**BLS 10-Year Projected Growth (% / absolute jobs):**
-**Median Annual Wage:**
+**BLS Total Employment (current):** ~9.1 million across all Education, Training, and Library Occupations (SOC 25-0000, estimated from BLS OES May 2024). Largest sub-groups: elementary and middle school teachers (~1.4M); secondary school teachers (~1.0M); postsecondary teachers (~1.4M); special education teachers (~530K); training and development specialists (~365K); instructional coordinators (~175K); self-enrichment teachers (~309K).
+
+**BLS 10-Year Projected Growth (% / absolute jobs):** Mixed outlook by sub-group: Postsecondary teachers: +7% 2024–2034; Training and development specialists: +7%; Instructional coordinators: +6%; K-12 teachers (public school): -2.5% decline due to projected enrollment decline (K-12 age population -6.7% by 2033 per Census projections); Adult ESL/basic education: -14%; Career and technical education: -1%. Net group: approximately flat to modest growth; workforce and professional development roles growing.
+
+**Median Annual Wage:** $59,220 (Education, Training, and Library Occupations group median, BLS OOH May 2024). By sub-group: Postsecondary teachers: $86,530; Elementary school teachers: ~$63,960; Secondary school teachers: ~$66,580; Training and development specialists: $68,320; Instructional coordinators: $73,650; Career and technical education teachers: $62,910.
+
 **Top O\*NET SOC Codes and Titles (5–8):**
-**Common Entry-Level Titles:**
-**Common Mid-Career / Senior Titles:**
-**Emerging / watch_2030 Roles:**
-**CSRA Employment Density:**
-**Data Last Verified:**
+- 25-2021.00 — Elementary School Teachers, Except Special Education
+- 25-2031.00 — Secondary School Teachers, Except Special and Career/Technical
+- 25-1000.00 — Postsecondary Teachers (broad group)
+- 13-1151.00 — Training and Development Specialists
+- 25-9031.00 — Instructional Coordinators
+- 25-3021.00 — Self-Enrichment Teachers
+- 25-1194.00 — Career/Technical Education Teachers, Postsecondary
+- 25-2023.00 — Career/Technical Education Teachers, Middle School
+
+**Common Entry-Level Titles:** K-12 Teacher, Adjunct Instructor, Instructional Aide, Training Coordinator, Education Program Assistant, eLearning Developer
+
+**Common Mid-Career / Senior Titles:** Curriculum Developer, Instructional Designer, Training Manager, Director of Instructional Technology, Dean of Instruction, Academic Department Chair
+
+**Emerging / watch_2030 Roles:** AI-Informed Learning Designer (generative AI pedagogy integration), Learning Analytics Specialist, Microcredential Program Developer
+
+**CSRA Employment Density:** Augusta University (~2,500 faculty + instructional staff), Augusta Technical College (~500 faculty), Paine College, Columbia County and Richmond County school districts combined (~7,000+ teachers and educators). Estimated 12,000–15,000 education/training workers in Augusta MSA. Georgia statewide education/training: ~550,000+ (BLS OES 2024).
+
+**Data Last Verified:** 2026-03-15
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
