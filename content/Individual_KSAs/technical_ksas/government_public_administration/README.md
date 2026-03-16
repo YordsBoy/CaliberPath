@@ -86,7 +86,20 @@ Civic_Tech_Open_Data_Governance · Digital_Government_Services · ECQ_Digital_Le
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Real Estate & Property (Score: MEDIUM, 4 shared tags) — Property and facilities managers bring compliance, regulatory, and analytics competencies directly applicable to public administration program management and procurement roles.
+Public Safety & Security (Score: MEDIUM, 4 shared tags) — Emergency management and risk specialists bring compliance, risk management, and operational resilience skills that translate directly into government continuity and regulatory oversight functions.
+AI, Data & Quantum (Score: MEDIUM, 4 shared tags) — Data scientists and AI practitioners transition readily into digital government, policy analytics, and algorithmic governance roles.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+AI, Data & Quantum (Score: MEDIUM, 4 shared tags) — Policy analysts and program managers with data backgrounds move into private-sector AI strategy, government technology consulting, and analytics platform roles.
+Real Estate & Property (Score: MEDIUM, 4 shared tags) — Public procurement and asset management professionals transition into commercial property management, facilities administration, and public-private development.
+Public Safety & Security (Score: MEDIUM, 4 shared tags) — Government compliance and risk managers move into public safety program management, regulatory inspection, and emergency operations coordination.
+
 **Bridging Cluster Tags:**
+Compliance, Risk Management, Analytics, Policy
+
 **Common Transition Populations:**
+military_transition, mid_career_change, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Policy Analyst, Program Analyst, Government Technology Analyst

@@ -75,7 +75,19 @@ Advanced_5G_Networking · 5G_Core_Network_Operations_Slicing · Private_5G_Enter
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Core IT & Cloud (Score: LOW, 2 shared tags) — Network architects and systems administrators bring cloud networking, infrastructure management, and DevOps skills applicable to telecommunications infrastructure and carrier network operations.
+Manufacturing (Score: LOW, 2 shared tags) — Industrial electronics technicians and maintenance specialists bring hands-on systems integration and technical repair skills applicable to field telecommunications work.
+Note: telecommunications has no MEDIUM+ adjacency pairs — sparse adjacency reflects the sector’s specialized infrastructure KSA base; most successful entrants carry network engineering credentials or field technology experience.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Core IT & Cloud (Score: LOW, 2 shared tags) — Telecommunications engineers transition into cloud networking, software-defined networking, enterprise IT infrastructure, and managed network services.
+Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Telecommunications account managers and technical sales specialists move into technology sales, B2B solutions distribution, and managed services sales roles.
+
 **Bridging Cluster Tags:**
+Network Engineering, Systems Integration, Telecommunications
+
 **Common Transition Populations:**
+military_transition, mid_career_change, early_career
+
 **Typical Entry Roles for Career Changers:**
+Telecommunications Technician, Network Administrator, Field Service Technician

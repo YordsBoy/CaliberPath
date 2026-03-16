@@ -94,7 +94,20 @@
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Manufacturing (Score: MEDIUM, 6 shared tags) — Production supervisors and industrial engineers bring automation, data analytics, environmental management, maintenance, planning, and safety skills directly applicable to mine operations and extraction site management.
+Transportation & Logistics (Score: MEDIUM, 5 shared tags) — Logistics managers and supply chain coordinators bring automation, compliance, maintenance, planning, and safety competencies into mine site operations, materials transport, and bulk commodity logistics.
+Energy & Utilities (Score: MEDIUM, 4 shared tags) — Power and utility operations specialists bring safety management, equipment maintenance, compliance systems, and environmental management skills into energy-intensive extraction operations.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Manufacturing (Score: MEDIUM, 6 shared tags) — Mining operations managers and maintenance technicians transition into industrial manufacturing, materials processing, and production operations management.
+Transportation & Logistics (Score: MEDIUM, 5 shared tags) — Mine site logistics coordinators and fleet managers transition into transportation operations management, bulk materials logistics, and supply chain coordination.
+Finance & Insurance (Score: MEDIUM, 4 shared tags) — Project controls and cost management specialists from extraction operations move into financial analysis, project cost engineering, and risk management in financial services.
+
 **Bridging Cluster Tags:**
+Safety, Compliance, Maintenance, Environmental Management
+
 **Common Transition Populations:**
+military_transition, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Mine Operations Technician, Site Safety Coordinator, Mining Equipment Operator

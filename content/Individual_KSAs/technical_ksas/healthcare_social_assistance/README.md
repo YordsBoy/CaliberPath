@@ -99,7 +99,19 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Pharmaceutical retail and medical supply professionals bring compliance and service delivery skills applicable to healthcare administration and patient services coordination.
+Telecommunications (Score: LOW, 2 shared tags) — Health IT and telehealth technology specialists bring digital infrastructure and systems management skills into healthcare informatics and remote care coordination.
+Note: healthcare_social_assistance has intentionally sparse cross-sector adjacency (maximum 2 shared tags with any other sector) — clinical KSA specificity is a design feature. Professionals entering this sector typically carry healthcare-adjacent credentials rather than generic transferable domain skills.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Clinical professionals with commercial interests transition into pharmaceutical sales, medical device sales, and health and wellness retail management.
+Education & Training (Score: LOW, 2 shared tags) — Healthcare professionals with teaching instincts move into clinical education, patient education coordination, and health sciences instruction.
+
 **Bridging Cluster Tags:**
+Patient Care, Compliance, Wellness
+
 **Common Transition Populations:**
+career_explorer, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Health Educator, Patient Services Coordinator, Healthcare Administrator

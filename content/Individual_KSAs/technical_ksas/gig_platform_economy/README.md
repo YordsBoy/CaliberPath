@@ -84,7 +84,20 @@ Digital_Reputation_Client_Success_Management · Gig_Economy_Navigation · Gig_Wo
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Maker Economy & Creative Crafts (Score: MEDIUM, 5 shared tags) — Independent craft business owners bring compliance, finance, pricing, safety, and strategy skills directly applicable to building and scaling a platform-based gig operation.
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Service business operators bring client management, compliance, finance, pricing, and safety skills directly into platform-mediated service delivery and independent contractor operations.
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Community organizers and program staff bring advocacy, community development, and project management skills into platform-based community work and social impact gig operations.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Maker Economy & Creative Crafts (Score: MEDIUM, 5 shared tags) — Established gig workers and platform operators transition into independent maker businesses, artisan product enterprises, and creative economy entrepreneurship.
+Hospitality & Tourism (Score: MEDIUM, 4 shared tags) — Short-term rental and experience gig workers transition into formal hospitality management and tourism experience design.
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Platform community managers and gig-based social workers transition into nonprofit program coordination and community development.
+
 **Bridging Cluster Tags:**
+Entrepreneurship, E-Commerce, Client Management
+
 **Common Transition Populations:**
+early_career, career_explorer, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Platform Operations Coordinator, Independent Contractor, Gig Business Manager

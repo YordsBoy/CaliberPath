@@ -71,7 +71,20 @@ Additive_Manufacturing_Basics_Safety · Community_Workshop_Facilitation · Craft
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: HIGH, 7 shared tags) — Service business operators bring compliance, finance, maintenance, pricing, safety, sourcing, and sustainability skills that map directly to running a maker or craft business — the repository’s second-strongest adjacency pair.
+Transportation & Logistics (Score: MEDIUM, 6 shared tags) — Supply chain and logistics professionals bring compliance, maintenance, safety, strategy, supply chain, and sustainability competencies applicable to materials sourcing, production logistics, and craft operation management.
+Construction & Infrastructure (Score: MEDIUM, 6 shared tags) — Trades professionals bring additive manufacturing techniques, IoT integration, maintenance systems, safety practices, and sustainability competencies into maker production and craft workshop environments.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: HIGH, 7 shared tags) — Established makers and craft business owners transition into personal service operations, combining product manufacturing expertise with direct client service delivery.
+Transportation & Logistics (Score: MEDIUM, 6 shared tags) — Maker economy supply chain operators and sourcing specialists scale into logistics coordination, distribution management, and materials procurement.
+Agriculture & Natural Resources (Score: MEDIUM, 6 shared tags) — Craft food, fiber, and natural materials producers transition into formal agricultural production, specialty farming, and agribusiness operations.
+
 **Bridging Cluster Tags:**
+Fabrication, Safety, Sourcing, Maintenance, Sustainability, Finance
+
 **Common Transition Populations:**
+career_explorer, returning_workforce, early_career, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Craft Business Owner, Production Artisan, Independent Fabricator

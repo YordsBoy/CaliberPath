@@ -103,7 +103,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Energy & Utilities (Score: MEDIUM, 5 shared tags) — Utility engineers and grid operations specialists bring energy efficiency, smart grid, energy storage, hydrogen, and GHG management skills directly applicable to clean energy and environmental technology roles.
+Agriculture & Natural Resources (Score: LOW, 3 shared tags) — Agricultural scientists and natural resource managers bring sustainability, environmental compliance, land management, and supply chain skills into environmental technology and clean energy applications.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Energy & Utilities (Score: MEDIUM, 5 shared tags) — Environmental engineers and clean energy specialists transition into grid modernization, utility operations, energy management program leadership, and power systems roles.
+Agriculture & Natural Resources (Score: LOW, 3 shared tags) — Environmental sustainability specialists move into agri-environmental consulting, sustainable land stewardship, and regenerative agriculture operations.
+
 **Bridging Cluster Tags:**
+Sustainability, Carbon Management, ESG, Compliance
+
 **Common Transition Populations:**
+education_to_industry, mid_career_change, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Sustainability Analyst, Environmental Compliance Specialist, Solar Project Coordinator

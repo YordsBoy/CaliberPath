@@ -102,7 +102,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Analytics, compliance, finance, and regulatory specialists from service-intensive sectors bring program management discipline, compliance rigor, and analytical skills applicable to commercial space operations and aerospace program management.
+Finance & Insurance (Score: LOW, 3 shared tags) — Financial analysts and risk management specialists bring space insurance underwriting expertise, investment analysis, and compliance skills into aerospace finance and commercial space venture roles.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Aerospace program managers and systems engineers transition into high-tech service consulting, specialized technical advisory, and engineering project management.
+Finance & Insurance (Score: LOW, 3 shared tags) — Space policy analysts and commercial operations managers transition into aerospace finance, insurance underwriting, and technology investment roles.
+
 **Bridging Cluster Tags:**
+Systems Engineering, Safety, Compliance, Analytics
+
 **Common Transition Populations:**
+education_to_industry, mid_career_change, military_transition
+
 **Typical Entry Roles for Career Changers:**
+Aerospace Systems Analyst, Program Coordinator, Space Operations Technician

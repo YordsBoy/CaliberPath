@@ -122,7 +122,18 @@ _Last updated: 17 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Nonprofit operations and program staff bring coordination, compliance, communications, and finance skills directly applicable to administrative management, HR generalist, and organizational operations roles.
+Manufacturing (Score: LOW, 3 shared tags) — Production planning and ERP coordinators bring scheduling, compliance, and operations documentation skills into administrative and business operations support.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Administrative and HR professionals transition into nonprofit program coordination, operations management, and organizational development roles.
+Construction & Infrastructure (Score: LOW, 3 shared tags) — Office administrators and project coordinators move into construction administration, contract management support, and project documentation roles.
+
 **Bridging Cluster Tags:**
+Compliance, Planning, Communications, Finance
+
 **Common Transition Populations:**
+returning_workforce, early_career, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Administrative Coordinator, Office Manager, HR Assistant

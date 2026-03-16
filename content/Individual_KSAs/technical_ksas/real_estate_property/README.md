@@ -72,7 +72,18 @@ CRE_Market_Analysis · Real_Estate_Data_Analytics · Financial_Modelling_Cash_Fl
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Procurement officers and public asset managers bring compliance, analytics, risk management, and regulatory skills directly applicable to commercial real estate operations, property portfolio management, and facilities administration.
+Finance & Insurance (Score: LOW, 3 shared tags) — Financial analysts and risk specialists bring finance, compliance, and risk assessment skills applicable to real estate investment analysis, mortgage underwriting, and portfolio management.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Property managers and real estate analysts transition into government procurement, public asset management, land use policy, and municipal property administration.
+Finance & Insurance (Score: LOW, 3 shared tags) — Real estate financial analysts move into broader financial services, investment analysis, mortgage lending, and commercial risk assessment.
+
 **Bridging Cluster Tags:**
+Compliance, Finance, Risk Management, Analytics
+
 **Common Transition Populations:**
+mid_career_change, early_career, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Property Manager, Real Estate Analyst, Leasing Coordinator

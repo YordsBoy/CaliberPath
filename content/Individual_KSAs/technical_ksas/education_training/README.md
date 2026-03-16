@@ -73,7 +73,19 @@ Classroom_Management_Learner_Engagement · Competency_Based_Assessment_Design ·
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Professional & Scientific Services (Score: LOW, 3 shared tags) — Research analysts and training consultants bring curriculum design, analytical methods, and program evaluation skills applicable to instructional design and workforce education roles.
+Government & Public Administration (Score: LOW, 3 shared tags) — Program managers and policy analysts transition into government-funded education administration, workforce training coordination, and public training program development.
+Note: education_training has no MEDIUM+ adjacency pairs — cross-sector transfer is primarily LOW, reflecting the sector’s pedagogical KSA specificity.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Government & Public Administration (Score: LOW, 3 shared tags) — Training directors and instructional designers move into public sector workforce development, L&D program management, and policy advisory roles.
+Professional & Scientific Services (Score: LOW, 3 shared tags) — Education professionals with strong research and evaluation skills transition into applied research, management consulting, and program assessment roles.
+
 **Bridging Cluster Tags:**
+Curriculum Development, Training Design, Analytics
+
 **Common Transition Populations:**
+mid_career_change, returning_workforce, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Training Coordinator, Program Analyst, Corporate Trainer

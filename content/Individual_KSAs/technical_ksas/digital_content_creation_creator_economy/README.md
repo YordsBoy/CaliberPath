@@ -93,7 +93,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Media Arts & Entertainment (Score: LOW, 3 shared tags) — Journalists, broadcasters, and entertainment professionals bring storytelling, content production, and distribution skills directly into creator economy content strategy and platform media roles.
+AI, Data & Quantum (Score: LOW, 2 shared tags) — Data analysts and AI practitioners bring analytics, performance measurement, and AI-assisted content automation skills applicable to creator economy optimization and content intelligence.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Media Arts & Entertainment (Score: LOW, 3 shared tags) — Content creators and platform-native media professionals transition into broadcast production, entertainment marketing, editorial, and media operations roles.
+Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Brand content creators and digital marketers move into e-commerce brand management, retail content strategy, and digital marketing operations.
+
 **Bridging Cluster Tags:**
+Content Creation, Brand Management, Analytics
+
 **Common Transition Populations:**
+early_career, career_explorer, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Content Creator, Social Media Manager, Digital Marketing Coordinator

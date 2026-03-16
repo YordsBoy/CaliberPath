@@ -72,7 +72,17 @@ Artisan_Craft_Mastery · Creative_Enterprise_Monetization · Creative_Project_Ma
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Media Arts & Entertainment (Score: MEDIUM, 4 shared tags) — Entertainment producers and media professionals bring storytelling, visual design, production management, and narrative design competencies directly into cultural programming, arts administration, and heritage content production.
+Note: creative_cultural_industries has only one MEDIUM+ adjacency pair — the sector’s specialized cultural heritage, performing arts, and cultural economics KSAs generate limited cross-sector overlap; most inbound transitions come from within the broader creative industries ecosystem.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Media Arts & Entertainment (Score: MEDIUM, 4 shared tags) — Cultural producers and heritage managers transition into broadcast media, entertainment marketing, digital content production, and media operations roles.
+
 **Bridging Cluster Tags:**
+Storytelling, Cultural Heritage, Visual Design
+
 **Common Transition Populations:**
+early_career, education_to_industry, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Cultural Programs Coordinator, Arts Administrator, Creative Producer

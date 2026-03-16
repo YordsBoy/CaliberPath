@@ -82,7 +82,20 @@ Advocacy_Campaign_Management · Board_Governance_Fiduciary_Duty · Cross_Sector_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Service sector professionals bring community engagement, compliance, client management, and operations skills directly into nonprofit program delivery and community services coordination.
+Informal & Gray Economy (Score: MEDIUM, 4 shared tags) — Community organizers and microenterprise workers bring grassroots development, advocacy, and program coordination competencies applicable to nonprofit program management.
+Administrative Support Services (Score: MEDIUM, 4 shared tags) — Operations and HR professionals bring planning, compliance, finance, and communications skills that translate directly into nonprofit administration and organizational management.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Nonprofit program managers and community coordinators transition into independent social enterprise, mission-driven consulting, and community-based service operations.
+Administrative Support Services (Score: MEDIUM, 4 shared tags) — Nonprofit operations directors and HR staff move into broader administrative management, HR generalist, and organizational operations roles.
+Gig & Platform Economy (Score: MEDIUM, 4 shared tags) — Grant-funded project managers and program staff transition into platform-based consulting, independent contractor work, and community-focused gig operations.
+
 **Bridging Cluster Tags:**
+Community Development, Advocacy, Volunteer Management
+
 **Common Transition Populations:**
+returning_workforce, mid_career_change, veteran_spouse, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Program Coordinator, Case Manager, Community Outreach Specialist

@@ -73,7 +73,18 @@ Incident_Command_NIMS · Emergency_Communications_Interoperability · Crowd_Even
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Policy analysts and compliance officers bring risk management, regulatory, and program administration expertise directly applicable to public safety and emergency management roles.
+Real Estate & Property (Score: LOW, 2 shared tags) — Security and facilities management professionals bring compliance and risk assessment skills applicable to physical security and property protection functions.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Emergency management professionals and public safety compliance specialists transition into government policy, continuity planning, and program management.
+Real Estate & Property (Score: LOW, 2 shared tags) — Physical security and risk assessment specialists move into property security management, facilities protection, and risk consulting.
+
 **Bridging Cluster Tags:**
+Compliance, Risk Management, Safety
+
 **Common Transition Populations:**
+military_transition, mid_career_change, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Emergency Management Coordinator, Compliance Analyst, Public Safety Program Analyst

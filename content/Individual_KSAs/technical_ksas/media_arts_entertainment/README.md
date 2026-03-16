@@ -98,7 +98,18 @@ From real-time LED-volume shooting to AI-driven localisation, screen content pip
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Immersive Media AR/VR/Metaverse (Score: MEDIUM, 5 shared tags) — XR developers and immersive designers bring production pipeline, narrative design, storytelling, accessibility, and Web XR competencies into film, broadcast, animation, and entertainment production roles.
+Creative & Cultural Industries (Score: MEDIUM, 4 shared tags) — Cultural producers and arts administrators bring storytelling, production management, visual design, and cultural programming skills into broader media and entertainment operations.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Immersive Media AR/VR/Metaverse (Score: MEDIUM, 5 shared tags) — Film, animation, and entertainment professionals transition into immersive experience development, XR production, and spatial storytelling for training and commercial applications.
+Creative & Cultural Industries (Score: MEDIUM, 4 shared tags) — Media producers and entertainment marketers move into arts programming, cultural institution management, and heritage content production and distribution.
+
 **Bridging Cluster Tags:**
+Storytelling, Production, Visual Design, Content Creation
+
 **Common Transition Populations:**
+early_career, education_to_industry, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Production Assistant, Content Producer, Media Coordinator

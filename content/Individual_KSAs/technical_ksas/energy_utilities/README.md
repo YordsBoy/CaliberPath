@@ -88,7 +88,18 @@
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Environmental Energy & Advanced Technologies (Score: MEDIUM, 5 shared tags) — Renewable energy engineers and sustainability specialists bring energy efficiency, energy storage, smart grid, hydrogen, and GHG management competencies directly into utility operations and grid modernization roles.
+Mining & Extraction (Score: MEDIUM, 4 shared tags) — Operations technicians and maintenance specialists from resource extraction bring safety management, equipment maintenance, compliance, and operational continuity skills into power plant and utility operations.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Environmental Energy & Advanced Technologies (Score: MEDIUM, 5 shared tags) — Utility engineers and grid operations specialists transition into renewable energy development, clean energy project management, smart grid integration, and hydrogen infrastructure roles.
+Agriculture & Natural Resources (Score: MEDIUM, 4 shared tags) — Energy operations professionals move into agri-energy management, rural electrification, water systems management, and natural resource operations.
+
 **Bridging Cluster Tags:**
+Safety, Maintenance, Compliance, Sustainability
+
 **Common Transition Populations:**
+military_transition, mid_career_change, education_to_industry
+
 **Typical Entry Roles for Career Changers:**
+Utility Technician, Energy Auditor, Grid Operations Analyst

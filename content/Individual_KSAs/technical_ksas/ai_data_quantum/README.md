@@ -124,7 +124,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
-**Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Policy analysts and management analysts with data science skills transition into applied AI, government analytics, and AI governance roles where domain expertise is highly valued.
+Core IT & Cloud (Score: MEDIUM, 4 shared tags) — Cloud engineers and platform infrastructure specialists bring the foundational architecture and DevOps competencies required for production AI/ML environments.
+
+**Top Adjacent Sectors — Outbound (sectors this one readily transfers out to):**
+Government & Public Administration (Score: MEDIUM, 4 shared tags) — Data scientists and AI specialists move into digital government transformation, AI risk and policy roles, and public sector data strategy positions.
+Core IT & Cloud (Score: MEDIUM, 4 shared tags) — ML engineers and data infrastructure specialists transition into cloud platform engineering, DevOps, and enterprise data architecture roles.
+
 **Bridging Cluster Tags:**
+AI, Data Analytics, Machine Learning, Cloud Architecture
+
 **Common Transition Populations:**
+military_transition, education_to_industry, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Data Analyst, Business Intelligence Analyst, Junior Data Scientist

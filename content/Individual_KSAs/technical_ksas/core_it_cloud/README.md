@@ -123,7 +123,20 @@ _Last updated: 17 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+AI, Data & Quantum (Score: MEDIUM, 4 shared tags) — Data engineers and ML practitioners bring cloud architecture, DevOps, and platform engineering skills that map directly to IT infrastructure and cloud operations roles.
+Mining & Extraction (Score: LOW, 3 shared tags) — OT/IT integration specialists from industrial environments bring operational technology, systems management, and infrastructure maintenance skills applicable to enterprise IT.
+Telecommunications (Score: LOW, 2 shared tags) — Network engineers and systems integrators transition into cloud networking, infrastructure architecture, and managed services roles.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+AI, Data & Quantum (Score: MEDIUM, 4 shared tags) — Cloud architects and DevOps engineers transition into AI/ML platform engineering, data infrastructure development, and MLOps roles.
+Mining & Extraction (Score: LOW, 3 shared tags) — IT specialists and systems administrators move into OT/IT convergence, industrial IoT, and smart operations roles in resource-intensive industries.
+Telecommunications (Score: LOW, 2 shared tags) — Network architects and systems engineers transition into telecommunications infrastructure, software-defined networking, and carrier technology roles.
+
 **Bridging Cluster Tags:**
+Cloud Architecture, Cybersecurity, DevOps
+
 **Common Transition Populations:**
+military_transition, mid_career_change, education_to_industry
+
 **Typical Entry Roles for Career Changers:**
+Cloud Administrator, Network Administrator, IT Support Specialist

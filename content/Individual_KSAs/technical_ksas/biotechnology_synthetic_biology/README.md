@@ -104,7 +104,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Energy & Utilities (Score: LOW, 2 shared tags) — Bioprocess and environmental engineers bring research methods and compliance skills applicable to biotech research and development roles focused on bio-based energy and materials.
+Note: biotechnology_synthetic_biology has extremely sparse cross-sector adjacency (maximum 2 shared tags with any sector), reflecting the deep domain specialization of biotech KSAs. Entry into this sector typically requires field-specific credentials rather than generic cross-sector skill transfer.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Energy & Utilities (Score: LOW, 2 shared tags) — Biotech researchers with environmental and energy focus transition into biofuel, biogas, and clean energy research and development roles.
+Informal & Gray Economy (Score: LOW, 2 shared tags) — Early-stage biotech entrepreneurs and independent researchers transition into microenterprise development, independent scientific consulting, and research contracting.
+
 **Bridging Cluster Tags:**
+Research Methods, Compliance, Biosafety
+
 **Common Transition Populations:**
+education_to_industry, early_career, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Research Technician, Quality Assurance Associate, Lab Analyst

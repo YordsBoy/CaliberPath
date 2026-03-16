@@ -80,7 +80,18 @@ Client_Communication_Skills · CRM_Data_Analytics · CX_Metrics_ROI_Management �
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 6 shared tags) — Service professionals and independent business operators bring CRM, client management, service design, conflict resolution, and empathy skills that align directly with customer experience specialist and CX operations roles.
+Wholesale & Retail Trade (Score: LOW, 3 shared tags) — Retail managers and customer service supervisors bring analytics, CRM, and customer engagement skills into CX design, voice-of-customer analysis, and service recovery roles.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 6 shared tags) — CX specialists and service designers transition into independent service business ownership, client experience consulting, and direct-to-client service delivery.
+Wholesale & Retail Trade (Score: LOW, 3 shared tags) — Customer experience managers move into retail operations management, e-commerce customer engagement, and omnichannel service strategy.
+
 **Bridging Cluster Tags:**
+Customer Experience, Service Recovery, CRM
+
 **Common Transition Populations:**
+early_career, returning_workforce, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Customer Service Representative, CX Analyst, Client Services Coordinator

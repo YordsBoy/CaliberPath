@@ -107,7 +107,18 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Media Arts & Entertainment (Score: MEDIUM, 5 shared tags) — Animators, filmmakers, and experience designers bring accessibility design, narrative design, production pipeline, storytelling, and Web XR skills directly into immersive media development and XR content production.
+Wholesale & Retail Trade (Score: LOW, 3 shared tags) — E-commerce product visualization and retail technology specialists bring digital experience design and consumer engagement skills into AR commerce and XR retail applications.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Media Arts & Entertainment (Score: MEDIUM, 5 shared tags) — XR developers and immersive experience designers transition into film, animation, game production, and entertainment pipeline roles.
+Government & Public Administration (Score: LOW, 3 shared tags) — Immersive training and simulation developers transition into government simulation programs, digital services design, and public-sector immersive learning initiatives.
+
 **Bridging Cluster Tags:**
+XR Development, Visual Design, Storytelling
+
 **Common Transition Populations:**
+early_career, education_to_industry, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+XR Developer, Immersive Experience Designer, VR Content Creator

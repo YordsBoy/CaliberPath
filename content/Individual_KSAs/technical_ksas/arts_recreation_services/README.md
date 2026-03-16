@@ -76,7 +76,19 @@ Community_Event_Planning · Digital_Content_Creation_Tools · Esports_Event_Coor
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: LOW, 3 shared tags) — Service business operators bring customer service, event management, and safety skills applicable to recreation programming management and arts administration.
+Transportation & Logistics (Score: LOW, 2 shared tags) — Event logistics and operations professionals bring safety, compliance, and coordination skills into recreation facility management and program operations.
+Note: arts_recreation_services has no MEDIUM+ adjacency pairs — sparse adjacency driven primarily by backbone operational tags; entry most commonly comes from within creative and community service backgrounds.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: LOW, 3 shared tags) — Recreation managers and arts administrators transition into personal service business ownership, event management services, and independent wellness and recreation businesses.
+Media Arts & Entertainment (Score: LOW, 2 shared tags) — Performing arts professionals and recreation programmers move into media production, entertainment management, and creative content roles.
+
 **Bridging Cluster Tags:**
+Event Management, Customer Experience, Safety
+
 **Common Transition Populations:**
+early_career, returning_workforce, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Recreation Coordinator, Arts Program Assistant, Event Coordinator

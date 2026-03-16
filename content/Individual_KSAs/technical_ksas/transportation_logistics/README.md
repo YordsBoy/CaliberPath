@@ -73,7 +73,20 @@ Autonomous_Logistics_Systems · Autonomous_Vehicle_Fleet_Operations_Safety · Co
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Manufacturing (Score: HIGH, 7 shared tags) — Production supervisors and supply chain coordinators bring automation, logistics, maintenance, planning, quality, safety, and supply chain skills that transfer directly into logistics operations — the repository’s strongest cross-sector adjacency pair.
+Construction & Infrastructure (Score: MEDIUM, 6 shared tags) — Construction project managers and site logistics coordinators bring compliance, logistics coordination, maintenance, quality, safety, and sustainability competencies into transportation management.
+Mining & Extraction (Score: MEDIUM, 5 shared tags) — Mine operations managers and heavy equipment supervisors bring maintenance, safety, planning, automation, and compliance skills into fleet management and bulk materials transport.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Manufacturing (Score: HIGH, 7 shared tags) — Logistics managers and supply chain analysts transition into production planning, manufacturing operations management, and supply chain integration.
+Maker Economy & Creative Crafts (Score: MEDIUM, 6 shared tags) — Supply chain and fleet operations professionals transition into materials sourcing management, production logistics, and small-batch manufacturing operations.
+Agriculture & Natural Resources (Score: MEDIUM, 5 shared tags) — Logistics coordinators move into agricultural supply chain, food distribution management, and agribusiness operations.
+
 **Bridging Cluster Tags:**
+Logistics, Supply Chain, Safety, Automation, Maintenance
+
 **Common Transition Populations:**
+military_transition, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Logistics Coordinator, Warehouse Supervisor, Dispatcher

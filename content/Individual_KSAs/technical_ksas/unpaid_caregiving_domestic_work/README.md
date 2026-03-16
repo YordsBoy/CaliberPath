@@ -73,7 +73,19 @@ Assistive_Technology_Use_Home · Remote_Monitoring_Telecare · Basic_Home_Health
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Customer Experience & Service (Score: LOW, 2 shared tags) — Service coordinators and empathy-trained professionals bring care delivery orientation and client management skills applicable to formal caregiving and domestic services roles.
+Administrative Support Services (Score: LOW, 2 shared tags) — Scheduling, coordination, and household management professionals bring organizational and care coordination skills into domestic services and caregiving support.
+Note: unpaid_caregiving_domestic_work has sparse cross-sector adjacency — career entry most commonly comes from within the care and social services ecosystem or from individuals whose unpaid caregiving provides the foundational competence base.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Customer Experience & Service (Score: LOW, 2 shared tags) — Experienced caregivers and domestic workers transition into paid care coordination, patient services, health concierge, and customer experience roles in care-adjacent industries.
+Administrative Support Services (Score: LOW, 2 shared tags) — Home management and coordination experience translates into scheduling, records management, administrative support, and office coordination roles.
+
 **Bridging Cluster Tags:**
+Patient Care, Wellness, Coordination
+
 **Common Transition Populations:**
+returning_workforce, career_explorer, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Home Health Aide, Care Coordinator, Patient Services Representative

@@ -72,7 +72,19 @@ Change_Management_Facilitation · Data_Analytics_AI_Consulting · Data_Analytics
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Education & Training (Score: LOW, 3 shared tags) — Academic researchers and training professionals transition into applied research, management consulting, and program evaluation where rigorous analytical and writing skills are primary.
+Manufacturing (Score: LOW, 2 shared tags) — Industrial engineers and quality specialists bring project controls, process improvement, and analytical methods skills into technical consulting and scientific services roles.
+Note: professional_scientific_services has no MEDIUM+ adjacency pairs — high KSA specialization limits cross-sector inbound volume; most successful entrants carry domain credentials supplemented by research and project management depth.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Education & Training (Score: LOW, 3 shared tags) — Management consultants and research analysts transition into academic instruction, workforce education, and organizational learning and development.
+Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Market researchers and business analysts move into commercial analytics, retail strategy consulting, and consumer insights roles.
+
 **Bridging Cluster Tags:**
+Research Methods, Analytics, Project Management
+
 **Common Transition Populations:**
+education_to_industry, mid_career_change, early_career
+
 **Typical Entry Roles for Career Changers:**
+Research Analyst, Management Consultant, Project Coordinator

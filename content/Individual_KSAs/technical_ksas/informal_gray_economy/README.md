@@ -81,7 +81,18 @@ Barter_Alternative_Currency_Trade · Cash_Based_Accounting · Formalization_Soci
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Community development workers and advocacy professionals bring community organizing, program management, social enterprise, and volunteer coordination skills into informal economy support, microenterprise incubation, and community economic development.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Independent makers and craft entrepreneurs bring compliance, finance, entrepreneurship, and sourcing skills applicable to supporting and formalizing informal economy microenterprises.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Nonprofit & NGOs (Score: MEDIUM, 4 shared tags) — Informal economy workers and microentrepreneurs with strong advocacy and community skills transition into nonprofit program coordination, social enterprise management, and community development organizations.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Informal service and product workers transition into formal maker economy businesses as they scale operations and seek broader market access.
+
 **Bridging Cluster Tags:**
+Community Development, Entrepreneurship, Compliance
+
 **Common Transition Populations:**
+returning_workforce, career_explorer, veteran_spouse
+
 **Typical Entry Roles for Career Changers:**
+Community Economic Development Coordinator, Microenterprise Business Coach, Social Enterprise Program Manager

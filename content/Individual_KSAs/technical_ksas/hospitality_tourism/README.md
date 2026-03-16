@@ -82,7 +82,20 @@ Customer_Experience_Design · Multicultural_Guest_Relations · Guest_Recovery_Co
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 5 shared tags) — Service business operators bring compliance, operations management, pricing, service design, and sustainability skills directly applicable to hotel management, food and beverage operations, and tourism experience design.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Independent craft and culinary producers bring entrepreneurial operations, sourcing, pricing, and sustainability skills into boutique hospitality, craft beverage, and experience tourism.
+Gig & Platform Economy (Score: MEDIUM, 4 shared tags) — Short-term rental operators and platform service workers bring client management, pricing strategy, platform operations, and compliance skills into hospitality management roles.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 5 shared tags) — Hospitality managers and event coordinators transition into personal services management, independent catering, wellness services, and experience business ownership.
+Gig & Platform Economy (Score: MEDIUM, 4 shared tags) — Hotel and resort professionals move into short-term rental management, platform-based tourism services, and experience economy entrepreneurship.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Culinary and experience hospitality professionals transition into artisan food production, craft beverage, and maker economy product businesses.
+
 **Bridging Cluster Tags:**
+Customer Experience, Event Management, Sustainability
+
 **Common Transition Populations:**
+early_career, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Front Desk Agent, Event Coordinator, Food & Beverage Supervisor

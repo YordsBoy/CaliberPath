@@ -83,7 +83,20 @@ Fintech, open-banking, and climate-risk modeling reshape core banking & insuranc
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Small business operators and independent service professionals bring client management, pricing, compliance, and financial operations experience applicable to financial advisory and insurance services.
+Mining & Extraction (Score: MEDIUM, 4 shared tags) — Project controls and cost management specialists from resource extraction bring rigorous cost engineering, risk analysis, and financial planning skills into financial services roles.
+Agriculture & Natural Resources (Score: MEDIUM, 4 shared tags) — Agricultural finance and commodity risk professionals bring applied finance, compliance, and risk management skills into financial advisory and insurance underwriting.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 4 shared tags) — Financial advisors and insurance professionals transition into business management consulting for small operators, independent financial coaching, and financial services for service sector clients.
+Mining & Extraction (Score: MEDIUM, 4 shared tags) — Financial analysts and risk managers move into project cost controls, capital planning, and financial management for resource extraction operations.
+Agriculture & Natural Resources (Score: MEDIUM, 4 shared tags) — Risk analysts and commodity-focused financial specialists transition into agribusiness finance, crop insurance, and agricultural lending.
+
 **Bridging Cluster Tags:**
+Finance, Compliance, Risk Management, Accounting
+
 **Common Transition Populations:**
+mid_career_change, education_to_industry, early_career
+
 **Typical Entry Roles for Career Changers:**
+Financial Analyst, Compliance Analyst, Loan Officer

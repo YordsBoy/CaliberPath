@@ -96,7 +96,20 @@ _Last updated: February 2026_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Transportation & Logistics (Score: HIGH, 7 shared tags) — Logistics and supply chain professionals bring automation, logistics, maintenance, planning, quality, safety, and supply chain competencies that align directly with manufacturing operations management — the strongest adjacency pair in the repository.
+Construction & Infrastructure (Score: MEDIUM, 6 shared tags) — Construction managers and trades professionals bring lean operations, maintenance, quality systems, and safety standards directly applicable to manufacturing floor supervision and process management.
+Mining & Extraction (Score: MEDIUM, 6 shared tags) — Heavy equipment operators and maintenance technicians from resource extraction bring safety discipline, equipment maintenance, automation, and operational management skills into manufacturing environments.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Transportation & Logistics (Score: HIGH, 7 shared tags) — Production supervisors and supply chain coordinators transition into logistics operations management, fleet management, warehouse supervision, and distribution management.
+Construction & Infrastructure (Score: MEDIUM, 6 shared tags) — Manufacturing engineers and maintenance specialists move into construction project supervision, equipment management, and industrial construction operations.
+Maker Economy & Creative Crafts (Score: MEDIUM, 5 shared tags) — CNC operators, fabricators, and production technicians transition into custom fabrication, product design, and craft manufacturing businesses.
+
 **Bridging Cluster Tags:**
+Automation, Logistics, Maintenance, Quality, Safety, Supply Chain
+
 **Common Transition Populations:**
+military_transition, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Machine Operator, Production Associate, Maintenance Technician I

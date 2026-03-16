@@ -80,7 +80,20 @@ Appointment_Scheduling_Management · Chemical_Service_Safety · Client_Consultat
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Maker Economy & Creative Crafts (Score: HIGH, 7 shared tags) — Independent makers and creative entrepreneurs bring compliance, finance, maintenance, pricing, safety, sourcing, and sustainability skills that map directly to operating personal service businesses — the repository’s second-strongest adjacency pair.
+Wholesale & Retail Trade (Score: MEDIUM, 6 shared tags) — Retail managers and service coordinators bring analytics, CRM, compliance, safety, scheduling, and sustainability skills directly into personal service operations and management.
+Customer Experience & Service (Score: MEDIUM, 6 shared tags) — CX specialists bring empathy, service recovery, field service, conflict resolution, and client management competencies directly into personal services delivery and client retention.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Maker Economy & Creative Crafts (Score: HIGH, 7 shared tags) — Personal service business owners transition into product-based maker businesses, combining service delivery expertise with craft production and small-batch manufacturing.
+Wholesale & Retail Trade (Score: MEDIUM, 6 shared tags) — Independent service operators move into retail management, commercial service distribution, and omnichannel customer operations.
+Customer Experience & Service (Score: MEDIUM, 6 shared tags) — Personal service professionals transition into corporate customer experience design, service strategy, and CX management roles.
+
 **Bridging Cluster Tags:**
+Customer Experience, Finance, Safety, Compliance, Maintenance
+
 **Common Transition Populations:**
+early_career, returning_workforce, career_explorer, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Personal Trainer, Cosmetologist, Independent Service Technician

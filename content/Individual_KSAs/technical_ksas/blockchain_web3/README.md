@@ -108,7 +108,19 @@ _Last updated: 11 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Government & Public Administration (Score: LOW, 3 shared tags) — Compliance officers and digital governance specialists bring regulatory knowledge, risk management, and blockchain policy competencies into Web3 development and protocol governance contexts.
+Finance & Insurance (Score: LOW, 2 shared tags) — FinTech analysts and financial compliance specialists bring regulatory frameworks, risk management, and financial product knowledge into DeFi, tokenization, and open banking blockchain applications.
+Note: blockchain_web3 has no MEDIUM+ adjacency pairs — the sector’s emerging and specialized KSA base limits cross-sector inbound volume; most entrants carry software engineering or financial technology backgrounds.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Government & Public Administration (Score: LOW, 3 shared tags) — Blockchain developers and protocol analysts transition into digital government, regulatory technology, and public-sector blockchain governance roles.
+Finance & Insurance (Score: LOW, 2 shared tags) — DeFi and tokenization specialists move into FinTech product development, financial compliance technology, and open banking integration.
+
 **Bridging Cluster Tags:**
+Blockchain, Compliance, Risk Management
+
 **Common Transition Populations:**
+early_career, education_to_industry, mid_career_change
+
 **Typical Entry Roles for Career Changers:**
+Blockchain Developer, Smart Contract Auditor, Web3 Product Analyst

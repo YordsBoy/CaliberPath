@@ -91,7 +91,18 @@
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Personal & Other Services (Score: MEDIUM, 6 shared tags) — Service business operators bring CRM, compliance, safety, scheduling, sustainability, and analytics skills that apply directly to retail management, buyer roles, and wholesale account management.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Craft business owners and independent makers bring e-commerce, sourcing, pricing, and product development skills into wholesale buying, retail merchandising, and online commerce management.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Personal & Other Services (Score: MEDIUM, 6 shared tags) — Retail managers and buyers transition into service business ownership, customer experience consulting, and independent commercial operations.
+Maker Economy & Creative Crafts (Score: MEDIUM, 4 shared tags) — Retail merchandisers and e-commerce specialists transition into craft product development, independent brand building, and platform marketplace selling.
+
 **Bridging Cluster Tags:**
+E-Commerce, Merchandising, Customer Experience, Analytics
+
 **Common Transition Populations:**
+early_career, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Sales Associate, Retail Team Lead, Merchandising Coordinator

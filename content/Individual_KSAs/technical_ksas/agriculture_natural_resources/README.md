@@ -100,7 +100,20 @@
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Maker Economy & Creative Crafts (Score: MEDIUM, 6 shared tags) — Independent makers and craft entrepreneurs bring compliance, finance, IoT, safety, supply chain, and sustainability skills applicable to specialty agriculture, craft food production, and small-scale farm operations.
+Transportation & Logistics (Score: MEDIUM, 5 shared tags) — Supply chain and logistics professionals bring automation, compliance, safety, supply chain, and sustainability competencies into agricultural operations, agribusiness management, and food distribution.
+Mining & Extraction (Score: MEDIUM, 4 shared tags) — Resource operations managers bring compliance, finance, maintenance, and safety skills applicable to large-scale agricultural operations and natural resource management.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Transportation & Logistics (Score: MEDIUM, 5 shared tags) — Agricultural supply chain managers and operations coordinators transition into food distribution, commodity logistics, and agribusiness transportation management.
+Manufacturing (Score: MEDIUM, 4 shared tags) — Agricultural processing and production managers move into food manufacturing, agri-industrial operations, and agricultural equipment production.
+Energy & Utilities (Score: MEDIUM, 4 shared tags) — Sustainable agriculture specialists transition into agri-energy development, rural energy management, and environmental resource operations.
+
 **Bridging Cluster Tags:**
+Sustainability, Safety, Compliance, Supply Chain
+
 **Common Transition Populations:**
+mid_career_change, returning_workforce, career_explorer
+
 **Typical Entry Roles for Career Changers:**
+Farm Operations Manager, Agricultural Supply Chain Coordinator, Agribusiness Analyst

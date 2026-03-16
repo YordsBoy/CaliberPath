@@ -123,7 +123,20 @@ _Last updated: 17 Oct 2025_
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
+Transportation & Logistics (Score: MEDIUM, 6 shared tags) — Logistics and operations managers bring compliance, logistics coordination, maintenance, quality, safety, and sustainability skills directly applicable to construction site operations and materials management.
+Manufacturing (Score: MEDIUM, 6 shared tags) — Production supervisors and industrial engineers bring lean methods, additive manufacturing experience, maintenance systems, and quality and safety standards applicable to construction project management.
+Maker Economy & Creative Crafts (Score: MEDIUM, 6 shared tags) — Independent fabricators and craftspeople bring additive manufacturing, IoT integration, compliance, maintenance, and sustainability competencies into specialty construction and custom build operations.
+
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
+Transportation & Logistics (Score: MEDIUM, 6 shared tags) — Construction project managers and site coordinators transition into logistics operations management, materials transport coordination, and supply chain roles.
+Manufacturing (Score: MEDIUM, 6 shared tags) — Construction engineers and estimators move into industrial project management, manufacturing engineering, and facilities operations roles.
+Mining & Extraction (Score: MEDIUM, 4 shared tags) — Heavy construction equipment operators and civil engineers transition into mine site infrastructure development, site preparation, and operations management.
+
 **Bridging Cluster Tags:**
+Safety, Maintenance, Planning, Compliance, Automation
+
 **Common Transition Populations:**
+military_transition, mid_career_change, returning_workforce
+
 **Typical Entry Roles for Career Changers:**
+Construction Laborer, Apprentice Electrician, CAD Drafter
