@@ -2,7 +2,7 @@
 ksa_id: public_service_ethics_accountability
 label: Public-Service Ethics & Accountability
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: core
 cluster_tags:
   - "Ethics"

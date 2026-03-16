@@ -2,7 +2,7 @@
 ksa_id: renewable_energy_systems_integration  
 label: Renewable Energy Systems Integration  
 category: Technical  
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: core
 cluster_tags:
   - "Renewable Energy"

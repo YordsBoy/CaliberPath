@@ -2,7 +2,7 @@
 ksa_id: government_continuity_resilience_planning
 label: Government Continuity & Resilience Planning
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: core
 cluster_tags:
   - "Resilience"

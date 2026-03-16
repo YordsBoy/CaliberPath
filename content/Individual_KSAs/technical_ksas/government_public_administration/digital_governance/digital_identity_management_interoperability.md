@@ -2,7 +2,7 @@
 ksa_id: digital_identity_management_interoperability
 label: Digital-Identity Management & Interoperability
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: emerging
 cluster_tags:
   - "Digital Identity"

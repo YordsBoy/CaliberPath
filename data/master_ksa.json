@@ -13853,7 +13853,7 @@
     "ksa_id": "intergovernmental_relations_stakeholder_engagement",
     "label": "Intergovernmental Relations & Stakeholder Engagement",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Intergovernmental",
@@ -13891,7 +13891,7 @@
     "ksa_id": "public_sector_project_management",
     "label": "Public-Sector Project Management",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Project Management",
@@ -13930,7 +13930,7 @@
     "ksa_id": "public_policy_development",
     "label": "Public Policy Development",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Policy",
@@ -13968,7 +13968,7 @@
     "ksa_id": "public_policy_data_analytics",
     "label": "Data-Driven Public Policy & Analytics",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Data Analytics",
@@ -14007,7 +14007,7 @@
     "ksa_id": "participatory_budgeting_civic_engagement",
     "label": "Participatory Budgeting & Civic Engagement",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "Participation",
@@ -14045,7 +14045,7 @@
     "ksa_id": "evidence_based_policy_analytics",
     "label": "Evidence‑Based Policy Analytics",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Policy Analysis",
@@ -14086,7 +14086,7 @@
     "ksa_id": "policy_analysis_program_evaluation",
     "label": "Policy Analysis & Program Evaluation",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Evaluation",
@@ -14126,7 +14126,7 @@
     "ksa_id": "performance_measurement_results_based_management",
     "label": "Performance Measurement & Results-Based Management",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Performance",
@@ -14165,7 +14165,7 @@
     "ksa_id": "legislative_drafting_regulatory_compliance",
     "label": "Legislative Drafting & Regulatory Compliance",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Legislation",
@@ -14204,7 +14204,7 @@
     "ksa_id": "public_private_partnership_management",
     "label": "Public-Private Partnership Management",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "PPP",
@@ -14242,7 +14242,7 @@
     "ksa_id": "public_budgeting_financial_management",
     "label": "Public Budgeting & Financial Management",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Budgeting",
@@ -14281,7 +14281,7 @@
     "ksa_id": "government_procurement_contract_management",
     "label": "Government Procurement & Contract Management",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Procurement",
@@ -14319,7 +14319,7 @@
     "ksa_id": "public_service_ethics_accountability",
     "label": "Public-Service Ethics & Accountability",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Ethics",
@@ -14357,7 +14357,7 @@
     "ksa_id": "data_privacy_governance_public_sector",
     "label": "Data-Privacy Governance in the Public Sector",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "Privacy",
@@ -14395,7 +14395,7 @@
     "ksa_id": "smart_city_governance_iot_cybersecurity",
     "label": "Smart-City Governance & IoT Cybersecurity",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "Smart City",
@@ -14433,7 +14433,7 @@
     "ksa_id": "ecq_digital_leadership",
     "label": "ECQ Leadership in the Digital Era",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Leadership",
@@ -14472,7 +14472,7 @@
     "ksa_id": "digital_identity_management_interoperability",
     "label": "Digital-Identity Management & Interoperability",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "Digital Identity",
@@ -14510,7 +14510,7 @@
     "ksa_id": "digital_government_services",
     "label": "Digital Government Services Delivery",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Digital Services",
@@ -14547,7 +14547,7 @@
     "ksa_id": "civic_tech_open_data_governance",
     "label": "Civic-Tech & Open-Data Governance",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Open Data",
@@ -14585,7 +14585,7 @@
     "ksa_id": "algorithmic_transparency_accountability",
     "label": "Algorithmic Transparency & Accountability",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "emerging",
     "cluster_tags": [
       "AI Governance",
@@ -14623,7 +14623,7 @@
     "ksa_id": "government_continuity_resilience_planning",
     "label": "Government Continuity & Resilience Planning",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Resilience",
@@ -14662,7 +14662,7 @@
     "ksa_id": "emergency_management_continuity_operations",
     "label": "Emergency Management & Continuity Operations",
     "category": "Technical",
-    "sector": "government_public_admin",
+    "sector": "government_public_administration",
     "horizon": "core",
     "cluster_tags": [
       "Continuity",
@@ -15817,7 +15817,7 @@
     "ksa_id": "water_conservation_systems",
     "label": "Water Conservation Systems",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Water Conservation",
@@ -15854,7 +15854,7 @@
     "ksa_id": "grid_interactive_buildings_smart_microgrids",
     "label": "Grid-Interactive Buildings & Smart Microgrids",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Smart Grid",
@@ -15891,7 +15891,7 @@
     "ksa_id": "battery_storage_integration",
     "label": "Battery Storage Systems Integration",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Energy Storage",
@@ -15928,7 +15928,7 @@
     "ksa_id": "solar_system_installation",
     "label": "Solar System Installation Basics",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Solar",
@@ -15965,7 +15965,7 @@
     "ksa_id": "renewable_energy_systems_integration",
     "label": "Renewable Energy Systems Integration",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Renewable Energy",
@@ -16002,7 +16002,7 @@
     "ksa_id": "renewable_energy_systems_design",
     "label": "Renewable Energy Systems Design",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Renewable Energy",
@@ -16041,7 +16041,7 @@
     "ksa_id": "renewable_hydrogen_supply_chain_management",
     "label": "Renewable-Hydrogen Supply-Chain Management",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Hydrogen",
@@ -16079,7 +16079,7 @@
     "ksa_id": "green_finance_esg_reporting",
     "label": "Green Finance & ESG Reporting",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Green Finance",
@@ -16118,7 +16118,7 @@
     "ksa_id": "green_building_principles",
     "label": "Green Building Principles",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Green Building",
@@ -16157,7 +16157,7 @@
     "ksa_id": "energy_auditing_efficiency",
     "label": "Energy Auditing and Efficiency Optimization",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Energy Efficiency",
@@ -16194,7 +16194,7 @@
     "ksa_id": "climate_risk_modeling_scenario_analysis",
     "label": "Climate Risk Modelling & Scenario Analysis",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Climate Risk",
@@ -16233,7 +16233,7 @@
     "ksa_id": "climate_adaptation_infrastructure_planning",
     "label": "Climate Adaptation Infrastructure Planning",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Climate Adaptation",
@@ -16272,7 +16272,7 @@
     "ksa_id": "sustainable_materials_life_cycle_assessment",
     "label": "Sustainable Materials & Life-Cycle Assessment (LCA)",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Sustainable Materials",
@@ -16310,7 +16310,7 @@
     "ksa_id": "circular_economy_design_engineering",
     "label": "Circular Economy Design Engineering",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Circular Economy",
@@ -16348,7 +16348,7 @@
     "ksa_id": "lifecycle_ghg_accounting_lca",
     "label": "Lifecycle GHG Accounting & Life-Cycle Assessment (LCA)",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "Life Cycle Assessment",
@@ -16387,7 +16387,7 @@
     "ksa_id": "direct_air_capture_operations_management",
     "label": "Direct-Air Capture Operations Management",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Direct Air Capture",
@@ -16424,7 +16424,7 @@
     "ksa_id": "ccus_operations_monitoring",
     "label": "Carbon Capture, Utilisation & Storage (CCUS) Operations & Monitoring",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "CCUS",
@@ -16462,7 +16462,7 @@
     "ksa_id": "carbon_capture_utilization_storage_ccus",
     "label": "Carbon Capture, Utilisation & Storage (CCUS)",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "CCUS",
@@ -16503,7 +16503,7 @@
     "ksa_id": "carbon_accounting_ghg_inventory",
     "label": "Carbon Accounting & GHG Inventory",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "core",
     "cluster_tags": [
       "GHG Inventory",
@@ -16541,7 +16541,7 @@
     "ksa_id": "environmental_blockchain_energy_trading",
     "label": "Environmental-Blockchain Energy Trading",
     "category": "Technical",
-    "sector": "env_energy_advanced",
+    "sector": "environmental_energy_advanced",
     "horizon": "emerging",
     "cluster_tags": [
       "Blockchain",

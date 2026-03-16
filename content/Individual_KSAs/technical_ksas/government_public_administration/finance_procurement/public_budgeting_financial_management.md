@@ -2,7 +2,7 @@
 ksa_id: public_budgeting_financial_management
 label: Public Budgeting & Financial Management
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: core
 cluster_tags:
   - "Budgeting"

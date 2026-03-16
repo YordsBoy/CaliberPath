@@ -2,7 +2,7 @@
 ksa_id: energy_auditing_efficiency  
 label: Energy Auditing and Efficiency Optimization  
 category: Technical  
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: core
 cluster_tags:
   - "Energy Efficiency"

@@ -2,7 +2,7 @@
 ksa_id: carbon_capture_utilization_storage_ccus
 label: Carbon Capture, Utilisation & Storage (CCUS)
 category: Technical
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: emerging
 cluster_tags:
   - "CCUS"

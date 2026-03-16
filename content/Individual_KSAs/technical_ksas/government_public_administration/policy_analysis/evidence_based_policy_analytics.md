@@ -2,7 +2,7 @@
 ksa_id: evidence_based_policy_analytics
 label: Evidence‑Based Policy Analytics
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: core
 cluster_tags:
   - "Policy Analysis"

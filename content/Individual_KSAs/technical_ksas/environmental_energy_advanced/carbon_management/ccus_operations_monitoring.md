@@ -2,7 +2,7 @@
 ksa_id: ccus_operations_monitoring
 label: Carbon Capture, Utilisation & Storage (CCUS) Operations & Monitoring
 category: Technical
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: emerging
 cluster_tags:
   - "CCUS"

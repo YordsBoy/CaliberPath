@@ -2,7 +2,7 @@
 ksa_id: green_finance_esg_reporting
 label: Green Finance & ESG Reporting
 category: Technical
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: core
 cluster_tags:
   - "Green Finance"

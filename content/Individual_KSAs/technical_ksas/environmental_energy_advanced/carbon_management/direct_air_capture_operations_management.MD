@@ -2,7 +2,7 @@
 ksa_id: direct_air_capture_operations_management
 label: Direct-Air Capture Operations Management
 category: Technical
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: emerging
 cluster_tags:
   - "Direct Air Capture"

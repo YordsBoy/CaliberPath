@@ -2,7 +2,7 @@
 ksa_id: battery_storage_integration  
 label: Battery Storage Systems Integration  
 category: Technical  
-sector: env_energy_advanced
+sector: environmental_energy_advanced
 horizon: emerging  
 cluster_tags:
   - "Energy Storage"

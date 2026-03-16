@@ -2,7 +2,7 @@
 ksa_id: policy_analysis_program_evaluation
 label: Policy Analysis & Program Evaluation
 category: Technical
-sector: government_public_admin
+sector: government_public_administration
 horizon: core
 cluster_tags:
   - "Evaluation"
