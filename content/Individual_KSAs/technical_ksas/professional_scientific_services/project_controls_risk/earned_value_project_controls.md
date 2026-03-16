@@ -7,6 +7,15 @@ horizon: core
 cluster_tags:
   - "EVM"
   - "Project Controls"
+adjacent_sectors:
+  - "manufacturing"
+  - "government_public_administration"
+  - "construction_infrastructure"
+  - "space_economy_aerospace"
+transfer_populations:
+  - "military_transition"
+  - "mid_career_change"
+  - "education_to_industry"
 description: Implementing Earned Value Management (EVM) per ANSI/EIA-748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.
 source_frameworks:
   - "ANSI/EIA-748-D Earned Value Management Systems Standard (U.S. standards body — ANSI / Electronic Industries Alliance; proprietary standard; conceptual alignment only)"

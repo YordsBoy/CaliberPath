@@ -2,11 +2,24 @@
 ksa_id: creative_project_management
 label: Creative Project Management
 category: Technical
-sector: creative_cultural_industries
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Project Management"
   - "Agile"
+adjacent_sectors:
+  - "government_public_administration"
+  - "manufacturing"
+  - "nonprofit_ngos"
+  - "core_it_cloud"
+  - "professional_scientific_services"
+  - "healthcare_social_assistance"
+  - "finance_insurance"
+transfer_populations:
+  - "early_career"
+  - "mid_career_change"
+  - "education_to_industry"
+  - "career_explorer"
 description: >
   Plans and delivers creative projects using hybrid methodologies that blend
   Agile sprints with the Project Management Institute (PMI) PMBOK phases; aligns

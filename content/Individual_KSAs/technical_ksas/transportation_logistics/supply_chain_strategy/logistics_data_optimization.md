@@ -7,7 +7,15 @@ horizon: emerging
 cluster_tags:
   - "Data Optimisation"
   - "Supply Chain"
-description: >  
+adjacent_sectors:
+  - "manufacturing"
+  - "agriculture_natural_resources"
+  - "construction_infrastructure"
+transfer_populations:
+  - "military_transition"
+  - "mid_career_change"
+  - "early_career"
+description: >
   Utilizes advanced software and data analytics to optimize transportation routes and supply chain efficiency;  
   interprets data from GPS tracking, telematics, and inventory systems to improve routing, reduce fuel consumption and delivery times, predict delays, and enhance overall supply chain visibility and responsiveness.  
 source_frameworks:

@@ -2081,6 +2081,16 @@
       "Data Optimisation",
       "Supply Chain"
     ],
+    "adjacent_sectors": [
+      "manufacturing",
+      "agriculture_natural_resources",
+      "construction_infrastructure"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "mid_career_change",
+      "early_career"
+    ],
     "description": "Utilizes advanced software and data analytics to optimize transportation routes and supply chain efficiency;   interprets data from GPS tracking, telematics, and inventory systems to improve routing, reduce fuel consumption and delivery times, predict delays, and enhance overall supply chain visibility and responsiveness.  \n",
     "source_frameworks": [
       "GS1 EPCIS 2.0 (Electronic Product Code Information Services) standard (GS1 — nonprofit standards body; conceptual alignment only)",
@@ -2275,6 +2285,16 @@
     "cluster_tags": [
       "Diagnostics",
       "Maintenance"
+    ],
+    "adjacent_sectors": [
+      "manufacturing",
+      "mining_extraction",
+      "construction_infrastructure"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "mid_career_change",
+      "returning_workforce"
     ],
     "description": "Troubleshoots engines, gear trains, or motors to restore optimal performance.",
     "source_frameworks": [
@@ -5104,11 +5124,26 @@
     "ksa_id": "risk_management_framework_consulting",
     "label": "Risk-Management Framework Consulting",
     "category": "Technical",
-    "sector": "professional_scientific_services",
+    "sector": "cross_sector",
     "horizon": "emerging",
     "cluster_tags": [
       "Risk Management",
       "Framework"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration",
+      "manufacturing",
+      "construction_infrastructure",
+      "healthcare_social_assistance",
+      "finance_insurance",
+      "energy_utilities",
+      "core_it_cloud"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "military_transition",
+      "education_to_industry",
+      "career_explorer"
     ],
     "description": "Advises clients on ISO 31000 enterprise-risk management (ERM) or NIST Risk-Management Framework (RMF) for cybersecurity, including risk appetite, heat-maps, and treatment planning.\n",
     "source_frameworks": [
@@ -5147,6 +5182,17 @@
     "cluster_tags": [
       "EVM",
       "Project Controls"
+    ],
+    "adjacent_sectors": [
+      "manufacturing",
+      "government_public_administration",
+      "construction_infrastructure",
+      "space_economy_aerospace"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "mid_career_change",
+      "education_to_industry"
     ],
     "description": "Implementing Earned Value Management (EVM) per ANSI/EIA-748 guidelines to integrate scope, schedule, and cost, calculate performance indices, and forecast Estimate at Completion (EAC) for scientific and consulting projects.",
     "source_frameworks": [
@@ -5412,11 +5458,26 @@
     "ksa_id": "change_management_facilitation",
     "label": "Change-Management Facilitation",
     "category": "Technical",
-    "sector": "professional_scientific_services",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Change Management",
       "Facilitation"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration",
+      "manufacturing",
+      "healthcare_social_assistance",
+      "finance_insurance",
+      "nonprofit_ngos",
+      "education_training",
+      "construction_infrastructure"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "military_transition",
+      "early_career",
+      "career_explorer"
     ],
     "description": "Guiding organizations through transition using Prosci ADKAR, Kotter 8-Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy-in and sustain adoption.",
     "source_frameworks": [
@@ -5457,6 +5518,16 @@
     "cluster_tags": [
       "Analytics",
       "Consulting Toolkit"
+    ],
+    "adjacent_sectors": [
+      "ai_data_quantum",
+      "government_public_administration",
+      "finance_insurance"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "education_to_industry",
+      "career_explorer"
     ],
     "description": "Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence-based recommendations.",
     "source_frameworks": [
@@ -5536,6 +5607,16 @@
     "cluster_tags": [
       "Sustainability",
       "Sourcing"
+    ],
+    "adjacent_sectors": [
+      "maker_economy_creative_crafts",
+      "environmental_energy_advanced",
+      "wholesale_retail_trade"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "career_explorer",
+      "mid_career_change"
     ],
     "description": "Procures eco-certified cosmetics (COSMOS, Leaping Bunny), biodegradable disposables, and implements waste-reduction practices.\n",
     "source_frameworks": [
@@ -6277,6 +6358,16 @@
       "Finance",
       "Pricing"
     ],
+    "adjacent_sectors": [
+      "maker_economy_creative_crafts",
+      "gig_platform_economy",
+      "hospitality_tourism"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "career_explorer",
+      "returning_workforce"
+    ],
     "description": "Sets service prices using cost-plus, value-based, and dynamic demand models; analyses break-even and profit margin.\n",
     "source_frameworks": [
       "SBA Break-Even Calculator and financial planning resources — U.S. government — SBA; public domain",
@@ -6309,11 +6400,24 @@
     "ksa_id": "small_business_compliance",
     "label": "Small-Business Legal & Tax Compliance",
     "category": "Technical",
-    "sector": "personal_other_services",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Compliance",
       "Regulations"
+    ],
+    "adjacent_sectors": [
+      "maker_economy_creative_crafts",
+      "gig_platform_economy",
+      "hospitality_tourism",
+      "arts_recreation_services",
+      "informal_gray_economy"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "returning_workforce",
+      "career_explorer",
+      "mid_career_change"
     ],
     "description": "Navigates permits, local licensing, basic contracts, and tax obligations to operate personal-service businesses legally and efficiently.",
     "source_frameworks": [
@@ -9476,11 +9580,26 @@
     "ksa_id": "quality_management_iso9001",
     "label": "Quality Management System (QMS) – ISO 9001",
     "category": "Technical",
-    "sector": "manufacturing",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Quality",
       "ISO 9001"
+    ],
+    "adjacent_sectors": [
+      "construction_infrastructure",
+      "healthcare_social_assistance",
+      "transportation_logistics",
+      "government_public_administration",
+      "professional_scientific_services",
+      "space_economy_aerospace",
+      "energy_utilities"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "military_transition",
+      "returning_workforce",
+      "early_career"
     ],
     "description": "Designs, documents, and continually improves a Quality Management System in line with ISO 9001:2015 clauses 4–10, covering risk-based thinking, internal audits, and management review.\n",
     "source_frameworks": [
@@ -9587,11 +9706,26 @@
     "ksa_id": "environmental_compliance_iso14001",
     "label": "Environmental Compliance – ISO 14001",
     "category": "Technical",
-    "sector": "manufacturing",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Environment",
       "ISO 14001"
+    ],
+    "adjacent_sectors": [
+      "construction_infrastructure",
+      "energy_utilities",
+      "environmental_energy_advanced",
+      "transportation_logistics",
+      "agriculture_natural_resources",
+      "mining_extraction",
+      "government_public_administration"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "education_to_industry",
+      "military_transition",
+      "career_explorer"
     ],
     "description": "Establishes, implements, and audits an Environmental Management System (EMS) aligned with ISO 14001:2015, covering legal compliance, life-cycle perspective, and continuous improvement metrics.\n",
     "source_frameworks": [
@@ -9629,6 +9763,16 @@
     "cluster_tags": [
       "Supply Chain",
       "Logistics"
+    ],
+    "adjacent_sectors": [
+      "transportation_logistics",
+      "construction_infrastructure",
+      "agriculture_natural_resources"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "mid_career_change",
+      "returning_workforce"
     ],
     "description": "Plans sourcing, inbound logistics, warehousing, and outbound distribution using Supply Chain Operations Reference (SCOR) metrics—Perfect Order Fulfilment, Cash-to-Cash Cycle—and integrates with Just-In-Time (JIT) production.\n",
     "source_frameworks": [
@@ -10658,6 +10802,16 @@
     "cluster_tags": [
       "Pricing",
       "Strategy"
+    ],
+    "adjacent_sectors": [
+      "personal_other_services",
+      "hospitality_tourism",
+      "wholesale_retail_trade"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "career_explorer",
+      "returning_workforce"
     ],
     "description": "Calculates cost of goods sold (COGS), time, overhead, and market positioning to set profitable yet competitive prices for handcrafted products.",
     "source_frameworks": [
@@ -15045,11 +15199,24 @@
     "ksa_id": "gig_worker_compliance_finance",
     "label": "Gig Worker Compliance & Personal Finance",
     "category": "Technical",
-    "sector": "gig_platform_economy",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Compliance",
       "Finance"
+    ],
+    "adjacent_sectors": [
+      "personal_other_services",
+      "maker_economy_creative_crafts",
+      "professional_scientific_services",
+      "arts_recreation_services",
+      "informal_gray_economy"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "returning_workforce",
+      "career_explorer",
+      "mid_career_change"
     ],
     "description": "Manages legal, tax, and financial aspects of gig work; understands platform terms of service, tracks income and expenses for tax filing, maintains insurance and permits where required, and plans personal finances despite variable income.  \n",
     "source_frameworks": [
@@ -15354,12 +15521,27 @@
     "ksa_id": "ifrs_sustainability_disclosure_compliance",
     "label": "IFRS S1/S2 Sustainability Disclosure Compliance",
     "category": "Technical",
-    "sector": "finance_insurance",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Sustainable Finance",
       "ESG Reporting",
       "IFRS"
+    ],
+    "adjacent_sectors": [
+      "manufacturing",
+      "mining_extraction",
+      "energy_utilities",
+      "construction_infrastructure",
+      "transportation_logistics",
+      "real_estate_property",
+      "environmental_energy_advanced"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "education_to_industry",
+      "career_explorer",
+      "early_career"
     ],
     "description": "Preparing, assuring, and filing sustainability disclosures in alignment with International Financial Reporting Standards (IFRS) S1 (General Requirements) and S2 (Climate-Related Disclosures), integrating data from finance, risk, and operations.",
     "source_frameworks": [
@@ -16079,11 +16261,26 @@
     "ksa_id": "green_finance_esg_reporting",
     "label": "Green Finance & ESG Reporting",
     "category": "Technical",
-    "sector": "environmental_energy_advanced",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Green Finance",
       "ESG"
+    ],
+    "adjacent_sectors": [
+      "finance_insurance",
+      "manufacturing",
+      "construction_infrastructure",
+      "real_estate_property",
+      "mining_extraction",
+      "agriculture_natural_resources",
+      "transportation_logistics"
+    ],
+    "transfer_populations": [
+      "mid_career_change",
+      "education_to_industry",
+      "career_explorer",
+      "military_transition"
     ],
     "description": "Structuring green bonds, sustainability-linked loans, and ESG disclosures, aligning with EU Taxonomy, Green Bond Principles, and Global Reporting Initiative (GRI) standards.\n",
     "source_frameworks": [
@@ -16162,6 +16359,16 @@
     "cluster_tags": [
       "Energy Efficiency",
       "Auditing"
+    ],
+    "adjacent_sectors": [
+      "energy_utilities",
+      "construction_infrastructure",
+      "real_estate_property"
+    ],
+    "transfer_populations": [
+      "education_to_industry",
+      "mid_career_change",
+      "career_explorer"
     ],
     "description": "Conducts ASHRAE Level 1-3 audits; benchmarks facilities, identifies ECMs (energy-conservation measures), calculates ROI, and verifies M&V results.\n",
     "source_frameworks": [
@@ -16959,6 +17166,15 @@
       "Smart Grid",
       "Grid Management"
     ],
+    "adjacent_sectors": [
+      "environmental_energy_advanced",
+      "construction_infrastructure"
+    ],
+    "transfer_populations": [
+      "education_to_industry",
+      "mid_career_change",
+      "military_transition"
+    ],
     "description": "Monitors and controls smart grid systems with advanced metering infrastructure (AMI);   coordinates demand response programs and distributed energy resources (DERs) to maintain grid stability and optimize energy distribution.  \n",
     "source_frameworks": [
       "IEEE 2030 series — Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (proprietary standard — Institute of Electrical and Electronics Engineers; conceptual alignment only)"
@@ -17108,6 +17324,14 @@
     "cluster_tags": [
       "Environment",
       "GHG"
+    ],
+    "adjacent_sectors": [
+      "environmental_energy_advanced",
+      "mining_extraction"
+    ],
+    "transfer_populations": [
+      "education_to_industry",
+      "mid_career_change"
     ],
     "description": "Quantifies Scope 1 emissions, completes EPA GHGRP reports, and develops mitigation plans (CCS, offsets) for utility operations.\n",
     "source_frameworks": [
@@ -18859,11 +19083,26 @@
     "ksa_id": "creative_project_management",
     "label": "Creative Project Management",
     "category": "Technical",
-    "sector": "creative_cultural_industries",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Project Management",
       "Agile"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration",
+      "manufacturing",
+      "nonprofit_ngos",
+      "core_it_cloud",
+      "professional_scientific_services",
+      "healthcare_social_assistance",
+      "finance_insurance"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "mid_career_change",
+      "education_to_industry",
+      "career_explorer"
     ],
     "description": "Plans and delivers creative projects using hybrid methodologies that blend Agile sprints with the Project Management Institute (PMI) PMBOK phases; aligns scope, budget, talent, and client feedback in fast-iterating environments.\n",
     "source_frameworks": [
@@ -19860,6 +20099,16 @@
       "DevOps",
       "CI/CD"
     ],
+    "adjacent_sectors": [
+      "ai_data_quantum",
+      "telecommunications",
+      "finance_insurance"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "education_to_industry",
+      "early_career"
+    ],
     "description": "Automates build-test-deploy pipelines using tools like Jenkins, GitHub Actions, or GitLab; manages artefacts, container registries, and release orchestration.\n",
     "source_frameworks": [
       "DORA State of DevOps 2023 (Google Cloud–affiliated research report; conceptual alignment only)",
@@ -20123,6 +20372,16 @@
     "cluster_tags": [
       "Cloud Architecture",
       "Well-Architected"
+    ],
+    "adjacent_sectors": [
+      "ai_data_quantum",
+      "manufacturing",
+      "finance_insurance"
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "education_to_industry",
+      "mid_career_change"
     ],
     "description": "Designs secure, resilient, performant cloud topologies using reference architectures and Well-Architected pillars (AWS, Azure, GCP); selects compute, storage, and networking patterns aligned with business requirements.\n",
     "source_frameworks": [
@@ -23123,11 +23382,26 @@
     "ksa_id": "data_analysis_fundamentals",
     "label": "Data Analysis Fundamentals",
     "category": "Technical",
-    "sector": "ai_data_quantum",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Data Analytics",
       "Statistics"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration",
+      "finance_insurance",
+      "healthcare_social_assistance",
+      "professional_scientific_services",
+      "wholesale_retail_trade",
+      "manufacturing",
+      "nonprofit_ngos"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "mid_career_change",
+      "education_to_industry",
+      "military_transition"
     ],
     "description": "Utilises descriptive statistics and basic visualisation to interpret datasets; cleans and preprocesses data to support evidence-based decisions across business functions.\n",
     "source_frameworks": [
@@ -24739,11 +25013,26 @@
     "ksa_id": "business_communications_writing",
     "label": "Business Communications & Writing",
     "category": "Technical",
-    "sector": "administrative_support_services",
+    "sector": "cross_sector",
     "horizon": "core",
     "cluster_tags": [
       "Correspondence",
       "Professional Writing"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration",
+      "manufacturing",
+      "healthcare_social_assistance",
+      "nonprofit_ngos",
+      "professional_scientific_services",
+      "education_training",
+      "finance_insurance"
+    ],
+    "transfer_populations": [
+      "early_career",
+      "returning_workforce",
+      "mid_career_change",
+      "career_explorer"
     ],
     "description": "Produces clear, concise, and audience-appropriate business documents, presentations, and correspondence.",
     "source_frameworks": [

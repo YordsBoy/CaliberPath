@@ -2,11 +2,24 @@
 ksa_id: data_analysis_fundamentals
 label: Data Analysis Fundamentals
 category: Technical
-sector: ai_data_quantum
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Data Analytics"
   - "Statistics"
+adjacent_sectors:
+  - "government_public_administration"
+  - "finance_insurance"
+  - "healthcare_social_assistance"
+  - "professional_scientific_services"
+  - "wholesale_retail_trade"
+  - "manufacturing"
+  - "nonprofit_ngos"
+transfer_populations:
+  - "early_career"
+  - "mid_career_change"
+  - "education_to_industry"
+  - "military_transition"
 description: >
   Utilises descriptive statistics and basic visualisation to interpret datasets; cleans and preprocesses data to support evidence-based decisions across business functions.
 source_frameworks:

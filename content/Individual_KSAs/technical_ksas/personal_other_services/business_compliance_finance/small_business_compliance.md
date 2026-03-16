@@ -2,11 +2,22 @@
 ksa_id: small_business_compliance
 label: Small-Business Legal & Tax Compliance
 category: Technical
-sector: personal_other_services
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Compliance"
   - "Regulations"
+adjacent_sectors:
+  - "maker_economy_creative_crafts"
+  - "gig_platform_economy"
+  - "hospitality_tourism"
+  - "arts_recreation_services"
+  - "informal_gray_economy"
+transfer_populations:
+  - "early_career"
+  - "returning_workforce"
+  - "career_explorer"
+  - "mid_career_change"
 description: Navigates permits, local licensing, basic contracts, and tax obligations to operate personal-service businesses legally and efficiently.
 source_frameworks:
   - "SBA State Business License Directory — U.S. government — SBA; public domain"

@@ -2,9 +2,22 @@
 ksa_id: ifrs_sustainability_disclosure_compliance
 label: IFRS S1/S2 Sustainability Disclosure Compliance
 category: Technical
-sector: finance_insurance
+sector: cross_sector
 horizon: core
 cluster_tags: ["Sustainable Finance","ESG Reporting","IFRS"]
+adjacent_sectors:
+  - "manufacturing"
+  - "mining_extraction"
+  - "energy_utilities"
+  - "construction_infrastructure"
+  - "transportation_logistics"
+  - "real_estate_property"
+  - "environmental_energy_advanced"
+transfer_populations:
+  - "mid_career_change"
+  - "education_to_industry"
+  - "career_explorer"
+  - "early_career"
 description: Preparing, assuring, and filing sustainability disclosures in alignment with International Financial Reporting Standards (IFRS) S1 (General Requirements) and S2 (Climate-Related Disclosures), integrating data from finance, risk, and operations.
 source_frameworks:
   - "IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information and IFRS S2 Climate-related Disclosures (IASB/IFRS Foundation standards; conceptual alignment only — CaliberPath does not assert reproduction rights)"

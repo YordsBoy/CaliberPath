@@ -7,6 +7,14 @@ horizon: emerging
 cluster_tags:
   - "Sustainability"
   - "Sourcing"
+adjacent_sectors:
+  - "maker_economy_creative_crafts"
+  - "environmental_energy_advanced"
+  - "wholesale_retail_trade"
+transfer_populations:
+  - "early_career"
+  - "career_explorer"
+  - "mid_career_change"
 description: >
   Procures eco-certified cosmetics (COSMOS, Leaping Bunny), biodegradable disposables, and implements waste-reduction practices.
 source_frameworks:

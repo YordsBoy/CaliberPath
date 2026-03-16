@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Diagnostics"
   - "Maintenance"
+adjacent_sectors:
+  - "manufacturing"
+  - "mining_extraction"
+  - "construction_infrastructure"
+transfer_populations:
+  - "military_transition"
+  - "mid_career_change"
+  - "returning_workforce"
 description: Troubleshoots engines, gear trains, or motors to restore optimal performance.
 source_frameworks:
   - "SAE J1939 Heavy Duty Vehicle Network serial communications standard series (SAE proprietary standard — SAE International; conceptual alignment only)"

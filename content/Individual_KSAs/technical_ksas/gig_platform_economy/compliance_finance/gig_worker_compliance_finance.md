@@ -2,12 +2,23 @@
 ksa_id: gig_worker_compliance_finance  
 label: Gig Worker Compliance & Personal Finance  
 category: Technical  
-sector: gig_platform_economy
-horizon: core  
+sector: cross_sector
+horizon: core
 cluster_tags:
   - "Compliance"
   - "Finance"
-description: >  
+adjacent_sectors:
+  - "personal_other_services"
+  - "maker_economy_creative_crafts"
+  - "professional_scientific_services"
+  - "arts_recreation_services"
+  - "informal_gray_economy"
+transfer_populations:
+  - "early_career"
+  - "returning_workforce"
+  - "career_explorer"
+  - "mid_career_change"
+description: >
   Manages legal, tax, and financial aspects of gig work; understands platform terms of service, tracks income and expenses for tax filing, maintains insurance and permits where required, and plans personal finances despite variable income.  
 source_frameworks:  
   - "IRS Gig Economy Tax Center — U.S. government — IRS/Treasury; public domain"

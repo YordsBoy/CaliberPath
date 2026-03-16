@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Cloud Architecture"
   - "Well-Architected"
+adjacent_sectors:
+  - "ai_data_quantum"
+  - "manufacturing"
+  - "finance_insurance"
+transfer_populations:
+  - "military_transition"
+  - "education_to_industry"
+  - "mid_career_change"
 description: >
   Designs secure, resilient, performant cloud topologies using reference architectures and Well-Architected pillars (AWS, Azure, GCP); selects compute, storage, and networking patterns aligned with business requirements.
 source_frameworks:

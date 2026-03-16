@@ -2,11 +2,24 @@
 ksa_id: environmental_compliance_iso14001
 label: Environmental Compliance – ISO 14001
 category: Technical
-sector: manufacturing
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Environment"
   - "ISO 14001"
+adjacent_sectors:
+  - "construction_infrastructure"
+  - "energy_utilities"
+  - "environmental_energy_advanced"
+  - "transportation_logistics"
+  - "agriculture_natural_resources"
+  - "mining_extraction"
+  - "government_public_administration"
+transfer_populations:
+  - "mid_career_change"
+  - "education_to_industry"
+  - "military_transition"
+  - "career_explorer"
 description: >
   Establishes, implements, and audits an Environmental Management System (EMS)
   aligned with ISO 14001:2015, covering legal compliance, life-cycle

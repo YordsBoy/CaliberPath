@@ -2,11 +2,24 @@
 ksa_id: green_finance_esg_reporting
 label: Green Finance & ESG Reporting
 category: Technical
-sector: environmental_energy_advanced
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Green Finance"
   - "ESG"
+adjacent_sectors:
+  - "finance_insurance"
+  - "manufacturing"
+  - "construction_infrastructure"
+  - "real_estate_property"
+  - "mining_extraction"
+  - "agriculture_natural_resources"
+  - "transportation_logistics"
+transfer_populations:
+  - "mid_career_change"
+  - "education_to_industry"
+  - "career_explorer"
+  - "military_transition"
 description: >
   Structuring green bonds, sustainability-linked loans, and ESG disclosures, aligning with EU Taxonomy, Green Bond Principles, and Global Reporting Initiative (GRI) standards.
 source_frameworks:

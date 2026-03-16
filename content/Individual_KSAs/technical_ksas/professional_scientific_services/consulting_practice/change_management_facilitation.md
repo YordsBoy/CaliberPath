@@ -2,11 +2,24 @@
 ksa_id: change_management_facilitation
 label: Change-Management Facilitation
 category: Technical
-sector: professional_scientific_services
+sector: cross_sector
 horizon: core
 cluster_tags:
   - "Change Management"
   - "Facilitation"
+adjacent_sectors:
+  - "government_public_administration"
+  - "manufacturing"
+  - "healthcare_social_assistance"
+  - "finance_insurance"
+  - "nonprofit_ngos"
+  - "education_training"
+  - "construction_infrastructure"
+transfer_populations:
+  - "mid_career_change"
+  - "military_transition"
+  - "early_career"
+  - "career_explorer"
 description: Guiding organizations through transition using Prosci ADKAR, Kotter 8-Step, and Association of Change Management Professionals (ACMP) Standard to build stakeholder buy-in and sustain adoption.
 source_frameworks:
   - "PMI Managing Change in Organizations practice guide (commercial professional association — Project Management Institute; conceptual alignment only)"

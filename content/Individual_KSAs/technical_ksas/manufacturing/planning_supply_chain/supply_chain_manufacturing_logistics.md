@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Supply Chain"
   - "Logistics"
+adjacent_sectors:
+  - "transportation_logistics"
+  - "construction_infrastructure"
+  - "agriculture_natural_resources"
+transfer_populations:
+  - "military_transition"
+  - "mid_career_change"
+  - "returning_workforce"
 description: >
   Plans sourcing, inbound logistics, warehousing, and outbound distribution
   using Supply Chain Operations Reference (SCOR) metrics—Perfect Order

@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Analytics"
   - "Consulting Toolkit"
+adjacent_sectors:
+  - "ai_data_quantum"
+  - "government_public_administration"
+  - "finance_insurance"
+transfer_populations:
+  - "mid_career_change"
+  - "education_to_industry"
+  - "career_explorer"
 description: Leveraging descriptive, predictive, and prescriptive analytics—SQL, Python, visualisation—to generate client insights, model scenarios, and support evidence-based recommendations.
 source_frameworks:
   - "IMC USA Code of Ethics (professional membership association — Institute of Management Consultants USA; publicly available)"

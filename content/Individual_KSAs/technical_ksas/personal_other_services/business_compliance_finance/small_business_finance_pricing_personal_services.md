@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Finance"
   - "Pricing"
+adjacent_sectors:
+  - "maker_economy_creative_crafts"
+  - "gig_platform_economy"
+  - "hospitality_tourism"
+transfer_populations:
+  - "early_career"
+  - "career_explorer"
+  - "returning_workforce"
 description: >
   Sets service prices using cost-plus, value-based, and dynamic demand models;
   analyses break-even and profit margin.

@@ -7,6 +7,12 @@ horizon: core
 cluster_tags:
   - "Environment"
   - "GHG"
+adjacent_sectors:
+  - "environmental_energy_advanced"
+  - "mining_extraction"
+transfer_populations:
+  - "education_to_industry"
+  - "mid_career_change"
 description: >
   Quantifies Scope 1 emissions, completes EPA GHGRP reports, and develops
   mitigation plans (CCS, offsets) for utility operations.

@@ -4,10 +4,17 @@ label: Smart Grid Operations & Demand Response
 category: Technical  
 sector: energy_utilities
 horizon: core  
-cluster_tags: 
+cluster_tags:
     - "Smart Grid"
     - "Grid Management"
-description: >  
+adjacent_sectors:
+  - "environmental_energy_advanced"
+  - "construction_infrastructure"
+transfer_populations:
+  - "education_to_industry"
+  - "mid_career_change"
+  - "military_transition"
+description: >
   Monitors and controls smart grid systems with advanced metering infrastructure (AMI);  
   coordinates demand response programs and distributed energy resources (DERs) to maintain grid stability and optimize energy distribution.  
 source_frameworks:  

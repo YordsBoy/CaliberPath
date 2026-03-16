@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Pricing"
   - "Strategy"
+adjacent_sectors:
+  - "personal_other_services"
+  - "hospitality_tourism"
+  - "wholesale_retail_trade"
+transfer_populations:
+  - "early_career"
+  - "career_explorer"
+  - "returning_workforce"
 description: Calculates cost of goods sold (COGS), time, overhead, and market positioning to set profitable yet competitive prices for handcrafted products.
 source_frameworks:
   - "Etsy seller pricing formula guidance — vendor documentation — Etsy Inc.; conceptual alignment only — equivalent handmade marketplace pricing frameworks may demonstrate competency"

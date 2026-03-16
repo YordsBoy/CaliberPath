@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "DevOps"
   - "CI/CD"
+adjacent_sectors:
+  - "ai_data_quantum"
+  - "telecommunications"
+  - "finance_insurance"
+transfer_populations:
+  - "military_transition"
+  - "education_to_industry"
+  - "early_career"
 description: |
   Automates build-test-deploy pipelines using tools like Jenkins, GitHub Actions, or GitLab; manages artefacts, container registries, and release orchestration.
 source_frameworks:

@@ -2,11 +2,24 @@
 ksa_id: risk_management_framework_consulting
 label: Risk-Management Framework Consulting
 category: Technical
-sector: professional_scientific_services
+sector: cross_sector
 horizon: emerging
 cluster_tags:
   - "Risk Management"
   - "Framework"
+adjacent_sectors:
+  - "government_public_administration"
+  - "manufacturing"
+  - "construction_infrastructure"
+  - "healthcare_social_assistance"
+  - "finance_insurance"
+  - "energy_utilities"
+  - "core_it_cloud"
+transfer_populations:
+  - "mid_career_change"
+  - "military_transition"
+  - "education_to_industry"
+  - "career_explorer"
 description: >
   Advises clients on ISO 31000 enterprise-risk management (ERM) or NIST Risk-Management Framework (RMF) for cybersecurity, including risk appetite,
   heat-maps, and treatment planning.

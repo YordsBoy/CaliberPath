@@ -7,6 +7,14 @@ horizon: core
 cluster_tags:
   - "Energy Efficiency"
   - "Auditing"
+adjacent_sectors:
+  - "energy_utilities"
+  - "construction_infrastructure"
+  - "real_estate_property"
+transfer_populations:
+  - "education_to_industry"
+  - "mid_career_change"
+  - "career_explorer"
 description: >
   Conducts ASHRAE Level 1-3 audits; benchmarks facilities, identifies ECMs (energy-conservation measures), calculates ROI, and verifies M&V results.
 source_frameworks:
