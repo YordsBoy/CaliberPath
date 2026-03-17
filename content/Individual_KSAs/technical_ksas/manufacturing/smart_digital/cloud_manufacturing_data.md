@@ -22,7 +22,7 @@ proficiency_levels:
   - level: Awareness
     indicator: Explains why manufacturers use cloud platforms for operational data (scalability, analytics accessibility, historian offload); identifies major cloud options for manufacturing data (AWS IoT SiteWise, Azure IoT Hub, Google Cloud); distinguishes on-premises historian storage from cloud data lake storage and describes a common use case for each.
   - level: Basic
-    indicator: Connects to an existing cloud data pipeline or historian mirror; queries time-series manufacturing data (OEE, cycle time, temperature) from a cloud-hosted data store using provided tools or dashboards; understands data naming conventions and tag hierarchies in use at their site; identifies data quality issues such as missing readings or unit mismatches.
+    indicator: Connects to an existing cloud data pipeline or historian mirror; queries time-series manufacturing data (OEE, cycle time, temperature) from a cloud-hosted data store using provided tools or dashboards; describes the data naming conventions and tag hierarchies in use at their site; identifies data quality issues such as missing readings or unit mismatches.
   - level: Intermediate
     indicator: Configures cloud data ingestion from OT sources (historian connectors, MQTT brokers, or edge gateways); designs data lake folder structure and time-series schema for a production line; builds basic analytics dashboards from cloud-hosted manufacturing data; applies access controls to separate IT and OT data consumers; evaluates edge-vs-cloud processing tradeoffs for a given latency and bandwidth context.
   - level: Advanced
