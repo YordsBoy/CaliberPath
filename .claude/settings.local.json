@@ -13,7 +13,11 @@
       "mcp__github__list_issues",
       "mcp__claude_ai_Supabase__list_projects",
       "Bash(claude mcp:*)",
-      "Bash(npx:*)"
+      "Bash(npx:*)",
+      "Bash(npm run:*)",
+      "Bash(done)",
+      "mcp__caliberpath-filesystem__read_multiple_files",
+      "Bash(node -e \":*)"
     ]
   }
 }

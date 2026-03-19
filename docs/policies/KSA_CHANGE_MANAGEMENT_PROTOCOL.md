@@ -89,6 +89,8 @@ Every KSA file — whether newly created or revised — must pass all six criter
 - Apply C6 — no proprietary platform names
 - **OI-09 specific:** All 35 indicators (5 levels × 7 files) are FR-09-xx and require individual founder approval before Claude Code writes any file. Wait for complete founder sign-off on all 35 before executing any write.
 
+**Source authority references in indicators (added 2026-03-17):** Named authorities (CDC, ANA, ISMP, Joint Commission, OSHA, CMS, etc.) belong in `source_frameworks` only — not in indicator text. Indicators at Awareness, Basic, and Intermediate must use generalized behavioral language: "consistent with current evidence-based practice," "per applicable clinical standards," "following institutional protocol." Exception: at Advanced and Expert levels, naming an authority is appropriate only when direct engagement with that authority — evaluating, aligning, influencing, leading accreditation — is itself the observable behavior. Industry-standard behavioral terms (SBAR, Standard Precautions, PDSA, chain of command) are not authority citations and may appear at any level. Full rationale: master protocol Section 5.7.
+
 ### `cluster_tags` (Optional — but operationally required; highest adjacency impact)
 - **All values must be from the Controlled Vocabulary v1.0:**
   ```

@@ -1,5 +1,153 @@
 {
-  "generated_at": "2026-02-19T17:08:58.073Z",
-  "total_errors": 0,
-  "errors": []
+  "generated_at": "2026-03-19T17:21:41.184Z",
+  "total_errors": 3,
+  "errors": [
+    {
+      "file": "content\\Individual_KSAs\\technical_ksas\\_crosswalk\\sector_adjacency_matrix.md",
+      "ksa_id": "sector_adjacency_matrix",
+      "label": null,
+      "errors": [
+        {
+          "field": "label",
+          "message": "must have required property 'label'",
+          "params": {
+            "missingProperty": "label"
+          }
+        },
+        {
+          "field": "category",
+          "message": "must have required property 'category'",
+          "params": {
+            "missingProperty": "category"
+          }
+        },
+        {
+          "field": "description",
+          "message": "must have required property 'description'",
+          "params": {
+            "missingProperty": "description"
+          }
+        },
+        {
+          "field": "sector",
+          "message": "must have required property 'sector'",
+          "params": {
+            "missingProperty": "sector"
+          }
+        },
+        {
+          "field": "horizon",
+          "message": "must have required property 'horizon'",
+          "params": {
+            "missingProperty": "horizon"
+          }
+        },
+        {
+          "field": "proficiency_levels",
+          "message": "must have required property 'proficiency_levels'",
+          "params": {
+            "missingProperty": "proficiency_levels"
+          }
+        }
+      ]
+    },
+    {
+      "file": "content\\Individual_KSAs\\technical_ksas\\_crosswalk\\population_pathways\\military_to_civilian.md",
+      "ksa_id": "military_to_civilian",
+      "label": null,
+      "errors": [
+        {
+          "field": "label",
+          "message": "must have required property 'label'",
+          "params": {
+            "missingProperty": "label"
+          }
+        },
+        {
+          "field": "category",
+          "message": "must have required property 'category'",
+          "params": {
+            "missingProperty": "category"
+          }
+        },
+        {
+          "field": "description",
+          "message": "must have required property 'description'",
+          "params": {
+            "missingProperty": "description"
+          }
+        },
+        {
+          "field": "sector",
+          "message": "must have required property 'sector'",
+          "params": {
+            "missingProperty": "sector"
+          }
+        },
+        {
+          "field": "horizon",
+          "message": "must have required property 'horizon'",
+          "params": {
+            "missingProperty": "horizon"
+          }
+        },
+        {
+          "field": "proficiency_levels",
+          "message": "must have required property 'proficiency_levels'",
+          "params": {
+            "missingProperty": "proficiency_levels"
+          }
+        }
+      ]
+    },
+    {
+      "file": "content\\Individual_KSAs\\technical_ksas\\_crosswalk\\population_pathways\\career_transition_explorer.md",
+      "ksa_id": "career_transition_explorer",
+      "label": null,
+      "errors": [
+        {
+          "field": "label",
+          "message": "must have required property 'label'",
+          "params": {
+            "missingProperty": "label"
+          }
+        },
+        {
+          "field": "category",
+          "message": "must have required property 'category'",
+          "params": {
+            "missingProperty": "category"
+          }
+        },
+        {
+          "field": "description",
+          "message": "must have required property 'description'",
+          "params": {
+            "missingProperty": "description"
+          }
+        },
+        {
+          "field": "sector",
+          "message": "must have required property 'sector'",
+          "params": {
+            "missingProperty": "sector"
+          }
+        },
+        {
+          "field": "horizon",
+          "message": "must have required property 'horizon'",
+          "params": {
+            "missingProperty": "horizon"
+          }
+        },
+        {
+          "field": "proficiency_levels",
+          "message": "must have required property 'proficiency_levels'",
+          "params": {
+            "missingProperty": "proficiency_levels"
+          }
+        }
+      ]
+    }
+  ]
 }

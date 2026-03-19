@@ -17,6 +17,7 @@ Security pressures persist—hundreds of large HIPAA breaches are under active O
 | **RC** | Regulatory Compliance        | Medical-Device Regulatory Compliance             |
 | **FI** | Finance & Value-Based Care   | Revenue Cycle · VBC Data Quality                 |
 | **TV** | Telehealth & Virtual Care    | Telehealth Service Delivery                      |
+| **DC** | Direct Clinical Practice     | Patient Assessment · Medication Administration · Clinical Documentation · Care Plan Development · Patient & Family Education · Infection Control · Early Deterioration Recognition |
 
 ## Horizon Key
 | Horizon        | Meaning                                                    |
@@ -44,6 +45,13 @@ Security pressures persist—hundreds of large HIPAA breaches are under active O
 | revenue_cycle_healthcare_finance        | Revenue-Cycle & Healthcare Finance      | core  |
 | value_based_care_data_quality_metrics   | Value-Based Care Data Quality & Metrics | core  |
 | telehealth_service_delivery             | Telehealth Service Delivery             | core  |
+| patient_assessment_clinical_observation | Patient Assessment & Clinical Observation        | core  |
+| medication_administration_management    | Medication Administration & Management           | core  |
+| clinical_documentation_ehr_entry        | Clinical Documentation & EHR Entry               | core  |
+| care_plan_implementation                | Care Plan Development & Implementation           | core  |
+| patient_family_education                | Patient & Family Education                       | core  |
+| infection_control_sterile_technique     | Infection Control & Sterile Technique            | core  |
+| early_deterioration_recognition_escalation | Early Deterioration Recognition & Escalation | core  |
 
 ## Referenced Frameworks & Standards
 * AMA Collaborative-Care Model Guide
@@ -64,7 +72,7 @@ Security pressures persist—hundreds of large HIPAA breaches are under active O
 
 > *All sources cited for conceptual alignment. No proprietary text copied.*
 
-_Last updated: 11 Oct 2025_
+_Last updated: 19 Mar 2026_
 
 ## Labor Market Context
 *Populated by T-README-02 | Data source: BLS OES + O\*NET + sector workforce studies*
@@ -97,21 +105,23 @@ _Last updated: 11 Oct 2025_
 
 ## Transfer Pathways
 *Populated by T-CROSSWALK-03 | Data source: Sector Adjacency Matrix (_crosswalk/sector_adjacency_matrix.md)*
+*Updated: 2026-03-19 (OI-09 recomputation — 7 direct clinical practice KSAs added backbone tags Safety, Compliance, OSHA 1910, PPE, Infection Control)*
 
 **Top Adjacent Sectors — Inbound (sectors that transfer into this one readily):**
-Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Pharmaceutical retail and medical supply professionals bring compliance and service delivery skills applicable to healthcare administration and patient services coordination.
-Telecommunications (Score: LOW, 2 shared tags) — Health IT and telehealth technology specialists bring digital infrastructure and systems management skills into healthcare informatics and remote care coordination.
-Note: healthcare_social_assistance has intentionally sparse cross-sector adjacency (maximum 2 shared tags with any other sector) — clinical KSA specificity is a design feature. Professionals entering this sector typically carry healthcare-adjacent credentials rather than generic transferable domain skills.
+Personal & Other Services (Score: MEDIUM, 5 shared tags) — Professionals in personal care, wellness, and community services bring patient-facing interpersonal skills, safety awareness, and compliance discipline directly applicable to healthcare support and clinical coordination roles.
+Wholesale & Retail Trade (Score: MEDIUM, 5 shared tags) — Pharmaceutical retail, medical supply, and health product professionals bring compliance, safety, and customer service skills applicable to healthcare administration, patient services coordination, and supply chain roles.
+Energy & Utilities (Score: MEDIUM, 4 shared tags) — Safety-intensive industries share OSHA compliance, PPE discipline, and structured incident reporting practices that translate to healthcare workplace safety and infection control awareness.
 
 **Top Adjacent Sectors — Outbound (sectors this one transfers out to readily):**
-Wholesale & Retail Trade (Score: LOW, 2 shared tags) — Clinical professionals with commercial interests transition into pharmaceutical sales, medical device sales, and health and wellness retail management.
-Education & Training (Score: LOW, 2 shared tags) — Healthcare professionals with teaching instincts move into clinical education, patient education coordination, and health sciences instruction.
+Personal & Other Services (Score: MEDIUM, 5 shared tags) — Clinical professionals with patient care experience transition into wellness services, community health support, and personal care management.
+Wholesale & Retail Trade (Score: MEDIUM, 5 shared tags) — Clinical professionals with commercial interests transition into pharmaceutical sales, medical device sales, and health and wellness retail management.
+Manufacturing (Score: LOW, 3 shared tags) — Healthcare professionals with quality improvement and safety expertise transition into manufacturing quality assurance, safety management, and regulatory compliance roles.
 
 **Bridging Cluster Tags:**
-Patient Care, Compliance, Wellness
+Safety, Compliance, Patient Care, Patient Safety, Clinical Practice
 
 **Common Transition Populations:**
-career_explorer, mid_career_change, returning_workforce
+career_explorer, mid_career_change, returning_workforce, military_transition
 
 **Typical Entry Roles for Career Changers:**
-Health Educator, Patient Services Coordinator, Healthcare Administrator
+Health Educator, Patient Services Coordinator, Healthcare Administrator, Patient Care Technician, Medical Assistant

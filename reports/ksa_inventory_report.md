@@ -1,6 +1,6 @@
 # KSA Inventory Report
 
-**Generated:** Thu, 19 Feb 2026 17:08:58 GMT
+**Generated:** Thu, 19 Mar 2026 17:21:41 GMT
 **Repository:** CaliberPath
 
 ---
@@ -9,12 +9,12 @@
 
 | Metric | Value |
 | ----------------------------------------- | ----- |
-| Total KSA files scanned                   | **682** |
-| Schema-valid                              | **682** (100%) |
-| Schema-invalid                            | **0** (0%) |
-| Missing `cluster_tags` (optional)         | 0 |
-| Missing `source_frameworks` (optional)    | 2 |
-| Missing both optional fields              | 0 |
+| Total KSA files scanned                   | **694** |
+| Schema-valid                              | **691** (100%) |
+| Schema-invalid                            | **3** (0%) |
+| Missing `cluster_tags` (optional)         | 3 |
+| Missing `source_frameworks` (optional)    | 3 |
+| Missing both optional fields              | 3 |
 
 ---
 
@@ -22,10 +22,11 @@
 
 | Category                                      | Count |
 | --------------------------------------------- | ----- |
-| Technical                                     |   637 |
+| Technical                                     |   646 |
 | Universal Professional                        |    15 |
 | Self Management                               |    15 |
 | Leadership                                    |    15 |
+| __missing__                                   |     3 |
 
 ---
 
@@ -33,42 +34,43 @@
 
 | Sector                                        | Count |
 | --------------------------------------------- | ----- |
-| cross_sector                                  |    45 |
+| cross_sector                                  |    56 |
 | mining_extraction                             |    26 |
 | maker_economy_creative_crafts                 |    25 |
 | wholesale_retail_trade                        |    24 |
 | nonprofit_ngos                                |    24 |
+| healthcare_social_assistance                  |    24 |
 | construction_infrastructure                   |    24 |
-| administrative_support_services               |    24 |
-| personal_other_services                       |    23 |
 | hospitality_tourism                           |    23 |
 | core_it_cloud                                 |    23 |
-| government_public_admin                       |    22 |
+| administrative_support_services               |    23 |
+| personal_other_services                       |    22 |
+| government_public_administration              |    22 |
 | media_arts_entertainment                      |    21 |
-| ai_data_quantum                               |    21 |
 | informal_gray_economy                         |    20 |
-| manufacturing                                 |    19 |
-| env_energy_advanced                           |    19 |
+| ai_data_quantum                               |    20 |
+| environmental_energy_advanced                 |    19 |
 | energy_utilities                              |    19 |
-| immersive_media_arvr                          |    18 |
-| finance_insurance                             |    18 |
+| manufacturing                                 |    18 |
+| immersive_media_ar_vr_metaverse               |    18 |
 | transportation_logistics                      |    17 |
 | space_economy_aerospace                       |    17 |
-| healthcare_social_assistance                  |    17 |
+| finance_insurance                             |    17 |
 | education_training                            |    17 |
 | agriculture_natural_resources                 |    17 |
 | telecommunications                            |    16 |
 | public_safety_security                        |    15 |
-| professional_scientific_services              |    15 |
 | arts_recreation_services                      |    15 |
-| biotechnology_synbio                          |    14 |
+| biotechnology_synthetic_biology               |    14 |
 | real_estate_property                          |    13 |
-| digital_content_creator_economy               |    13 |
+| professional_scientific_services              |    13 |
+| digital_content_creation_creator_economy      |    13 |
 | blockchain_web3                               |    13 |
 | unpaid_caregiving_domestic_work               |    12 |
-| gig_platform_economy                          |    11 |
 | customer_experience_service                   |    11 |
-| creative_cultural_industries                  |    11 |
+| gig_platform_economy                          |    10 |
+| creative_cultural_industries                  |    10 |
+| __missing__                                   |     3 |
 
 ---
 
@@ -76,10 +78,11 @@
 
 | Horizon                                       | Count |
 | --------------------------------------------- | ----- |
-| core                                          |   441 |
-| emerging                                      |   181 |
-| perennial                                     |    52 |
-| watch_2030                                    |     8 |
+| core                                          |   446 |
+| emerging                                      |   186 |
+| perennial                                     |    53 |
+| watch_2030                                    |     6 |
+| __missing__                                   |     3 |
 
 ---
 
@@ -89,15 +92,43 @@ Fields checked: `cluster_tags`, `source_frameworks`
 
 | KSA ID | Label | Missing Fields |
 | --- | --- | --- |
-| `craft_fair_event_management` | Craft-Fair & Pop-Up Event Management | source_frameworks |
-| `financial_risk_management` | Financial Risk Management | source_frameworks |
+| `sector_adjacency_matrix` | ? | cluster_tags, source_frameworks |
+| `military_to_civilian` | ? | cluster_tags, source_frameworks |
+| `career_transition_explorer` | ? | cluster_tags, source_frameworks |
 
 ---
 
 ## 6. Validation Errors
 
-_No validation errors found._
+### `content\Individual_KSAs\technical_ksas\_crosswalk\sector_adjacency_matrix.md`
+**KSA ID:** `sector_adjacency_matrix` | **Label:** missing
 
+  - `label`: must have required property 'label'
+  - `category`: must have required property 'category'
+  - `description`: must have required property 'description'
+  - `sector`: must have required property 'sector'
+  - `horizon`: must have required property 'horizon'
+  - `proficiency_levels`: must have required property 'proficiency_levels'
+
+### `content\Individual_KSAs\technical_ksas\_crosswalk\population_pathways\military_to_civilian.md`
+**KSA ID:** `military_to_civilian` | **Label:** missing
+
+  - `label`: must have required property 'label'
+  - `category`: must have required property 'category'
+  - `description`: must have required property 'description'
+  - `sector`: must have required property 'sector'
+  - `horizon`: must have required property 'horizon'
+  - `proficiency_levels`: must have required property 'proficiency_levels'
+
+### `content\Individual_KSAs\technical_ksas\_crosswalk\population_pathways\career_transition_explorer.md`
+**KSA ID:** `career_transition_explorer` | **Label:** missing
+
+  - `label`: must have required property 'label'
+  - `category`: must have required property 'category'
+  - `description`: must have required property 'description'
+  - `sector`: must have required property 'sector'
+  - `horizon`: must have required property 'horizon'
+  - `proficiency_levels`: must have required property 'proficiency_levels'
 
 ---
 
@@ -105,6 +136,6 @@ _No validation errors found._
 
 | File | Description |
 | ---- | ----------- |
-| `reports/ksa_inventory.json` | Full structured inventory (all 682 KSAs) |
+| `reports/ksa_inventory.json` | Full structured inventory (all 694 KSAs) |
 | `reports/ksa_inventory_report.md` | This document |
-| `reports/validation_errors.json` | 0 schema violation(s) with details |
+| `reports/validation_errors.json` | 3 schema violation(s) with details |

@@ -9523,7 +9523,7 @@
       },
       {
         "level": "Basic",
-        "indicator": "Connects to an existing cloud data pipeline or historian mirror; queries time-series manufacturing data (OEE, cycle time, temperature) from a cloud-hosted data store using provided tools or dashboards; understands data naming conventions and tag hierarchies in use at their site; identifies data quality issues such as missing readings or unit mismatches."
+        "indicator": "Connects to an existing cloud data pipeline or historian mirror; queries time-series manufacturing data (OEE, cycle time, temperature) from a cloud-hosted data store using provided tools or dashboards; describes the data naming conventions and tag hierarchies in use at their site; identifies data quality issues such as missing readings or unit mismatches."
       },
       {
         "level": "Intermediate",
@@ -13849,6 +13849,362 @@
       {
         "level": "Expert",
         "indicator": "Directs enterprise all-hazards preparedness strategy; aligns with national response frameworks; liaises with FEMA/HHS ASPR; mentors emergency managers."
+      }
+    ]
+  },
+  {
+    "ksa_id": "patient_family_education",
+    "label": "Patient & Family Education",
+    "category": "Technical",
+    "description": "Covers the assessment of patient and family learning needs, design and delivery\nof individualized health education using plain-language and teach-back\nmethodologies, evaluation of demonstrated comprehension, and documentation of\neducation sessions and learning outcomes. Grounded in Joint Commission patient\neducation standards, AHRQ health literacy frameworks, and QSEN\nPatient-Centered Care competencies.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Patient Safety",
+      "Health Equity",
+      "Compliance",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "The Joint Commission. 'Provision of Care, Treatment, and Services: PC.02.03.01 — Patient/Family Education.' Comprehensive Accreditation Manual for Hospitals (CAMH). The Joint Commission, 2024. Available for purchase; cited for conceptual alignment with accreditation standards.",
+      "Agency for Healthcare Research and Quality. 'Health Literacy Universal Precautions Toolkit, 2nd Edition.' U.S. Department of Health and Human Services, AHRQ, 2020. Open access: ahrq.gov.",
+      "American Nurses Association. 'Nursing: Scope and Standards of Practice, 4th Edition.' American Nurses Association, 2021. Available for purchase; cited for conceptual alignment with established nursing practice standards.",
+      "QSEN Institute. 'Pre-Licensure KSA Competencies: Patient-Centered Care.' QSEN Institute, supported by the Robert Wood Johnson Foundation, 2020. Open access: qsen.org."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [
+      "education_training"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Under direct supervision, delivers assigned standardized patient education materials on a designated topic using plain-language explanations at approximately a sixth-grade reading level, and documents the teaching session in the patient record using the facility's education documentation form."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Assesses the patient's individual learning needs, health literacy level, and preferred learning modality before beginning an education session, selects teaching materials that match the assessed literacy level and primary language, uses the teach-back method to elicit a return demonstration or verbal restatement of key information, and documents the patient's demonstrated comprehension level and any content areas requiring follow-up teaching."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Designs and delivers an individualized education plan for patients with multiple concurrent learning barriers — including low health literacy, non-English primary language, cognitive impairment, or sensory limitations — coordinates professional interpreter services or adaptive instructional materials as required, conducts a structured discharge readiness assessment with the patient and family, and documents a complete discharge education summary including teach-back verification for each key content domain."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Identifies recurring gaps in the unit's patient education materials by reviewing documentation and readmission data, collaborates with the multidisciplinary team to develop or revise teaching resources for the unit's most common diagnoses, delivers structured training to nursing staff in teach-back methodology and evidence-based health literacy universal precautions, and evaluates the effectiveness of unit education interventions using available comprehension and readmission metrics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads the design and ongoing evaluation of the unit or department's patient education program in alignment with Joint Commission PC.02.03.01 standards, conducts structured audits of education documentation for completeness and teach-back verification compliance, establishes measurable patient education outcomes tied to defined readmission reduction and self-management targets, and serves as the department's clinical authority for health literacy policy and practice standards."
+      }
+    ]
+  },
+  {
+    "ksa_id": "patient_assessment_clinical_observation",
+    "label": "Patient Assessment & Clinical Observation",
+    "category": "Technical",
+    "description": "Covers the systematic collection and documentation of patient health data through\nphysical, psychosocial, and functional assessment techniques, including the\ninterpretation of observation findings to inform nursing diagnosis and care\nprioritization. Encompasses both head-to-toe and focused assessments across\nacuity levels in direct care settings.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Patient Safety",
+      "Clinical Coordination",
+      "Vitals Monitoring",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "QSEN Institute. 'Pre-Licensure KSA Competencies: Patient-Centered Care.' QSEN Institute, supported by the Robert Wood Johnson Foundation, 2020. Open access: qsen.org.",
+      "American Nurses Association. 'Nursing: Scope and Standards of Practice, 4th Edition.' American Nurses Association, 2021. Available for purchase; cited for conceptual alignment with established nursing practice standards.",
+      "National Council of State Boards of Nursing. '2023 NCLEX-RN Next Generation NCLEX (NGN) Clinical Judgment Measurement Model.' NCSBN, 2023. Open access: ncsbn.org.",
+      "O*NET Resource Center. 'Registered Nurses (29-1141.00) — Tasks, Knowledge, Skills, and Abilities.' U.S. Department of Labor, Employment and Training Administration, updated 2024. Open access: onetonline.org."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Under direct supervision, completes a systematic head-to-toe physical assessment using a standardized assessment format, records vital signs and observable findings in the assigned section of the patient record, and reports completion status to the supervising nurse within the required timeframe."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Independently performs an initial head-to-toe assessment within the first hour of a shift, records abnormal findings (including abnormal breath sounds, changes in skin color or temperature, and altered orientation) in the patient record with descriptive clinical language, and reports each deviation from the documented baseline to the supervising nurse or provider before the end of the assessment sequence."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Conducts and documents both focused and comprehensive assessments appropriate to the patient's clinical trajectory, distinguishes acute changes from chronic baseline findings through direct comparison with prior documentation, adjusts the frequency and depth of reassessment based on acuity indicators (including pain scores, respiratory pattern, and hemodynamic trends), and communicates assessment findings to the provider and care team using SBAR format."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Leads bedside assessment rounds for a patient caseload of four to six patients, synthesizes assessment findings with available diagnostic and laboratory data to formulate nursing diagnoses and revise care priorities in real time when assessment data indicates acute change, and provides structured assessment coaching to orientees and newer staff using direct observation and immediate corrective feedback."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes unit-wide assessment standards aligned with evidence-based clinical practice guidelines, evaluates the quality and completeness of nursing assessment documentation across the unit through structured chart audits, identifies recurring assessment practice gaps by category and staff tenure level, and designs targeted competency remediation interventions to close identified gaps."
+      }
+    ]
+  },
+  {
+    "ksa_id": "medication_administration_management",
+    "label": "Medication Administration & Management",
+    "category": "Technical",
+    "description": "Covers the safe preparation, verification, administration, and monitoring of\nmedications across common routes and drug classes, including application of\nthe rights of medication administration, high-alert medication protocols,\nadverse effect monitoring, and medication error identification and reporting.\nGrounded in medication safety guidelines and applicable nursing scope of\npractice standards.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Patient Safety",
+      "Safety",
+      "Compliance",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "Institute for Safe Medication Practices. 'ISMP Medication Safety Alert: Acute Care Edition.' Institute for Safe Medication Practices, 2024 (ongoing series). Open access: ismp.org/resources/medication-safety-alerts.",
+      "American Nurses Association. 'Nursing: Scope and Standards of Practice, 4th Edition.' American Nurses Association, 2021. Available for purchase; cited for conceptual alignment with established nursing practice standards.",
+      "National Council of State Boards of Nursing. '2023 NCLEX-RN Next Generation NCLEX (NGN) Clinical Judgment Measurement Model.' NCSBN, 2023. Open access: ncsbn.org.",
+      "The Joint Commission. 'National Patient Safety Goals Effective January 2024: NPSG 03.06.01 — Maintain and Communicate Accurate Patient Medication Information.' The Joint Commission, 2024. Open access: jointcommission.org.",
+      "U.S. Food and Drug Administration. 'Drug Safety Communications — High-Alert Medications.' U.S. FDA, updated 2024. Open access: fda.gov/drugs/drug-safety-and- availability/drug-safety-communications."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Under direct supervision, verifies the five rights of medication administration (right patient using two identifiers, right medication, right dose, right route, right time) before each administration event, and documents each completed administration in the medication administration record within the timeframe required by unit policy."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Independently administers scheduled and PRN medications via oral, subcutaneous, intramuscular, and IV piggyback routes, performs the required pre-administration assessments for parameter-dependent medications (including blood pressure verification before antihypertensives and blood glucose confirmation before insulin), withholds medications when assessment parameters fall outside prescribed limits, and notifies the provider of each hold with documented clinical rationale."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Manages medication administration for a full patient assignment including high-alert medications (anticoagulants, concentrated electrolytes, and insulin infusions) using the facility's high-alert medication protocols, performs independent double-checks with a second licensed nurse per policy before administration of designated high-alert agents, monitors patients for therapeutic response and adverse reactions at required post-administration intervals, and documents assessment findings in direct temporal relationship to each administration event."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Identifies medication errors and near-misses through real-time administration review, files reports through the facility's safety event reporting system with complete documentation of contributing factors, analyzes aggregate medication event data for the assigned unit to identify recurring error patterns, and delivers targeted education to colleagues on evidence-based high-alert medication safety practices specific to the identified patterns."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads the development or revision of unit-specific high-alert medication administration protocols in collaboration with pharmacy and medical staff leadership, designs and delivers structured medication safety competency programs for nursing staff, serves as the unit's subject matter authority for pharmacy-nursing interface issues, and evaluates unit-level compliance with high-alert medication policies through quarterly structured audits with findings reported to the patient safety committee."
+      }
+    ]
+  },
+  {
+    "ksa_id": "infection_control_sterile_technique",
+    "label": "Infection Control & Sterile Technique",
+    "category": "Technical",
+    "description": "Covers prevention and control of healthcare-associated infections through\nhand hygiene, standard and transmission-based precautions, selection and use\nof personal protective equipment, and aseptic and sterile technique for\ninvasive clinical procedures. Grounded in CDC HICPAC infection prevention\nguidelines, APIC practice standards, and OSHA Bloodborne Pathogens Standard\n(29 CFR 1910.1030).\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Infection Control",
+      "Safety",
+      "OSHA 1910",
+      "PPE",
+      "Compliance",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "Centers for Disease Control and Prevention, Healthcare Infection Control Practices Advisory Committee (HICPAC). 'Guidelines for the Prevention of Intravascular Catheter-Related Infections.' CDC / HICPAC, 2011, updated 2017. Open access: cdc.gov/hicpac.",
+      "Association for Professionals in Infection Control and Epidemiology. 'APIC Implementation Guide: Guide to Eliminating Catheter-Associated Urinary Tract Infections (CAUTIs).' APIC, 2022. Open access: apic.org.",
+      "U.S. Occupational Safety and Health Administration. 'Bloodborne Pathogens Standard, 29 CFR 1910.1030.' U.S. Department of Labor, OSHA, 2012 (reaffirmed). Open access: osha.gov.",
+      "Centers for Disease Control and Prevention, Healthcare Infection Control Practices Advisory Committee. 'Guideline for Hand Hygiene in Health-Care Settings.' CDC / HICPAC, 2002; core recommendations reaffirmed 2019. Open access: cdc.gov/hicpac.",
+      "The Joint Commission. 'National Patient Safety Goals Effective January 2024: NPSG 07.01.01 — Reduce the Risk of Health Care-Associated Infections.' The Joint Commission, 2024. Open access: jointcommission.org."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [
+      "manufacturing"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Performs hand hygiene using the five-moment hand hygiene protocol (before patient contact, before an aseptic task, after body fluid exposure risk, after patient contact, and after contact with patient surroundings) before, during, and after each patient encounter; dons and doffs personal protective equipment in the designated sequence for standard precautions; and disposes of sharps immediately after each use in the nearest puncture-resistant disposal container."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Implements contact, droplet, or airborne transmission-based precautions by selecting and donning the correct PPE combination for the patient's isolation category upon entering the room; sets up and maintains an aseptic field for a basic invasive procedure — including urinary catheter insertion or peripheral venous access placement — using sterile technique from field preparation through completion; and reports observed PPE compliance deviations by peers to the charge nurse within the shift."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Applies evidence-based bundle protocols for high-risk infection prevention procedures — including central venous catheter maintenance, urinary catheter management, and ventilator care — per facility policy; completes a self-audit of own infection control practice using the unit's structured observation checklist at a designated interval; and documents infection prevention-related assessments and all isolation-specific interventions in the patient record."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Conducts structured peer-to-peer hand hygiene observation audits using the facility's standardized observation tool, compiles and presents audit results to the unit's infection prevention committee with trend analysis, identifies environmental and workflow factors contributing to infection control lapses on the unit, and develops targeted intervention proposals in collaboration with the facility's infection preventionist."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads the unit's infection prevention and control program in alignment with CDC HICPAC guidelines and Joint Commission NPSG 07.01.01 standards, designs and delivers annual infection control competency verification training for all nursing staff, evaluates the unit's healthcare-associated infection rates against NHSN benchmark data and presents findings to the patient safety committee, and coordinates with the hospital epidemiologist to activate and manage unit-level outbreak response protocols."
+      }
+    ]
+  },
+  {
+    "ksa_id": "early_deterioration_recognition_escalation",
+    "label": "Early Deterioration Recognition & Escalation",
+    "category": "Technical",
+    "description": "Covers the recognition of early clinical deterioration through systematic\ninterpretation of physiological trend data, structured communication of clinical\nconcern to the care team, and activation of rapid response and escalation\nprotocols. Encompasses the application of standardized early warning scoring,\nSBAR communication, and facility rapid response team protocols to prevent\nprogression to acute clinical decompensation.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Patient Safety",
+      "Safety",
+      "Clinical Decision Support",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "Agency for Healthcare Research and Quality. 'TeamSTEPPS 3.0: Team Strategies and Tools to Enhance Performance and Patient Safety — SBAR Communication Tool.' U.S. Department of Health and Human Services, AHRQ, 2023. Open access: teamstepps.ahrq.gov.",
+      "Agency for Healthcare Research and Quality. 'Rapid Response Systems: Implementation Toolkit.' AHRQ Patient Safety Network (PSNet), 2019. Open access: psnet.ahrq.gov.",
+      "American Nurses Association. 'Nursing: Scope and Standards of Practice, 4th Edition.' American Nurses Association, 2021. Available for purchase; cited for conceptual alignment with established nursing practice standards.",
+      "The Joint Commission. 'National Patient Safety Goals Effective January 2024: NPSG 16.01.01 — Improve Recognition and Response to Changes in a Patient's Condition.' The Joint Commission, 2024. Open access: jointcommission.org.",
+      "National Council of State Boards of Nursing. '2023 NCLEX-RN Next Generation NCLEX (NGN) Clinical Judgment Measurement Model.' NCSBN, 2023. Open access: ncsbn.org."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Reports to the supervising nurse within the required timeframe when a patient's measured vital signs cross the facility's defined early warning threshold parameters, or when a patient directly communicates a subjective complaint of acute onset discomfort, shortness of breath, or change in functional status."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Calculates an early warning deterioration score using the facility's approved scoring tool at each scheduled assessment interval, communicates a clinical concern about an observed change in a patient's condition to the provider using SBAR format — specifying situation, background, assessment, and explicit recommendation — and documents the time of communication and the provider's response in the patient record."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Recognizes a pattern of early deterioration indicators — including new or increasing oxygen requirement, progressive tachycardia, decreasing urine output below 0.5 mL/kg/hour, or acute change in level of alertness — in the absence of a single alarming vital sign value; activates the facility's rapid response or critical care outreach team per protocol without waiting for provider acknowledgment; remains at the bedside to provide sequential assessment data to the responding team; and documents the chronological sequence of clinical changes, activation time, team arrival, and all interventions in the patient record."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Facilitates structured debriefs after rapid response activations on the unit to identify the earliest clinical indicators present in the pre-activation period and determine whether earlier recognition was actionable, applies aggregate rapid response activation data to identify patient populations and clinical presentations with disproportionate deterioration frequency on the unit, and delivers structured coaching to junior nurses in SBAR escalation and early warning pattern interpretation using de-identified case examples."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads the unit's clinical deterioration recognition program in alignment with Joint Commission NPSG 16.01.01, evaluates the sensitivity and specificity of the facility's early warning scoring tool against actual rapid response activation outcomes through structured data analysis, prepares evidence-based recommendations for protocol modification to the patient safety committee, and collaborates with the intensivist team and clinical informatics staff to optimize deterioration alert criteria and escalation workflow within the electronic health record."
+      }
+    ]
+  },
+  {
+    "ksa_id": "clinical_documentation_ehr_entry",
+    "label": "Clinical Documentation & EHR Entry",
+    "category": "Technical",
+    "description": "Covers accurate, timely, and legally defensible nursing documentation within\nelectronic health record systems, including narrative nursing notes, structured\ndata entry, error correction procedures, and compliance with CMS medical record\nstandards and ONC interoperability requirements. Addresses documentation as\nboth a clinical communication tool and a legal record of care delivery.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Health Informatics",
+      "EHR",
+      "Compliance",
+      "HIPAA Compliance",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "Office of the National Coordinator for Health Information Technology. '21st Century Cures Act Final Rule: Interoperability, Information Blocking, and the ONC Health IT Certification Program (85 FR 25642).' U.S. Department of Health and Human Services, 2020, updated 2024. Open access: healthit.gov.",
+      "American Nurses Association. 'Principles for Nursing Documentation: Guidance for Registered Nurses.' American Nurses Association, 2010 (reaffirmed 2022). Open access: nursingworld.org.",
+      "O*NET Resource Center. 'Registered Nurses (29-1141.00) — Tasks, Knowledge, Skills, and Abilities.' U.S. Department of Labor, Employment and Training Administration, updated 2024. Open access: onetonline.org.",
+      "Centers for Medicare & Medicaid Services. 'Medicare Conditions of Participation for Hospitals: Medical Record Services (42 CFR §482.24).' CMS, updated 2024. Open access: cms.gov."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [
+      "government_public_administration"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Under direct supervision, locates and enters assigned documentation fields in the facility's electronic health record system — including vital signs, intake and output totals, and care activity records — and submits completed entries within the timeframe specified by unit policy."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Independently documents assessment findings, nursing interventions, and patient responses in the electronic health record using factually accurate and chronologically sequenced entries, applies facility-approved documentation templates for assigned note types, and refrains from prohibited documentation practices including advance charting, copy-forward use without clinical verification, and retroactive entry without a late-entry notation."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Produces nursing documentation entries that capture the complete clinical reasoning sequence — assessment finding, nursing response, and patient outcome — in legally defensible language, corrects documentation errors using the facility's designated correction procedure (single line through error, initials, date, and correction entry), and reviews own documentation against the unit's completeness checklist before the end of each shift."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Identifies documentation gaps or factual inconsistencies in the medical record that affect diagnostic coding accuracy or care continuity across shifts, communicates findings to the charge nurse or clinical informatics team with specific record reference citations, participates in structured documentation audits for the unit, and provides direct documentation coaching to orientees during their first 90 days of practice."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Develops or revises unit-specific documentation standards and electronic health record templates in collaboration with the clinical informatics team, leads staff education on documentation accuracy, legal defensibility, and CMS §482.24 compliance, evaluates the unit's documentation practices against CMS §482.24 standards through structured chart reviews, and serves as the unit's primary liaison for electronic health record optimization and workflow redesign initiatives."
+      }
+    ]
+  },
+  {
+    "ksa_id": "care_plan_implementation",
+    "label": "Care Plan Development & Implementation",
+    "category": "Technical",
+    "description": "Covers the development, implementation, and ongoing evaluation of individualized\nnursing care plans, including formulation of nursing diagnoses, patient-centered\ngoal-setting, translation of provider orders into coordinated nursing interventions,\nand structured care plan communication during shift transitions. Grounded in ANA\nNursing Standards of Practice and QSEN Patient-Centered Care competencies.\n",
+    "sector": "healthcare_social_assistance",
+    "horizon": "core",
+    "cluster_tags": [
+      "Care Coordination",
+      "Clinical Coordination",
+      "Patient Safety",
+      "Patient Care",
+      "Clinical Practice"
+    ],
+    "source_frameworks": [
+      "American Nurses Association. 'Nursing: Scope and Standards of Practice, 4th Edition.' American Nurses Association, 2021. Available for purchase; cited for conceptual alignment with established nursing practice standards.",
+      "QSEN Institute. 'Pre-Licensure KSA Competencies: Patient-Centered Care.' QSEN Institute, supported by the Robert Wood Johnson Foundation, 2020. Open access: qsen.org.",
+      "Centers for Medicare & Medicaid Services. 'Medicare Conditions of Participation for Hospitals: Nursing Services (42 CFR §482.23).' CMS, updated 2024. Open access: cms.gov.",
+      "National Council of State Boards of Nursing. '2023 NCLEX-RN Next Generation NCLEX (NGN) Clinical Judgment Measurement Model.' NCSBN, 2023. Open access: ncsbn.org."
+    ],
+    "transfer_populations": [
+      "military_transition",
+      "early_career",
+      "mid_career_change"
+    ],
+    "adjacent_sectors": [
+      "nonprofit_ngos"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Under direct supervision, completes all scheduled interventions specified in the assigned patient's care plan, documents each completed intervention in the patient record, and reports to the supervising nurse when an intervention cannot be completed as ordered, stating the specific reason for non-completion."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Implements an individualized care plan for two to three assigned patients, sequences competing care demands using a priority framework based on acuity and patient safety risk, adjusts intervention timing in response to acute patient condition changes, and documents each intervention alongside the patient's response in the care plan record."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Formulates nursing diagnoses and patient-centered outcome goals for a full patient assignment using a standardized nursing diagnosis taxonomy, updates care plans in real time when reassessment data indicates a change in the patient's status or priorities, presents care plan updates using a structured handoff format at shift change, and incorporates documented patient and family preferences into stated care goals."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Chairs or actively coordinates multidisciplinary care plan review conferences for complex patients with multiple co-morbidities or conflicting care priorities, reconciles discrepancies between provider orders and nursing care plan goals with documented clinical rationale, identifies patients at elevated risk for unplanned care deviations based on assessment trends, and provides structured care plan development coaching to newer nursing staff."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Evaluates the quality and clinical accuracy of care plan documentation across the unit through structured audits aligned with CMS §482.23 standards, leads the development of standardized evidence-based care plan templates for the unit's highest-volume diagnoses, identifies systemic gaps between documented care plans and observed nursing interventions through direct practice observation, and designs process improvement initiatives to close those gaps with measurable outcome targets."
       }
     ]
   },
