@@ -165,9 +165,40 @@ This document is a coaching tool, not a client handout. Use it to orient the int
 
 ---
 
+### Profile 6: Medical & Healthcare
+**Representative MOSs / AFSCs / Ratings:** 68W (Combat Medic Specialist), 68A (Biomedical Equipment Specialist), 68D (Operating Room Specialist), 68E (Dental Specialist), 68G (Patient Administration Specialist), 68X (Behavioral Health Specialist), HM (Navy Hospital Corpsman / Marine Field Medical)
+
+**Fort Gordon relevance:** Dwight D. Eisenhower Army Medical Center (DDEAMC) employs a significant concentration of 68-series medics, making Fort Gordon a sustained source of medical MOS separations. Combat medics — particularly 68W — are among the most clinically experienced entry-level healthcare candidates in the civilian market. Many complete 4–8 years of service with triage, medication administration, IV therapy, patient assessment, and emergency care experience that operationally exceeds civilian EMT-Basic scope and frequently approaches EMT-Advanced or paramedic scope in practice. Navy Hospital Corpsmen (HM) and Marines with Field Medical (FMSS) training assigned to Parris Island and Camp Lejeune also transition through the Augusta MEPS corridor. CaliberPath's OI-09 REPO expansion (2026-03-17) specifically developed the `direct_clinical_practice` KSA sub-domain to serve this population — all 7 certified files carry `transfer_populations: military_transition`.
+
+**Civilian Sector Destinations — from Adjacency Matrix (v1.0, updated post-OI-09, 2026-03-17):**
+
+| Sector | Adjacency Score | Bridging Domains | Coaching Notes |
+|---|---|---|---|
+| Healthcare & Social Assistance | HIGH (direct — full clinical library match) | Patient Care, Clinical Practice, Infection Control, Patient Safety, Clinical Decision Support, Care Documentation | Primary destination; 68W operational experience qualifies for Georgia EMT Challenge Exam (minimal bridging); RN pathway requires BSN/ADN program but clinical hours may count toward practicum credit at Augusta University and Augusta Technical College |
+| Personal & Other Services | MEDIUM (5 shared) | Patient Care, Clinical Practice, Patient Safety, Health & Safety, Care Coordination | Home health aide supervisor, wellness program coordinator, personal care business with clinical foundation; newly elevated from LOW to MEDIUM by OI-09 expansion (2026-03-17) |
+| Wholesale & Retail Trade | MEDIUM (5 shared) | Patient Care, Patient Safety, Clinical Practice, Infection Control, Care Documentation | Pharmaceutical sales representative (clinical knowledge is the primary differentiator), medical device territory representative, hospital supply procurement; newly elevated from LOW to MEDIUM by OI-09 |
+| Energy & Utilities | MEDIUM (4 shared) | Patient Safety, Infection Control, Health & Safety, Clinical Practice | Occupational health nurse (once credentialed), industrial first responder program lead, EHS clinical specialist for large utility employers; newly elevated from LOW to MEDIUM by OI-09 |
+| Education & Training | LOW (2 shared) | Clinical Training, Health Education, Patient Education | EMT/first aid instructor, clinical education specialist, health educator; accessible with existing military credentials |
+
+**Top Entry KSA Domains:** Clinical Practice · Patient Care · Patient Safety · Emergency Medical Care · Infection Control & Prevention · Clinical Documentation · Pharmacology Fundamentals · Team-Based Care
+
+**Typical Entry Roles:**
+- Emergency Medical Technician (EMT-B / AEMT) — most common immediate post-separation credential; Georgia Emergency Medical Services Challenge Exam allows experience-based testing for 68Ws; accessible within 6–12 months of separation
+- Registered Nurse (RN, BSN) — highest-value long-term pathway for 68Ws with strong clinical aptitude; Augusta University's accelerated BSN program and Augusta Technical College's ADN program are local pathways; GI Bill and MyCAA funding applicable
+- Licensed Practical Nurse (LPN) — intermediate credential (12–18 month programs via Augusta Technical College); bridges 68W operational experience to licensed clinical practice
+- Medical Device Sales Representative — for 68Ws with strong interpersonal skills and clinical depth; AU Health System, CSRA medical device distributors, and national med device companies with regional territory roles are accessible employers
+- Pharmacy Technician — accessible via PTCB exam; leverages 68W medication administration and pharmacology experience
+- Clinical Training Specialist / Simulation Lab Technician — leverages operational experience and teaching aptitude; hospital simulation centers and community college health science programs hire from this background
+
+**CaliberPath Service Match:**
+- *Career Compass Coaching:* The 68W/corpsman population presents a distinctive coaching scenario: they carry more hands-on clinical experience than nearly any other transitioning MOS group, yet their credentials are underrecognized in the civilian market because military scope of practice does not map directly to state licensure. Sessions 1–2 should focus on credential pathway selection — EMT challenge exam vs. LPN vs. RN bridge — because the decision dramatically affects timeline, cost, and long-term ceiling. For 68Ws leaning toward the RN pathway, session 3 should establish a concrete education plan using AU and Augusta Tech resources with military education benefit calculations.
+- *Stream 4 Assessment Focus:* HC-MOD-02 (direct clinical practice supplement to HC-MOD-01) is the primary sector instrument for this population. UPLS Well-being, Resilience, and Empathy competencies are frequently elevated due to trauma exposure and high-pressure operational environments — acknowledge this in coaching framing and frame it as professional strength, not just personal history. For 68Ws who held senior medic roles (Senior Line Medic, Aid Station NCOIC), Leadership competencies at Intermediate-to-Advanced level are expected.
+
+---
+
 ## Adjacency Matrix Source Notes
 
-The sector destinations and scores in each profile are derived directly from the CaliberPath Sector Adjacency Matrix v1.0, computed from 684 KSA files across 35 sectors using normalized cluster_tags (T-CROSSWALK-01, 2026-03-16). Scores represent the count of shared cluster_tag domains between the MOS category's primary competency domains and each civilian sector's KSA library: HIGH = 7+ shared domains, MEDIUM = 4–6, LOW = 2–3, MARGINAL = 1. Adjacency scores are a starting point for coaching conversation, not a deterministic ranking — individual client competency profiles, geographic preferences, salary targets, and credential investment capacity all affect which sector is actually the best fit. Use the adjacency data to frame the option space, then narrow based on the client's full profile.
+The sector destinations and scores in each profile are derived directly from the CaliberPath Sector Adjacency Matrix v1.0 (updated 2026-03-17 post-OI-09 certification), computed from 691 KSA files across 35 sectors using normalized cluster_tags (T-CROSSWALK-01, 2026-03-16; matrix updated by Claude Code following OI-09 healthcare tag expansion). Profile 6 (Medical & Healthcare) added 2026-03-19 per OI-09b revision; adjacency scores in that profile reflect the post-OI-09 matrix. Scores represent the count of shared cluster_tag domains between the MOS category's primary competency domains and each civilian sector's KSA library: HIGH = 7+ shared domains, MEDIUM = 4–6, LOW = 2–3, MARGINAL = 1. Adjacency scores are a starting point for coaching conversation, not a deterministic ranking — individual client competency profiles, geographic preferences, salary targets, and credential investment capacity all affect which sector is actually the best fit. Use the adjacency data to frame the option space, then narrow based on the client's full profile.
 
 ---
 
