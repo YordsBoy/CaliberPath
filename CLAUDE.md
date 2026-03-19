@@ -43,12 +43,13 @@ npm run format           # Prettier format all files
 npm run clean            # Remove .next cache
 npm run build:ksas       # Generate data/master_ksa.json from KSA markdown files
 npm run validate:ksas    # Build + validate KSA schema compliance
+npm run inventory:ksas   # Generate KSA inventory report and validation errors
 ```
 
 ## Project Structure
 
 ```
-content/Individual_KSAs/       # CORE ASSET — 400+ KSA markdown files by sector
+content/Individual_KSAs/       # CORE ASSET — 684 KSA markdown files by sector
   universal_professional/      #   15 Universal Professional competencies
   leadership_influence/        #   15 Leadership competencies
   self_management_personal_mastery/  #   15+ Self-Mastery competencies
@@ -56,25 +57,87 @@ content/Individual_KSAs/       # CORE ASSET — 400+ KSA markdown files by secto
 schemas/ksa.schema.json        # KSA validation schema
 scripts/build_ksa_json.js      # Compiles KSAs → data/master_ksa.json
 scripts/validate_ksas.js       # Schema validation
+scripts/inventory_ksas.js      # Generates inventory reports
 data/master_ksa.json           # Compiled KSA output (regenerate with build:ksas)
+docs/policies/                 # Governing policies (ASSESSMENT_FRAMEWORK_POLICY, KSA_CHANGE_MANAGEMENT_PROTOCOL)
+docs/architecture/             # System architecture
+HORIZON_POLICY.md              # Horizon tier governance
 flows/                         # DEFERRED — Phase 3 AI companion content
-docs/STRATEGIC_DIRECTION.md    # Authoritative development roadmap
-docs/architecture/             # System architecture (review for Phase 1 relevance)
-components/                    # React/UI components (shadcn/ui)
-pages/                         # Next.js API routes and pages
 ```
 
-## KSA Authoring Rules
+---
 
-- Every KSA is a markdown file with YAML front-matter
-- **Required fields:** `ksa_id`, `label`, `category`, `description`, `sector`, `horizon`, `proficiency_levels`
-- `ksa_id` must match `^[a-z0-9_]+$`
-- `sector` must be one of the 35 enum values in `schemas/ksa.schema.json`
-- `horizon` values: `core`, `emerging`, `perennial`, `watch_2030`, `peripheral`
-- `adjacent_sectors` (optional array): Lists sector enum values where this KSA has demonstrated transferability. Use when a KSA's competency is meaningfully relevant to professionals in other sectors — particularly for cross-sector career transitions. Values must match the `sector` field enum.
-- `transfer_populations` (optional array): Identifies client populations most likely to bring or need this KSA during a career transition. Valid values: `military_transition`, `healthcare_pivot`, `early_career`, `mid_career_change`, `returning_workforce`, `education_to_industry`, `veteran_spouse`, `career_explorer`.
-- Each proficiency level needs `level` and `indicator`
-- **Always run `npm run validate:ksas` after adding or editing KSA files**
+## KSA Change Management
+
+### ⚠️ Read This First
+
+**Before modifying any file in `content/Individual_KSAs/`, read:**
+```
+docs/policies/KSA_CHANGE_MANAGEMENT_PROTOCOL.md
+```
+
+This REPO-native document contains the full operational protocol for KSA changes: the six-criterion review, field-by-field guidance for all 11 KSA fields, the REPO-internal downstream impact matrix, OI-09 specific requirements, and the quick-reference execution checklist.
+
+The master protocol with full authorization rules and OPSDIR downstream impact is at:
+```
+C:\Users\rofam\OneDrive\Desktop\GET IT\CaliberPath\01_Strategic_Documents\AI_Operations\
+  2026-03-17_CaliberPath_KSA_Change_Management_Protocol_v1.md
+```
+
+The current session's authorized changes are documented in OI entries in the Stream 4 Instrument Design Log:
+```
+C:\Users\rofam\OneDrive\Desktop\GET IT\CaliberPath\04_Deliverables\Curricula\
+  2026-03-16_CaliberPath_Stream4_InstrumentDesignLog_v1.md
+```
+
+### Write Authority
+
+**Claude Code is the ONLY agent authorized to write, modify, or delete files in `content/Individual_KSAs/`.** No Claude.ai Project writes directly to this directory.
+
+**Do NOT modify `content/Individual_KSAs/` without explicit written authorization** from a Strategist Decision Memo or OI entry. If no authorization exists for a requested change, stop and surface it to the founder before proceeding.
+
+### KSA File Structure
+
+Every KSA is a Markdown file with YAML front-matter.
+
+**Required fields:** `ksa_id`, `label`, `category`, `description`, `sector`, `horizon`, `proficiency_levels`
+
+**Optional fields (operationally required):** `cluster_tags`, `source_frameworks`, `adjacent_sectors`, `transfer_populations`
+
+Key field constraints:
+- `ksa_id` must match the regex pattern `^[a-z0-9_]+$` and **exactly match the filename** (basename without `.md`)
+- `sector` must be one of the 36 enum values in `schemas/ksa.schema.json` (35 named sectors + `cross_sector`)
+- `horizon` must be one of: `core`, `emerging`, `perennial`, `watch_2030`, `peripheral`, `legacy` — governed by `HORIZON_POLICY.md`
+- `cluster_tags` values must be from the Controlled Vocabulary v1.0 — no freeform tags permitted:
+  ```
+  C:\Users\rofam\OneDrive\Desktop\GET IT\CaliberPath\01_Strategic_Documents\
+    2026-03-15_CaliberPath_ClusterTags_ControlledVocabulary_v1.md
+  ```
+- `adjacent_sectors` values must match the `sector` enum
+- `transfer_populations` valid values: `military_transition`, `healthcare_pivot`, `early_career`, `mid_career_change`, `returning_workforce`, `education_to_industry`, `veteran_spouse`, `career_explorer`
+- Each proficiency level object requires `level` and `indicator`
+- Indicators must describe observable, non-inferential behaviors — no "understands", "appreciates", "is aware of", or trait/disposition language
+
+### Build Chain (run all three in order after every KSA change)
+
+```bash
+npm run build:ksas       # Rebuild data/master_ksa.json from all KSA markdown files
+npm run validate:ksas    # Schema validation — must return ZERO errors before closing session
+npm run inventory:ksas   # Regenerate reports/ksa_inventory.json, ksa_inventory_report.md, validation_errors.json
+```
+
+A successful `write_file` return does **not** guarantee valid content. `npm run validate:ksas` is the authority. All three scripts must pass before the session closes.
+
+### cluster_tags and the Adjacency Matrix
+
+`cluster_tags` is the sole computational input to the sector adjacency matrix, which drives career pathway coaching tools and Phase 2 learning path generation. Any `cluster_tags` change requires:
+
+1. Run the full build chain (all three scripts)
+2. Recompute adjacency scores for the affected sector pair(s) using the methodology in `content/Individual_KSAs/technical_ksas/_crosswalk/sector_adjacency_matrix.md`
+3. Update `sector_adjacency_matrix.md` if any sector pair score changes by one tier or more (e.g., MEDIUM → HIGH, or LOW → NONE)
+4. Update the affected sector README Transfer Pathways section(s)
+
+---
 
 ## Development Principles
 
@@ -96,4 +159,9 @@ pages/                         # Next.js API routes and pages
 - One feature/fix per branch
 - Commit messages: short, imperative ("Add onboarding walkthrough")
 - Always pull before editing
-- See `docs/caliberpath-dev_contributor-guide.md` for full guidelines
+- See `docs/caliberpath-git-manual.md` for full guidelines
+
+## Changelog
+
+- 2026-03-17 (v1.1): Replaced thin "KSA Authoring Rules" with comprehensive "KSA Change Management" section. Added protocol references (`docs/policies/KSA_CHANGE_MANAGEMENT_PROTOCOL.md` and OPSDIR master). Added write authority rule. Added three-script build chain (`build:ksas`, `validate:ksas`, `inventory:ksas`). Added cluster_tags/adjacency matrix obligation. Added `npm run inventory:ksas` to Key Commands. Updated KSA count from "400+" to 684 in Project Structure. Added `docs/policies/` and `HORIZON_POLICY.md` to Project Structure listing.
+- 2026-02-xx (v1.0): Initial configuration.
