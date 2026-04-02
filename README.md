@@ -1,6 +1,6 @@
 # CaliberPath
 
-**CaliberPath** is a Learning & Development company that transforms individuals and organizations through competency-based coaching, training, and consulting. Our methodology is powered by the **UPLS Framework** — a comprehensive competency architecture spanning Universal Professional skills, Leadership capabilities, and Self-Mastery attributes.
+**CaliberPath** is a Learning & Development company that transforms individuals and organizations through competency-based coaching, training, and consulting. Our methodology is powered by the **UPLS Framework** — a comprehensive competency architecture spanning Professionalism, Leadership & Influence, and Self-Mastery.
 
 ---
 
@@ -20,7 +20,7 @@ We believe development should be:
 
 Our signature methodology organizes human capability into three domains:
 
-### Universal Professional Competencies (15)
+### Professionalism Competencies (15)
 Foundational skills every professional needs:
 - Accountability, Adaptability, Attention to Detail, Collaboration, Creative Thinking
 - Critical Thinking, Digital Literacy, Effective Communication, Emotional Intelligence
@@ -75,7 +75,7 @@ This repository contains CaliberPath's competency database and supporting tools:
 CaliberPath/
 ├── content/
 │   └── Individual_KSAs/           # Competency definitions
-│       ├── general/               # Universal Professional (15)
+│       ├── professionalism/       # Professionalism (15)
 │       ├── leadership_influence/  # Leadership (15)
 │       ├── self_management_personal_mastery/  # Self-Mastery (15+)
 │       └── technical_ksas/        # Sector-specific (400+)

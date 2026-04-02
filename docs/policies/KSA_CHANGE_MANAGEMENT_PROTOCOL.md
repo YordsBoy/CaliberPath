@@ -62,9 +62,10 @@ Every KSA file — whether newly created or revised — must pass all six criter
 - Projects update OPSDIR instruments; Claude Code updates REPO documents (README, `docs/reference/`)
 
 ### `category` (Required)
-- Established values: "Technical", "Universal Professional", "Leadership", "Self Management"
+- Established values: "Technical", "Professionalism", "Leadership", "Self Management"
 - A category change typically requires moving the file to a different directory
-- UPLS domain reclassification (into Universal Professional/Leadership/Self Management) brings the file under the UPLS Readiness Report gate — requires Strategist authorization before Claude Code proceeds
+- UPLS domain reclassification (into Professionalism/Leadership/Self Management) brings the file under the UPLS Readiness Report gate — requires Strategist authorization before Claude Code proceeds
+- **Domain name correction (2026-04-01):** "Universal Professional" was renamed to "Professionalism" across all REPO files per DR_DomainNaming_Professionalism_Correction_v1. The REPO directory is now at content/Individual_KSAs/professionalism/. All 15 category fields updated. Authority: OI-DOMAIN-01 Tier 3 (git f19791c).
 
 ### `description` (Required)
 - 1–3 sentence domain scope statement

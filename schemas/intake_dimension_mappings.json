@@ -43,7 +43,7 @@
       "dimension_label": "Communication Effectiveness",
       "description": "How effectively do you communicate in professional settings?",
       "maps_to_upls": [
-        { "ksa_id": "effective_communication", "category": "Universal Professional" },
+        { "ksa_id": "effective_communication", "category": "Professionalism" },
         { "ksa_id": "strategic_communication", "category": "Leadership" },
         { "ksa_id": "persuasion_negotiation", "category": "Leadership" }
       ],
@@ -55,7 +55,7 @@
       "dimension_label": "Resilience & Stress Management",
       "description": "How well do you handle setbacks and pressure?",
       "maps_to_upls": [
-        { "ksa_id": "resilience", "category": "Universal Professional" },
+        { "ksa_id": "resilience", "category": "Professionalism" },
         { "ksa_id": "stress_management", "category": "Self Management" },
         { "ksa_id": "impulse_control", "category": "Self Management" }
       ],
@@ -67,7 +67,7 @@
       "dimension_label": "Productivity & Focus",
       "description": "How effectively do you manage time and maintain focus?",
       "maps_to_upls": [
-        { "ksa_id": "time_management", "category": "Universal Professional" },
+        { "ksa_id": "time_management", "category": "Professionalism" },
         { "ksa_id": "deep_work_practice", "category": "Self Management" },
         { "ksa_id": "attention_switching_focus", "category": "Self Management" }
       ],
@@ -79,8 +79,8 @@
       "dimension_label": "Adaptability & Learning Agility",
       "description": "How quickly do you adapt to change and learn new skills?",
       "maps_to_upls": [
-        { "ksa_id": "adaptability", "category": "Universal Professional" },
-        { "ksa_id": "learning_agility", "category": "Universal Professional" },
+        { "ksa_id": "adaptability", "category": "Professionalism" },
+        { "ksa_id": "learning_agility", "category": "Professionalism" },
         { "ksa_id": "growth_mindset", "category": "Self Management" }
       ],
       "indicates_offering": ["career_compass_coaching", "career_accelerator_bootcamp"],
@@ -91,8 +91,8 @@
       "dimension_label": "Habits & Self-Discipline",
       "description": "How consistent are you in maintaining productive habits?",
       "maps_to_upls": [
-        { "ksa_id": "self_motivation", "category": "Universal Professional" },
-        { "ksa_id": "accountability", "category": "Universal Professional" },
+        { "ksa_id": "self_motivation", "category": "Professionalism" },
+        { "ksa_id": "accountability", "category": "Professionalism" },
         { "ksa_id": "digital_minimalism", "category": "Self Management" }
       ],
       "indicates_offering": ["self_mastery_workshop"],
@@ -118,7 +118,7 @@
       "description": "Improving team dynamics and collaboration",
       "maps_to_upls": [
         { "ksa_id": "team_building", "category": "Leadership" },
-        { "ksa_id": "collaboration", "category": "Universal Professional" },
+        { "ksa_id": "collaboration", "category": "Professionalism" },
         { "ksa_id": "conflict_resolution", "category": "Leadership" }
       ],
       "indicates_offering": ["custom_training_design", "rising_leaders_academy"],
@@ -152,9 +152,9 @@
       "dimension_label": "Professional Effectiveness at Scale",
       "description": "Lifting baseline professional skills across the workforce",
       "maps_to_upls": [
-        { "ksa_id": "effective_communication", "category": "Universal Professional" },
-        { "ksa_id": "accountability", "category": "Universal Professional" },
-        { "ksa_id": "critical_thinking", "category": "Universal Professional" }
+        { "ksa_id": "effective_communication", "category": "Professionalism" },
+        { "ksa_id": "accountability", "category": "Professionalism" },
+        { "ksa_id": "critical_thinking", "category": "Professionalism" }
       ],
       "indicates_offering": ["custom_training_design"],
       "delivery_formats": ["cohort_workshop", "e_learning", "blended"]
@@ -178,7 +178,7 @@
       "dimension_label": "Self-Mastery & Workforce Well-Being",
       "description": "Developing resilience, focus, and personal effectiveness across the workforce",
       "maps_to_upls": [
-        { "ksa_id": "resilience", "category": "Universal Professional" },
+        { "ksa_id": "resilience", "category": "Professionalism" },
         { "ksa_id": "stress_management", "category": "Self Management" },
         { "ksa_id": "growth_mindset", "category": "Self Management" }
       ],

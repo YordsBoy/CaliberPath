@@ -92,7 +92,7 @@ These directories and files are the current operational core:
 | Path | Purpose | Status |
 |------|---------|--------|
 | `content/Individual_KSAs/` | 400+ competency definitions (UPLS + technical) | CORE ASSET — Active maintenance |
-| `content/Individual_KSAs/general/` | 15 Universal Professional Competencies | CORE ASSET |
+| `content/Individual_KSAs/professionalism/` | 15 Professionalism Competencies | CORE ASSET |
 | `content/Individual_KSAs/leadership_influence/` | 15 Leadership Competencies | CORE ASSET |
 | `content/Individual_KSAs/self_management_personal_mastery/` | 15+ Self-Mastery Competencies | CORE ASSET |
 | `content/Individual_KSAs/technical_ksas/` | Sector-specific competencies (35 sectors) | CORE ASSET |
@@ -153,9 +153,9 @@ These components were built for the SaaS model and may need reconfiguration:
 
 ## UPLS Framework — The Core Methodology
 
-The **Universal Professional, Leadership, and Self-Mastery (UPLS)** competency framework is CaliberPath's signature methodology. It consists of:
+The **Professionalism, Leadership & Influence, and Self-Mastery (UPLS)** competency framework is CaliberPath's signature methodology. It consists of:
 
-### Universal Professional Competencies (15)
+### Professionalism Competencies (15)
 
 Foundational skills for all professionals:
 
@@ -216,7 +216,7 @@ Internal capabilities for personal excellence:
 |----------|-------------|-----------------|
 | Career Compass Coaching | 1:1 coaching program (6-12 sessions) | Full UPLS assessment and development |
 | Self-Mastery Workshop Series | Group workshops (4-8 weeks) | Self-Mastery competencies |
-| Career Accelerator Bootcamp | Intensive cohort program | Universal Professional + Leadership |
+| Career Accelerator Bootcamp | Intensive cohort program | Professionalism + Leadership |
 | Alumni Mastermind | Ongoing peer support | Continued growth |
 
 ### B2B Services

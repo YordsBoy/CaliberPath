@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // scripts/export_upls_reference.js
 //
-// Exports all 45 UPLS competencies (Universal Professional, Leadership, Self-Mastery)
+// Exports all 45 UPLS competencies (Professionalism, Leadership & Influence, Self-Mastery)
 // to a .docx reference document for Handbook integration.
 //
 // Output: docs/UPLS_Competency_Reference.docx
@@ -21,9 +21,9 @@ const ROOT = path.resolve(__dirname, "..");
 
 const SECTIONS = [
   {
-    title: "Universal Professional Competencies (15)",
+    title: "Professionalism Competencies (15)",
     subtitle: "Foundational skills for all professionals regardless of industry or role.",
-    dir: "content/Individual_KSAs/universal_professional",
+    dir: "content/Individual_KSAs/professionalism",
   },
   {
     title: "Leadership & Influence Competencies (15)",
@@ -135,7 +135,7 @@ async function buildDocument() {
       children: [new TextRun({ text: "UPLS Competency Reference", bold: true, size: 48 })],
     }),
     new Paragraph({
-      children: [new TextRun({ text: "Universal Professional, Leadership, and Self-Mastery Framework", italics: true, size: 24 })],
+      children: [new TextRun({ text: "Professionalism, Leadership & Influence, and Self-Mastery Framework", italics: true, size: 24 })],
     }),
     new Paragraph({
       children: [new TextRun({ text: `Generated: ${new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}`, size: 20 })],

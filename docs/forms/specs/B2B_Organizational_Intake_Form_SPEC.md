@@ -103,7 +103,7 @@
 
 **Introduction text:** *"CaliberPath develops capabilities across three interconnected domains. Rate the importance of developing each category for this initiative (1 = Low, 5 = Critical)."*
 
-#### Professional Effectiveness (Universal Professional Competencies)
+#### Professional Effectiveness (Professionalism Competencies)
 
 | Capability Area | Importance (1-5) | UPLS Mapping |
 |-----------------|-----------------|-------------|

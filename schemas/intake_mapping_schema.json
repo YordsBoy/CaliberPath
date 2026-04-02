@@ -99,7 +99,7 @@
         "ksa_id": { "type": "string" },
         "category": {
           "type": "string",
-          "enum": ["Universal Professional", "Leadership", "Self Management", "Technical"]
+          "enum": ["Professionalism", "Leadership", "Self Management", "Technical"]
         },
         "suggested_level": { "$ref": "#/definitions/proficiency_level" },
         "confidence": { "$ref": "#/definitions/confidence_level" },
