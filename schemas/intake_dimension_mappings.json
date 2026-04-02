@@ -7,9 +7,9 @@
       "dimension_label": "Career Clarity & Direction",
       "description": "How clear are you on your career direction?",
       "maps_to_upls": [
-        { "ksa_id": "strategic_thinking", "category": "Leadership" },
-        { "ksa_id": "purpose_articulation", "category": "Self Management" },
-        { "ksa_id": "vision_setting", "category": "Leadership" }
+        { "ksa_id": "strategic_thinking", "category": "Leadership & Influence" },
+        { "ksa_id": "purpose_articulation", "category": "Self-Mastery" },
+        { "ksa_id": "vision_setting", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["career_compass_coaching"],
       "low_score_focus": ["Career visioning exercises", "Values clarification", "Strategic career planning"]
@@ -19,9 +19,9 @@
       "dimension_label": "Self-Awareness & Insight",
       "description": "How well do you understand your strengths and growth areas?",
       "maps_to_upls": [
-        { "ksa_id": "self_reflective_insight", "category": "Self Management" },
-        { "ksa_id": "metacognition_skills", "category": "Self Management" },
-        { "ksa_id": "identity_self_authorship", "category": "Self Management" }
+        { "ksa_id": "self_reflective_insight", "category": "Self-Mastery" },
+        { "ksa_id": "metacognition_skills", "category": "Self-Mastery" },
+        { "ksa_id": "identity_self_authorship", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["self_mastery_workshop", "career_compass_coaching"],
       "low_score_focus": ["Strengths assessment", "360 feedback", "Reflection practices"]
@@ -31,9 +31,9 @@
       "dimension_label": "Leadership Readiness",
       "description": "How prepared do you feel to lead others?",
       "maps_to_upls": [
-        { "ksa_id": "team_building", "category": "Leadership" },
-        { "ksa_id": "delegation_empowerment", "category": "Leadership" },
-        { "ksa_id": "mentoring_coaching", "category": "Leadership" }
+        { "ksa_id": "team_building", "category": "Leadership & Influence" },
+        { "ksa_id": "delegation_empowerment", "category": "Leadership & Influence" },
+        { "ksa_id": "mentoring_coaching", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["career_accelerator_bootcamp"],
       "low_score_focus": ["Leadership style assessment", "Delegation practice", "Feedback skills"]
@@ -44,8 +44,8 @@
       "description": "How effectively do you communicate in professional settings?",
       "maps_to_upls": [
         { "ksa_id": "effective_communication", "category": "Professionalism" },
-        { "ksa_id": "strategic_communication", "category": "Leadership" },
-        { "ksa_id": "persuasion_negotiation", "category": "Leadership" }
+        { "ksa_id": "strategic_communication", "category": "Leadership & Influence" },
+        { "ksa_id": "persuasion_negotiation", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["self_mastery_workshop", "career_accelerator_bootcamp"],
       "low_score_focus": ["Presentation skills", "Active listening", "Written communication"]
@@ -56,8 +56,8 @@
       "description": "How well do you handle setbacks and pressure?",
       "maps_to_upls": [
         { "ksa_id": "resilience", "category": "Professionalism" },
-        { "ksa_id": "stress_management", "category": "Self Management" },
-        { "ksa_id": "impulse_control", "category": "Self Management" }
+        { "ksa_id": "stress_management", "category": "Self-Mastery" },
+        { "ksa_id": "impulse_control", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["self_mastery_workshop"],
       "low_score_focus": ["Stress reduction techniques", "Cognitive reframing", "Recovery practices"]
@@ -68,8 +68,8 @@
       "description": "How effectively do you manage time and maintain focus?",
       "maps_to_upls": [
         { "ksa_id": "time_management", "category": "Professionalism" },
-        { "ksa_id": "deep_work_practice", "category": "Self Management" },
-        { "ksa_id": "attention_switching_focus", "category": "Self Management" }
+        { "ksa_id": "deep_work_practice", "category": "Self-Mastery" },
+        { "ksa_id": "attention_switching_focus", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["self_mastery_workshop"],
       "low_score_focus": ["Time blocking", "Distraction management", "Energy management"]
@@ -81,7 +81,7 @@
       "maps_to_upls": [
         { "ksa_id": "adaptability", "category": "Professionalism" },
         { "ksa_id": "learning_agility", "category": "Professionalism" },
-        { "ksa_id": "growth_mindset", "category": "Self Management" }
+        { "ksa_id": "growth_mindset", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["career_compass_coaching", "career_accelerator_bootcamp"],
       "low_score_focus": ["Growth mindset cultivation", "Learning strategies", "Change navigation"]
@@ -93,7 +93,7 @@
       "maps_to_upls": [
         { "ksa_id": "self_motivation", "category": "Professionalism" },
         { "ksa_id": "accountability", "category": "Professionalism" },
-        { "ksa_id": "digital_minimalism", "category": "Self Management" }
+        { "ksa_id": "digital_minimalism", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["self_mastery_workshop"],
       "low_score_focus": ["Habit stacking", "Accountability structures", "Digital boundaries"]
@@ -105,9 +105,9 @@
       "dimension_label": "Leadership Pipeline Development",
       "description": "Developing future leaders within the organization",
       "maps_to_upls": [
-        { "ksa_id": "mentoring_coaching", "category": "Leadership" },
-        { "ksa_id": "delegation_empowerment", "category": "Leadership" },
-        { "ksa_id": "change_leadership", "category": "Leadership" }
+        { "ksa_id": "mentoring_coaching", "category": "Leadership & Influence" },
+        { "ksa_id": "delegation_empowerment", "category": "Leadership & Influence" },
+        { "ksa_id": "change_leadership", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["rising_leaders_academy", "executive_coaching"],
       "priority_levels": ["first_line_supervisors", "middle_managers", "senior_leaders"]
@@ -117,9 +117,9 @@
       "dimension_label": "Team Effectiveness & Collaboration",
       "description": "Improving team dynamics and collaboration",
       "maps_to_upls": [
-        { "ksa_id": "team_building", "category": "Leadership" },
+        { "ksa_id": "team_building", "category": "Leadership & Influence" },
         { "ksa_id": "collaboration", "category": "Professionalism" },
-        { "ksa_id": "conflict_resolution", "category": "Leadership" }
+        { "ksa_id": "conflict_resolution", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["custom_training_design", "rising_leaders_academy"],
       "delivery_formats": ["workshop", "team_coaching", "facilitation"]
@@ -129,9 +129,9 @@
       "dimension_label": "Change & Transformation Readiness",
       "description": "Managing organizational change effectively",
       "maps_to_upls": [
-        { "ksa_id": "change_leadership", "category": "Leadership" },
-        { "ksa_id": "change_analytics_sentiment_monitoring", "category": "Leadership" },
-        { "ksa_id": "crisis_leadership", "category": "Leadership" }
+        { "ksa_id": "change_leadership", "category": "Leadership & Influence" },
+        { "ksa_id": "change_analytics_sentiment_monitoring", "category": "Leadership & Influence" },
+        { "ksa_id": "crisis_leadership", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["competency_consulting", "custom_training_design"],
       "engagement_types": ["change_readiness_assessment", "change_agent_training", "leadership_alignment"]
@@ -141,8 +141,8 @@
       "dimension_label": "Culture & DEI Initiatives",
       "description": "Building inclusive culture and diverse workforce",
       "maps_to_upls": [
-        { "ksa_id": "inclusive_leadership", "category": "Leadership" },
-        { "ksa_id": "ethical_governance", "category": "Leadership" }
+        { "ksa_id": "inclusive_leadership", "category": "Leadership & Influence" },
+        { "ksa_id": "ethical_governance", "category": "Leadership & Influence" }
       ],
       "indicates_offering": ["custom_training_design", "competency_consulting"],
       "engagement_types": ["dei_training", "culture_assessment", "bias_awareness"]
@@ -179,8 +179,8 @@
       "description": "Developing resilience, focus, and personal effectiveness across the workforce",
       "maps_to_upls": [
         { "ksa_id": "resilience", "category": "Professionalism" },
-        { "ksa_id": "stress_management", "category": "Self Management" },
-        { "ksa_id": "growth_mindset", "category": "Self Management" }
+        { "ksa_id": "stress_management", "category": "Self-Mastery" },
+        { "ksa_id": "growth_mindset", "category": "Self-Mastery" }
       ],
       "indicates_offering": ["self_mastery_workshop"],
       "delivery_formats": ["workshop_series", "lunch_and_learn", "retreat"]
