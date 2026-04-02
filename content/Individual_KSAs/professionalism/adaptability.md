@@ -1,7 +1,7 @@
 ---
 ksa_id: adaptability
 label: Adaptability
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

@@ -1,7 +1,7 @@
 ---
 ksa_id: learning_agility
 label: Learning Agility
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

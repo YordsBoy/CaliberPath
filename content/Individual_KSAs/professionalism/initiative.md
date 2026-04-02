@@ -1,7 +1,7 @@
 ---
 ksa_id: initiative
 label: Initiative
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

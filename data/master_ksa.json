@@ -1,555 +1,5 @@
 [
   {
-    "ksa_id": "time_management",
-    "label": "Time Management",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Productivity",
-      "Organization"
-    ],
-    "description": "Prioritizes tasks, allocates time efficiently, and meets deadlines consistently while balancing competing demands.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Time Management' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Follows assigned schedules and meets basic deadlines with supervision."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Creates simple to-do lists; prioritizes routine tasks; arrives on time."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Uses time-blocking or calendar management; balances multiple projects; adjusts priorities as circumstances change."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Optimizes team schedules; delegates effectively; builds buffer time for contingencies; models time discipline."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Designs organizational time-management systems; mentors others; aligns time allocation with strategic priorities."
-      }
-    ]
-  },
-  {
-    "ksa_id": "self_motivation",
-    "label": "Self-Motivation",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Work Ethic",
-      "Initiative"
-    ],
-    "description": "Drives oneself to achieve goals with sustained energy, without constant external supervision.\n",
-    "source_frameworks": [
-      "Informed by O*NET Work Style 'Achievement/Effort' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Identifies what motivates personal engagement with assigned work; names activities where self-directed effort comes easily."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Sets personal targets aligned with team objectives; monitors own progress."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Pursues stretch goals; maintains focus despite routine obstacles."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Models sustained high-effort engagement visibly, prompting colleagues to maintain performance; communicates project milestones and progress narratives to sustain team momentum over time."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Establishes systems that foster intrinsic motivation across teams; mentors colleagues in self-leadership techniques."
-      }
-    ]
-  },
-  {
-    "ksa_id": "resilience",
-    "label": "Resilience",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Well-being",
-      "Stress Tolerance"
-    ],
-    "description": "Maintains performance and a positive outlook when faced with adversity, stress, or rapid change.\n",
-    "source_frameworks": [
-      "Derived from O*NET Work Style 'Stress Tolerance' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Recovers from minor setbacks with guidance."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Persists through routine challenges; seeks support when stress affects performance."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Uses coping strategies to remain effective during extended pressure; helps teammates regain focus after setbacks."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Maintains forward-focused framing during crises by communicating near-term achievable steps; guides teams through structured stress-management techniques to restore performance."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Builds organizational resilience frameworks; leads cultural initiatives that normalize adaptive coping and recovery."
-      }
-    ]
-  },
-  {
-    "ksa_id": "professionalism",
-    "label": "Professionalism",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Work Ethic"
-    ],
-    "description": "Demonstrates reliability, respectful conduct, appropriate appearance, and a commitment to ethical standards.\n",
-    "source_frameworks": [
-      "Aligned with OPM 'Interpersonal Skills,' 'Integrity/Honesty,' and 'Accountability' competency frameworks (public domain)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Follows basic workplace etiquette and dress code when reminded."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Consistently meets attendance and punctuality expectations; maintains courteous interactions."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Maintains composed, respectful conduct in client-facing and cross-organizational settings; handles confidential information responsibly by following applicable privacy and disclosure protocols."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Models professional conduct under pressure; mentors peers in workplace etiquette and ethics."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Shapes organizational policies on professionalism; leads initiatives to uphold and evolve ethical standards industry-wide."
-      }
-    ]
-  },
-  {
-    "ksa_id": "learning_agility",
-    "label": "Learning Agility",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Continuous Learning"
-    ],
-    "description": "Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Learning Strategies' (USDOL/ETA, CC BY 4.0); conceptual alignment with organizational psychology literature on learning agility constructs (original CaliberPath wording)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Seeks guidance and resources when faced with unfamiliar tasks."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Learns new tools or processes quickly using available training; applies lessons to similar tasks."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Experiments with multiple learning methods; transfers insights across domains; solicits feedback to refine practice."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Learns ahead of need for upcoming challenges; designs learning resources for others; evaluates learning return on investment (ROI)."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Embeds continuous-learning systems in the organization; anticipates skill trends and orchestrates upskilling strategies at scale."
-      }
-    ]
-  },
-  {
-    "ksa_id": "initiative",
-    "label": "Initiative",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Proactivity"
-    ],
-    "description": "Proactively identifies opportunities and takes action without waiting for direction.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Initiative' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Notices tasks or problems that fall outside assigned duties and reports observations to a supervisor without being asked."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Volunteers for additional tasks; suggests small improvements to processes."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Launches modest projects that add value; overcomes obstacles with minimal supervision."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Drives significant initiatives aligned with organizational goals; secures resources and stakeholder buy-in."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Cultivates a culture of proactive behavior; mentors others in opportunity recognition and entrepreneurial action."
-      }
-    ]
-  },
-  {
-    "ksa_id": "emotional_intelligence",
-    "label": "Emotional Intelligence",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Self-Awareness",
-      "Empathy"
-    ],
-    "description": "Recognizes, understands, and manages one’s own emotions while perceiving and positively influencing the emotions of others.\n",
-    "source_frameworks": [
-      "Concept aligned with Daniel Goleman’s EI model (publicly summarized); wording original"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Identifies basic personal emotional states after they occur."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Notices emotional cues in others; adjusts tone to maintain positive interactions."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Regulates emotional reactions under stress; demonstrates empathy by actively listening and asking clarifying questions to understand others' emotional perspectives."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Coaches others in emotional self-management; de-escalates tense situations by naming shared goals, acknowledging emotional stakes, and redirecting to productive problem-solving."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Embeds emotional-intelligence practices in organizational culture; mentors leaders in leveraging EI for strategy and change."
-      }
-    ]
-  },
-  {
-    "ksa_id": "effective_communication",
-    "label": "Effective Communication",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Communication",
-      "Active Listening"
-    ],
-    "description": "Conveys information clearly in oral and written forms, actively listens, tailors messages to the audience, and facilitates mutual understanding.\n",
-    "source_frameworks": [
-      "Based on U.S. OPM competencies for Oral & Written Communication (public domain)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Shares basic information politely; follows communication protocols."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Writes and speaks with clarity on routine topics; practices active listening by paraphrasing key points."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Explains complex ideas in simple terms; adapts tone and format (email, presentation) to audience needs; provides constructive feedback."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Persuades diverse stakeholders with well-structured messages; facilitates discussions to resolve misunderstandings and reach consensus."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Crafts compelling narratives that influence organizational direction; mentors others in advanced communication strategy and active-listening techniques."
-      }
-    ]
-  },
-  {
-    "ksa_id": "digital_literacy",
-    "label": "Digital Literacy",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Technology Fluency"
-    ],
-    "description": "Possesses fundamental computer and internet skills needed in most modern jobs; can operate a computer or smart device; understands basic cybersecurity practices (strong passwords, recognizing phishing) and can learn new software or systems with minimal guidance. Confidently uses digital tools, evaluates online information, and applies technology to solve problems and communicate effectively.\n",
-    "source_frameworks": [
-      "Derived from EU DigComp 2.2 framework (publicly released, EC JRC); adapted from O*NET Knowledge 'Computers and Electronics' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Has seen or used a computer/phone for simple tasks (social media, typing a short document); knows basic terminology (file, browser, login); performs basic actions (email, word processing); navigates the internet safely with guidance."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Performs essential digital tasks (i.e., uses documents, spreadsheets, presentations, and collaboration platforms) independently; manages file storage, retrieval, and sharing securely; writes emails, fills online forms, follows security basics (doesn’t share passwords, runs antivirus if prompted)."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Adopts new workplace software and platforms independently, including AI-assisted tools for drafting, research, or data analysis; uses collaborative tools (shared drives, video meetings) effectively; troubleshoots minor technical issues and escalates larger problems appropriately; applies cybersecurity practices (recognizing phishing attempts, enabling multi-factor authentication)."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Integrates multiple digital tools — including AI productivity assistants and workflow automation platforms — to streamline processes and reduce manual effort; customizes tool settings for efficiency and accessibility; serves as digital resource and troubleshooter for teammates; efficiently manages complex data (organizing files, applying spreadsheet formulas, using database queries); proactively updates digital skills in response to emerging technologies."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Leads digital adoption initiatives; ensures digital-inclusion best practices; mentors others in advanced tool optimization and cybersecurity hygiene."
-      }
-    ]
-  },
-  {
-    "ksa_id": "critical_thinking",
-    "label": "Critical Thinking",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Problem Solving",
-      "Analysis"
-    ],
-    "description": "Objectively analyzes information, evaluates arguments, and applies logical reasoning to reach sound conclusions.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Analytical Thinking' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Identifies basic facts and assumptions when prompted."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Distinguishes relevant from irrelevant information; applies simple decision rules."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Evaluates evidence, compares alternatives, and supports decisions with rationale."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Synthesizes complex data; anticipates implications; challenges unsupported conclusions."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Establishes analytical standards; mentors others in rigorous evidence-based reasoning; innovates new analytic frameworks."
-      }
-    ]
-  },
-  {
-    "ksa_id": "creative_thinking",
-    "label": "Creative Thinking",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Innovation",
-      "Ideation"
-    ],
-    "description": "Develops novel ideas and approaches by questioning assumptions, connecting disparate concepts, and experimenting with alternatives.\n",
-    "source_frameworks": [
-      "Inspired by U.S. OPM ECQ 'Creativity & Innovation' (public domain)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Suggests simple alternatives when solving routine problems."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Combines existing ideas in new ways; participates in brainstorming sessions constructively."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Generates multiple, diverse solutions to complex challenges; prototypes and tests promising concepts."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Leads innovation initiatives; removes barriers to creative risk-taking; secures resources for experimentation."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Shapes organizational strategy through breakthrough ideas; mentors others in structured creativity techniques."
-      }
-    ]
-  },
-  {
-    "ksa_id": "collaboration",
-    "label": "Collaboration",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Teamwork",
-      "Interpersonal Skills"
-    ],
-    "description": "Works cooperatively with others toward shared goals, valuing diverse perspectives and resolving conflicts constructively.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Cooperation' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Participates in team meetings when asked; completes assigned group tasks."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Shares information openly; offers help to teammates; accepts feedback."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Facilitates group problem-solving; manages minor disagreements respectfully."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Builds cross-functional partnerships; mediates conflicts to consensus."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Fosters a collaborative culture across the organization; designs systems that reward teamwork and shared success."
-      }
-    ]
-  },
-  {
-    "ksa_id": "attention_detail",
-    "label": "Attention to Detail",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Quality"
-    ],
-    "description": "Thoroughly accomplishes tasks, ensuring accuracy and identifying even small errors or inconsistencies.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Attention to Detail' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Reviews work for obvious mistakes when reminded."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Checks data or documents carefully; corrects simple errors before submission."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Detects subtle discrepancies; follows detailed procedures without omission."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Designs quality-control checks; prevents errors through proactive safeguards."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Establishes organization-wide standards for accuracy; mentors others on precision and quality assurance."
-      }
-    ]
-  },
-  {
-    "ksa_id": "adaptability",
-    "label": "Adaptability",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Change Management",
-      "Resilience"
-    ],
-    "description": "Adjusts effectively to new information, shifting priorities, and evolving circumstances while remaining productive.\n",
-    "source_frameworks": [
-      "Adapted from O*NET Work Style 'Adaptability/Flexibility' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Accepts changes in tasks or schedules when directed."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Modifies personal work methods when priorities shift; remains calm with minor disruptions."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Reprioritizes workload independently when conditions change; quickly learns new procedures or tools."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Anticipates change drivers; helps team adjust plans and resources proactively."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Champions adaptive culture across functions; designs processes that remain effective in rapidly changing environments."
-      }
-    ]
-  },
-  {
-    "ksa_id": "accountability",
-    "label": "Accountability",
-    "category": "Universal Professional",
-    "sector": "cross_sector",
-    "horizon": "perennial",
-    "cluster_tags": [
-      "Integrity",
-      "Ownership"
-    ],
-    "description": "Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments.\n",
-    "source_frameworks": [
-      "Aligned with OPM 'Integrity/Honesty' competency (public domain); conceptual alignment with O*NET Work Values 'Integrity' (USDOL/ETA, CC BY 4.0)"
-    ],
-    "proficiency_levels": [
-      {
-        "level": "Awareness",
-        "indicator": "Acknowledges own errors when pointed out; meets basic deadlines with supervision."
-      },
-      {
-        "level": "Basic",
-        "indicator": "Completes assigned tasks on time; owns mistakes and initiates corrective action."
-      },
-      {
-        "level": "Intermediate",
-        "indicator": "Sets clear expectations; tracks performance metrics; meets quality standards without external prompting."
-      },
-      {
-        "level": "Advanced",
-        "indicator": "Holds self and others accountable; enforces ethical guidelines; transparently reports outcomes."
-      },
-      {
-        "level": "Expert",
-        "indicator": "Embeds accountability mechanisms into organizational culture; mentors others on ethical decision-making and responsibility."
-      }
-    ]
-  },
-  {
     "ksa_id": "workforce_scheduling_gig_management",
     "label": "Workforce Scheduling & Gig Retail Management",
     "category": "Technical",
@@ -26198,6 +25648,556 @@
       {
         "level": "Expert",
         "indicator": "Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organization-wide practices."
+      }
+    ]
+  },
+  {
+    "ksa_id": "time_management",
+    "label": "Time Management",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Productivity",
+      "Organization"
+    ],
+    "description": "Prioritizes tasks, allocates time efficiently, and meets deadlines consistently while balancing competing demands.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Time Management' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Follows assigned schedules and meets basic deadlines with supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Creates simple to-do lists; prioritizes routine tasks; arrives on time."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses time-blocking or calendar management; balances multiple projects; adjusts priorities as circumstances change."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Optimizes team schedules; delegates effectively; builds buffer time for contingencies; models time discipline."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Designs organizational time-management systems; mentors others; aligns time allocation with strategic priorities."
+      }
+    ]
+  },
+  {
+    "ksa_id": "self_motivation",
+    "label": "Self-Motivation",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Work Ethic",
+      "Initiative"
+    ],
+    "description": "Drives oneself to achieve goals with sustained energy, without constant external supervision.\n",
+    "source_frameworks": [
+      "Informed by O*NET Work Style 'Achievement/Effort' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies what motivates personal engagement with assigned work; names activities where self-directed effort comes easily."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Sets personal targets aligned with team objectives; monitors own progress."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Pursues stretch goals; maintains focus despite routine obstacles."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Models sustained high-effort engagement visibly, prompting colleagues to maintain performance; communicates project milestones and progress narratives to sustain team momentum over time."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes systems that foster intrinsic motivation across teams; mentors colleagues in self-leadership techniques."
+      }
+    ]
+  },
+  {
+    "ksa_id": "resilience",
+    "label": "Resilience",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Well-being",
+      "Stress Tolerance"
+    ],
+    "description": "Maintains performance and a positive outlook when faced with adversity, stress, or rapid change.\n",
+    "source_frameworks": [
+      "Derived from O*NET Work Style 'Stress Tolerance' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Recovers from minor setbacks with guidance."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Persists through routine challenges; seeks support when stress affects performance."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Uses coping strategies to remain effective during extended pressure; helps teammates regain focus after setbacks."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Maintains forward-focused framing during crises by communicating near-term achievable steps; guides teams through structured stress-management techniques to restore performance."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Builds organizational resilience frameworks; leads cultural initiatives that normalize adaptive coping and recovery."
+      }
+    ]
+  },
+  {
+    "ksa_id": "professionalism",
+    "label": "Professionalism",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Work Ethic"
+    ],
+    "description": "Demonstrates reliability, respectful conduct, appropriate appearance, and a commitment to ethical standards.\n",
+    "source_frameworks": [
+      "Aligned with OPM 'Interpersonal Skills,' 'Integrity/Honesty,' and 'Accountability' competency frameworks (public domain)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Follows basic workplace etiquette and dress code when reminded."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Consistently meets attendance and punctuality expectations; maintains courteous interactions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Maintains composed, respectful conduct in client-facing and cross-organizational settings; handles confidential information responsibly by following applicable privacy and disclosure protocols."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Models professional conduct under pressure; mentors peers in workplace etiquette and ethics."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Shapes organizational policies on professionalism; leads initiatives to uphold and evolve ethical standards industry-wide."
+      }
+    ]
+  },
+  {
+    "ksa_id": "learning_agility",
+    "label": "Learning Agility",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Continuous Learning"
+    ],
+    "description": "Rapidly acquires and applies new knowledge and skills to novel situations; reflects on experience to improve future performance.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Learning Strategies' (USDOL/ETA, CC BY 4.0); conceptual alignment with organizational psychology literature on learning agility constructs (original CaliberPath wording)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Seeks guidance and resources when faced with unfamiliar tasks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Learns new tools or processes quickly using available training; applies lessons to similar tasks."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Experiments with multiple learning methods; transfers insights across domains; solicits feedback to refine practice."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Learns ahead of need for upcoming challenges; designs learning resources for others; evaluates learning return on investment (ROI)."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds continuous-learning systems in the organization; anticipates skill trends and orchestrates upskilling strategies at scale."
+      }
+    ]
+  },
+  {
+    "ksa_id": "initiative",
+    "label": "Initiative",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Proactivity"
+    ],
+    "description": "Proactively identifies opportunities and takes action without waiting for direction.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Initiative' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Notices tasks or problems that fall outside assigned duties and reports observations to a supervisor without being asked."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Volunteers for additional tasks; suggests small improvements to processes."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Launches modest projects that add value; overcomes obstacles with minimal supervision."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Drives significant initiatives aligned with organizational goals; secures resources and stakeholder buy-in."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Cultivates a culture of proactive behavior; mentors others in opportunity recognition and entrepreneurial action."
+      }
+    ]
+  },
+  {
+    "ksa_id": "emotional_intelligence",
+    "label": "Emotional Intelligence",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Self-Awareness",
+      "Empathy"
+    ],
+    "description": "Recognizes, understands, and manages one’s own emotions while perceiving and positively influencing the emotions of others.\n",
+    "source_frameworks": [
+      "Concept aligned with Daniel Goleman’s EI model (publicly summarized); wording original"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies basic personal emotional states after they occur."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Notices emotional cues in others; adjusts tone to maintain positive interactions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Regulates emotional reactions under stress; demonstrates empathy by actively listening and asking clarifying questions to understand others' emotional perspectives."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Coaches others in emotional self-management; de-escalates tense situations by naming shared goals, acknowledging emotional stakes, and redirecting to productive problem-solving."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds emotional-intelligence practices in organizational culture; mentors leaders in leveraging EI for strategy and change."
+      }
+    ]
+  },
+  {
+    "ksa_id": "effective_communication",
+    "label": "Effective Communication",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Communication",
+      "Active Listening"
+    ],
+    "description": "Conveys information clearly in oral and written forms, actively listens, tailors messages to the audience, and facilitates mutual understanding.\n",
+    "source_frameworks": [
+      "Based on U.S. OPM competencies for Oral & Written Communication (public domain)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Shares basic information politely; follows communication protocols."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Writes and speaks with clarity on routine topics; practices active listening by paraphrasing key points."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Explains complex ideas in simple terms; adapts tone and format (email, presentation) to audience needs; provides constructive feedback."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Persuades diverse stakeholders with well-structured messages; facilitates discussions to resolve misunderstandings and reach consensus."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Crafts compelling narratives that influence organizational direction; mentors others in advanced communication strategy and active-listening techniques."
+      }
+    ]
+  },
+  {
+    "ksa_id": "digital_literacy",
+    "label": "Digital Literacy",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Technology Fluency"
+    ],
+    "description": "Possesses fundamental computer and internet skills needed in most modern jobs; can operate a computer or smart device; understands basic cybersecurity practices (strong passwords, recognizing phishing) and can learn new software or systems with minimal guidance. Confidently uses digital tools, evaluates online information, and applies technology to solve problems and communicate effectively.\n",
+    "source_frameworks": [
+      "Derived from EU DigComp 2.2 framework (publicly released, EC JRC); adapted from O*NET Knowledge 'Computers and Electronics' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Has seen or used a computer/phone for simple tasks (social media, typing a short document); knows basic terminology (file, browser, login); performs basic actions (email, word processing); navigates the internet safely with guidance."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Performs essential digital tasks (i.e., uses documents, spreadsheets, presentations, and collaboration platforms) independently; manages file storage, retrieval, and sharing securely; writes emails, fills online forms, follows security basics (doesn’t share passwords, runs antivirus if prompted)."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Adopts new workplace software and platforms independently, including AI-assisted tools for drafting, research, or data analysis; uses collaborative tools (shared drives, video meetings) effectively; troubleshoots minor technical issues and escalates larger problems appropriately; applies cybersecurity practices (recognizing phishing attempts, enabling multi-factor authentication)."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Integrates multiple digital tools — including AI productivity assistants and workflow automation platforms — to streamline processes and reduce manual effort; customizes tool settings for efficiency and accessibility; serves as digital resource and troubleshooter for teammates; efficiently manages complex data (organizing files, applying spreadsheet formulas, using database queries); proactively updates digital skills in response to emerging technologies."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Leads digital adoption initiatives; ensures digital-inclusion best practices; mentors others in advanced tool optimization and cybersecurity hygiene."
+      }
+    ]
+  },
+  {
+    "ksa_id": "critical_thinking",
+    "label": "Critical Thinking",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Problem Solving",
+      "Analysis"
+    ],
+    "description": "Objectively analyzes information, evaluates arguments, and applies logical reasoning to reach sound conclusions.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Analytical Thinking' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Identifies basic facts and assumptions when prompted."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Distinguishes relevant from irrelevant information; applies simple decision rules."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Evaluates evidence, compares alternatives, and supports decisions with rationale."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Synthesizes complex data; anticipates implications; challenges unsupported conclusions."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes analytical standards; mentors others in rigorous evidence-based reasoning; innovates new analytic frameworks."
+      }
+    ]
+  },
+  {
+    "ksa_id": "creative_thinking",
+    "label": "Creative Thinking",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Innovation",
+      "Ideation"
+    ],
+    "description": "Develops novel ideas and approaches by questioning assumptions, connecting disparate concepts, and experimenting with alternatives.\n",
+    "source_frameworks": [
+      "Inspired by U.S. OPM ECQ 'Creativity & Innovation' (public domain)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Suggests simple alternatives when solving routine problems."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Combines existing ideas in new ways; participates in brainstorming sessions constructively."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Generates multiple, diverse solutions to complex challenges; prototypes and tests promising concepts."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Leads innovation initiatives; removes barriers to creative risk-taking; secures resources for experimentation."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Shapes organizational strategy through breakthrough ideas; mentors others in structured creativity techniques."
+      }
+    ]
+  },
+  {
+    "ksa_id": "collaboration",
+    "label": "Collaboration",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Teamwork",
+      "Interpersonal Skills"
+    ],
+    "description": "Works cooperatively with others toward shared goals, valuing diverse perspectives and resolving conflicts constructively.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Cooperation' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Participates in team meetings when asked; completes assigned group tasks."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Shares information openly; offers help to teammates; accepts feedback."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Facilitates group problem-solving; manages minor disagreements respectfully."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Builds cross-functional partnerships; mediates conflicts to consensus."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Fosters a collaborative culture across the organization; designs systems that reward teamwork and shared success."
+      }
+    ]
+  },
+  {
+    "ksa_id": "attention_detail",
+    "label": "Attention to Detail",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Quality"
+    ],
+    "description": "Thoroughly accomplishes tasks, ensuring accuracy and identifying even small errors or inconsistencies.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Attention to Detail' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Reviews work for obvious mistakes when reminded."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Checks data or documents carefully; corrects simple errors before submission."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Detects subtle discrepancies; follows detailed procedures without omission."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Designs quality-control checks; prevents errors through proactive safeguards."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Establishes organization-wide standards for accuracy; mentors others on precision and quality assurance."
+      }
+    ]
+  },
+  {
+    "ksa_id": "adaptability",
+    "label": "Adaptability",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Change Management",
+      "Resilience"
+    ],
+    "description": "Adjusts effectively to new information, shifting priorities, and evolving circumstances while remaining productive.\n",
+    "source_frameworks": [
+      "Adapted from O*NET Work Style 'Adaptability/Flexibility' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Accepts changes in tasks or schedules when directed."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Modifies personal work methods when priorities shift; remains calm with minor disruptions."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Reprioritizes workload independently when conditions change; quickly learns new procedures or tools."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Anticipates change drivers; helps team adjust plans and resources proactively."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Champions adaptive culture across functions; designs processes that remain effective in rapidly changing environments."
+      }
+    ]
+  },
+  {
+    "ksa_id": "accountability",
+    "label": "Accountability",
+    "category": "Professionalism",
+    "sector": "cross_sector",
+    "horizon": "perennial",
+    "cluster_tags": [
+      "Integrity",
+      "Ownership"
+    ],
+    "description": "Takes responsibility for actions, decisions, and results; upholds ethical standards and follows through on commitments.\n",
+    "source_frameworks": [
+      "Aligned with OPM 'Integrity/Honesty' competency (public domain); conceptual alignment with O*NET Work Values 'Integrity' (USDOL/ETA, CC BY 4.0)"
+    ],
+    "proficiency_levels": [
+      {
+        "level": "Awareness",
+        "indicator": "Acknowledges own errors when pointed out; meets basic deadlines with supervision."
+      },
+      {
+        "level": "Basic",
+        "indicator": "Completes assigned tasks on time; owns mistakes and initiates corrective action."
+      },
+      {
+        "level": "Intermediate",
+        "indicator": "Sets clear expectations; tracks performance metrics; meets quality standards without external prompting."
+      },
+      {
+        "level": "Advanced",
+        "indicator": "Holds self and others accountable; enforces ethical guidelines; transparently reports outcomes."
+      },
+      {
+        "level": "Expert",
+        "indicator": "Embeds accountability mechanisms into organizational culture; mentors others on ethical decision-making and responsibility."
       }
     ]
   },

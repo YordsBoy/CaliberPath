@@ -1,7 +1,7 @@
 ---
 ksa_id: emotional_intelligence
 label: Emotional Intelligence
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

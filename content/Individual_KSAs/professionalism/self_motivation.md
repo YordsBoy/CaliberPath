@@ -1,7 +1,7 @@
 ---
 ksa_id: self_motivation
 label: Self-Motivation
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

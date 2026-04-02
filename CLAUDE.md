@@ -2,7 +2,7 @@
 
 ## What Is CaliberPath
 
-CaliberPath is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Universal Professional, Leadership, and Self-Mastery) plus 400+ technical KSAs across 35 industry sectors.
+CaliberPath is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Professionalism, Leadership & Influence, and Self-Mastery) plus 400+ technical KSAs across 35 industry sectors.
 
 **Author:** YordsBoy | **Version:** 0.1.0 | **License:** UNLICENSED
 
@@ -50,7 +50,7 @@ npm run inventory:ksas   # Generate KSA inventory report and validation errors
 
 ```
 content/Individual_KSAs/       # CORE ASSET — 684 KSA markdown files by sector
-  universal_professional/      #   15 Universal Professional competencies
+  professionalism/             #   15 Professionalism competencies
   leadership_influence/        #   15 Leadership competencies
   self_management_personal_mastery/  #   15+ Self-Mastery competencies
   technical_ksas/              #   Sector-specific KSAs (35 sectors)
@@ -163,5 +163,6 @@ A successful `write_file` return does **not** guarantee valid content. `npm run 
 
 ## Changelog
 
+- 2026-04-01 (v1.2): Renamed domain directory from universal_professional/ to professionalism/ and updated all 15 category fields. Updated framework name expansion in What Is CaliberPath and Project Structure. Authority: DR_DomainNaming_Professionalism_Correction_v1.
 - 2026-03-17 (v1.1): Replaced thin "KSA Authoring Rules" with comprehensive "KSA Change Management" section. Added protocol references (`docs/policies/KSA_CHANGE_MANAGEMENT_PROTOCOL.md` and OPSDIR master). Added write authority rule. Added three-script build chain (`build:ksas`, `validate:ksas`, `inventory:ksas`). Added cluster_tags/adjacency matrix obligation. Added `npm run inventory:ksas` to Key Commands. Updated KSA count from "400+" to 684 in Project Structure. Added `docs/policies/` and `HORIZON_POLICY.md` to Project Structure listing.
 - 2026-02-xx (v1.0): Initial configuration.

@@ -1,7 +1,7 @@
 ---
 ksa_id: professionalism
 label: Professionalism
-category: Universal Professional
+category: Professionalism
 sector: cross_sector
 horizon: perennial
 cluster_tags:

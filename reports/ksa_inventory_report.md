@@ -1,6 +1,6 @@
 # KSA Inventory Report
 
-**Generated:** Thu, 19 Mar 2026 17:21:41 GMT
+**Generated:** Thu, 02 Apr 2026 00:58:18 GMT
 **Repository:** CaliberPath
 
 ---
@@ -23,8 +23,8 @@
 | Category                                      | Count |
 | --------------------------------------------- | ----- |
 | Technical                                     |   646 |
-| Universal Professional                        |    15 |
 | Self Management                               |    15 |
+| Professionalism                               |    15 |
 | Leadership                                    |    15 |
 | __missing__                                   |     3 |
 

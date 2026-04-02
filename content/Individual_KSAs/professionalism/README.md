@@ -1,8 +1,8 @@
-# Universal Professional Competencies (Cross-Sector)
+# Professionalism Competencies (Cross-Sector)
 
 ## Sector Overview
 
-Universal Professional competencies represent the foundational knowledge, skills, and attributes that CaliberPath develops in all employees, clients, and learners regardless of industry or role. These 15 competencies form the “General” tier of the UPLS (Universal Professional, Leadership, Self-Mastery) framework. All are marked `perennial` because they remain relevant across career stages and economic cycles.
+Professionalism competencies represent the foundational knowledge, skills, and attributes that CaliberPath develops in all employees, clients, and learners regardless of industry or role. These 15 competencies form the Professionalism domain of the UPLS (Universal Professionalism, Leadership & Influence, Self-Mastery) framework. All are marked `perennial` because they remain relevant across career stages and economic cycles.
 
 ## Sub-domains
 
@@ -60,4 +60,4 @@ Universal Professional competencies represent the foundational knowledge, skills
 
 > *These competencies are adapted from public-domain frameworks. No source organization endorses these adaptations.*
 
-_Last updated: February 2026_
+_Last updated: April 2026_
