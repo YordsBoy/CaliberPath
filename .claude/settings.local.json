@@ -17,7 +17,8 @@
       "Bash(npm run:*)",
       "Bash(done)",
       "mcp__caliberpath-filesystem__read_multiple_files",
-      "Bash(node -e \":*)"
+      "Bash(node -e \":*)",
+      "Bash(node scripts/export_upls_reference.js)"
     ]
   }
 }
