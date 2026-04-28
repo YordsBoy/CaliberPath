@@ -1,24 +1,28 @@
 # CaliberPath Strategic Direction
 
 **Architectural Context for Development**
-**Last Updated:** February 2026
+**Last Updated:** April 2026
 **Status:** Authoritative — This document governs all development priorities
 
 ---
 
 ## Executive Summary
 
-CaliberPath has evolved from its original conception as an AI-powered self-reflection platform into a Learning & Development (L&D) company that delivers human-led coaching, workshops, and consulting services. The competency framework (UPLS + 400+ technical KSAs) remains the core intellectual property, but the delivery model has shifted from AI-first to human-first with technology augmentation.
+CaliberPath has evolved from its original conception as an AI-powered self-reflection platform into a Learning & Development (L&D) company built around the UPLS competency framework + 400+ technical KSAs. The delivery model centers on human coaching and workshops, augmented by a digital application surface for intake, assessment, and tiered delivery.
 
-This document clarifies what is active, what is deferred, and how the codebase should be understood.
+The Digital-First Decision Memo (2026-04-20) and the Hybrid Repository Architecture decision DR_WebPlatform_RepoArchitecture_v1 (2026-04-24, registered LSA v4.17) pulled the application phase forward from 2027–2028 to 2026 Q2–Q3. This document was previously organized around a three-phase roadmap (Human-Delivered → Technology-Augmented → AI-Native, ending 2028+); it is now organized around a four-phase framework with the application surface as the near-term critical path.
+
+Under the Hybrid architecture, this repo (KSA-REPO) becomes the application at `app.caliberpath.com`.
+
+This document clarifies what is active, what is near-term, and how the codebase should be understood.
 
 ---
 
-## The Three Phases of CaliberPath
+## The Four Phases of CaliberPath
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 1: HUMAN-DELIVERED CALIBERPATH (CURRENT — 2026-2027)                    │
+│  PHASE 1: CONTENT & PIPELINE FOUNDATION (CURRENT — 2026)                    │
 │  ══════════════════════════════════════════════════════                     │
 │                                                                             │
 │  Business Model:                                                            │
@@ -27,59 +31,77 @@ This document clarifies what is active, what is deferred, and how the codebase s
 │  • Revenue: Service fees, program tuition, consulting retainers             │
 │                                                                             │
 │  Technology Role:                                                           │
-│  • Competency database powers curriculum design                             │
+│  • Competency database (UPLS + technical KSAs) powers curriculum design     │
 │  • Manual intake → human interpretation → personalized delivery             │
-│  • Marketing website, basic booking/payment                                 │
+│  • ReportLab pipeline integration prepared (Layer 3 rendering)              │
 │                                                                             │
 │  Active Development:                                                        │
 │  • KSA content maintenance and expansion                                    │
+│  • Schemas, validation, build chain                                         │
 │  • Documentation and methodology codification                               │
-│  • Basic web presence                                                       │
 └─────────────────────────────────────────────────────────────────────────────┘
                                       │
                                       ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 2: TECHNOLOGY-AUGMENTED CALIBERPATH (PLANNED — 2027-2028)               │
-│  ═════════════════════════════════════════════════════════                  │
+│  PHASE 2: APPLICATION SURFACE — PULLED FORWARD (2026 Q2–Q3)                 │
+│  ════════════════════════════════════════════════════════                   │
 │                                                                             │
 │  Business Model:                                                            │
-│  • Hybrid: Human coaching + online learning platform                        │
-│  • Self-paced courses extend reach beyond 1:1 capacity                      │
-│  • B2B clients get dashboards and progress tracking                         │
+│  • Self-serve $97 automated tier via app.caliberpath.com                    │
+│  • Coaching and workshops continue alongside the digital surface            │
+│  • Per-tier purchase model (NOT recurring subscription SaaS)                │
 │                                                                             │
 │  Technology Role:                                                           │
+│  • Next.js application at app.caliberpath.com (this repo, under Hybrid)     │
 │  • Digital intake forms with routing logic                                  │
-│  • Competency self-assessment tools                                         │
-│  • Learning path generator based on gap analysis                            │
-│  • Client portal for progress tracking                                      │
-│  • Coach/facilitator dashboard                                              │
+│  • Competency self-assessment                                               │
+│  • Payment processing for $97 automated tier                                │
+│  • Delivery dashboard for client output                                     │
+│  • Layer 3 rendering integration (ReportLab pipeline)                       │
 │                                                                             │
 │  Development Focus:                                                         │
-│  • Assessment engine                                                        │
-│  • Learning management features                                             │
-│  • Client and coach interfaces                                              │
+│  • Application scaffolding (after full Web Platform Architecture Spec)      │
+│  • Intake → assessment → payment → delivery flow                            │
+│  • Schema and data outputs consumed by the application surface              │
 └─────────────────────────────────────────────────────────────────────────────┘
                                       │
                                       ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  PHASE 3: AI-NATIVE CALIBERPATH (FUTURE — 2028+)                               │
-│  ════════════════════════════════════════════                               │
+│  PHASE 3: AI-ASSISTED TIER (NEAR-TERM — 2026 Q3–Q4)                         │
+│  ════════════════════════════════════════════════                           │
 │                                                                             │
 │  Business Model:                                                            │
-│  • AI-augmented coaching at scale                                           │
-│  • Human coaches handle complex cases; AI handles ongoing support           │
-│  • Tiered access: free AI support → premium human coaching                  │
+│  • $197 AI-assisted tier layered on the Phase 2 application surface         │
+│  • Coach-portal surfaces support human coaching alongside AI assistance     │
 │                                                                             │
 │  Technology Role:                                                           │
-│  • AI companion for continuous reflection and growth                        │
-│  • Dynamic memory integration across sessions                               │
-│  • Tone calibration and emotional intelligence                              │
-│  • Automated insight synthesis and pattern recognition                      │
+│  • Layer 2 integration via OI-GAR-V2                                        │
+│  • AI assistance integrated into intake / assessment / delivery flows       │
+│  • Coach-portal surfaces for facilitator workflows                          │
 │                                                                             │
-│  This is the ORIGINAL VISION — now properly sequenced after                 │
-│  establishing credibility and methodology through human delivery.           │
+│  Development Focus:                                                         │
+│  • Layer 2 integration                                                      │
+│  • Coach-portal feature set                                                 │
+│  • AI-assisted tier productization                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                      │
+                                      ▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  PHASE 4: SCALE & EXPANSION (LONGER-TERM)                                   │
+│  ═══════════════════════════════════════                                    │
+│                                                                             │
+│  Business Model:                                                            │
+│  • B2B aggregate tier for organizational clients                            │
+│  • Geographic expansion templating beyond Augusta market                    │
+│                                                                             │
+│  Technology Role:                                                           │
+│  • B2B aggregate dashboards and reporting                                   │
+│  • Geographic expansion templating                                          │
+│  • Advanced analytics across cohorts and tiers                              │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+> The `flows/` directory in this repo (7-day AI intake + post-intake companion model) was authored under the prior AI-first conception of CaliberPath. It is preserved as reference material and will be reassessed against the four-phase framework when Phase 3 work begins — it is no longer the canonical Phase 3 design.
 
 ---
 
@@ -102,52 +124,68 @@ These directories and files are the current operational core:
 | `data/master_ksa.json` | Compiled KSA output | ACTIVE — Regenerate as needed |
 | `docs/` | Documentation (architecture, guides) | ACTIVE — Update for L&D focus |
 
-### PHASE 3 — DEFERRED (Preserve, Do Not Develop)
+### PRESERVED — Pre-Revision AI Companion Content
 
-These directories contain the original AI companion vision. They should be preserved for future use but are not current development priorities:
+These directories contain the AI companion design from the prior AI-first conception. They are preserved as reference material and will be reassessed against the four-phase framework when Phase 3 (AI-assisted tier) work begins. They are **not** the canonical Phase 3 design under the current framework.
 
 | Path | Purpose | Status |
 |------|---------|--------|
-| `flows/intake/` | 7-day AI-guided onboarding journey | DEFERRED — Phase 3 |
-| `flows/intake/day1_tone_safety.md` | Day 1: Tone calibration, emotional safety | DEFERRED |
-| `flows/intake/day2_adaptive.md` | Day 2: Adaptive conversation paths | DEFERRED |
-| `flows/intake/day3_*.md` | Day 3: Belief exploration | DEFERRED |
-| `flows/intake/day4_belief_value.md` | Day 4: Value integration | DEFERRED |
-| `flows/intake/day5_*.md` | Day 5: Purpose articulation | DEFERRED |
-| `flows/intake/day6_*.md` | Day 6: Shadow integration | DEFERRED |
-| `flows/intake/day7_closure_future.md` | Day 7: Closure and signal transfer | DEFERRED |
-| `flows/post_intake/` | Ongoing AI companion model | DEFERRED — Phase 3 |
-| `flows/post_intake/companion_model.md` | Memory integration, cadence, modes | DEFERRED |
-| `flows/post_intake/visual_companion_ind.jsx` | React component for companion UI | DEFERRED |
-| `docs/architecture/global_memory_map__0_architecture_spec.md` | AI memory system | DEFERRED |
-| `docs/architecture/implementation_blueprint.md` | AI UX and memory design | DEFERRED |
+| `flows/intake/` | 7-day AI-guided onboarding journey | PRESERVED — reassess at Phase 3 |
+| `flows/intake/day1_tone_safety.md` | Day 1: Tone calibration, emotional safety | PRESERVED |
+| `flows/intake/day2_adaptive.md` | Day 2: Adaptive conversation paths | PRESERVED |
+| `flows/intake/day3_*.md` | Day 3: Belief exploration | PRESERVED |
+| `flows/intake/day4_belief_value.md` | Day 4: Value integration | PRESERVED |
+| `flows/intake/day5_*.md` | Day 5: Purpose articulation | PRESERVED |
+| `flows/intake/day6_*.md` | Day 6: Shadow integration | PRESERVED |
+| `flows/intake/day7_closure_future.md` | Day 7: Closure and signal transfer | PRESERVED |
+| `flows/post_intake/` | Ongoing AI companion model | PRESERVED — reassess at Phase 3 |
+| `flows/post_intake/companion_model.md` | Memory integration, cadence, modes | PRESERVED |
+| `flows/post_intake/visual_companion_ind.jsx` | React component for companion UI | PRESERVED |
+| `docs/architecture/global_memory_map__0_architecture_spec.md` | AI memory system | PRESERVED |
+| `docs/architecture/implementation_blueprint.md` | AI UX and memory design | PRESERVED |
 
-### PHASE 2 — TO BE BUILT (Not Yet Present)
+### PHASE 2 — TO BE BUILT (Pulled forward to 2026 Q2–Q3)
 
-These capabilities need to be developed for the technology-augmented phase:
+These capabilities form the application surface at `app.caliberpath.com`. Scaffolding work is sequenced after the full Web Platform Architecture Specification is filed; do not begin implementation until that specification is in hand.
 
 | Capability | Description | Priority |
 |------------|-------------|----------|
 | Digital Intake Forms | B2C and B2B intake as web forms | HIGH |
 | Competency Self-Assessment | Users rate themselves on relevant KSAs | HIGH |
-| Gap Analysis Visualizer | Shows competency gaps vs. goals | HIGH |
+| $97 Automated-Tier Payment | Per-tier purchase processing (not subscription) | HIGH |
+| Delivery Dashboard | Client-facing output of automated tier | HIGH |
+| Layer 3 Rendering Integration | ReportLab pipeline integration | HIGH |
+| Gap Analysis Visualizer | Shows competency gaps vs. goals | MEDIUM |
 | Learning Path Generator | Recommends CaliberPath offerings based on gaps | MEDIUM |
 | Client Portal | Progress tracking, resource access, scheduling | MEDIUM |
-| Coach Dashboard | Client overview, session notes, competency tracking | MEDIUM |
-| Assessment Engine | Formal pre/post assessments tied to programs | MEDIUM |
-| Organizational Dashboard | B2B aggregate view of team competencies | LOW (Phase 2b) |
+
+### PHASE 3 — TO BE BUILT (2026 Q3–Q4)
+
+| Capability | Description | Priority |
+|------------|-------------|----------|
+| $197 AI-Assisted Tier | AI assistance layered on the Phase 2 application | HIGH |
+| Layer 2 Integration | OI-GAR-V2 integration | HIGH |
+| Coach Portal | Facilitator workflows alongside AI-assisted tier | HIGH |
+
+### PHASE 4 — TO BE BUILT (Longer-term)
+
+| Capability | Description | Priority |
+|------------|-------------|----------|
+| B2B Aggregate Tier | Organizational dashboards and reporting | TBD |
+| Geographic Expansion Templating | Templating beyond Augusta market | TBD |
+| Advanced Analytics | Cross-cohort and cross-tier analytics | TBD |
 
 ### REQUIRES REVIEW (May Need Redesign)
 
-These components were built for the SaaS model and may need reconfiguration:
+These components were built for the prior subscription-SaaS framing. Under Option C (Hybrid architecture), this repo IS becoming a Next.js application — but with per-tier purchase ($97 automated, $197 AI-assisted), not recurring subscription. These components likely need redesign for the tier-purchase model.
 
 | Path | Original Purpose | Review Needed |
 |------|-----------------|---------------|
-| `components/UserTierContext.js` | SaaS tier gating (free/pro/team/enterprise) | Redesign for service model |
+| `components/UserTierContext.js` | SaaS tier gating (free/pro/team/enterprise) | Redesign for tier-purchase model |
 | `pages/_app.js` | App wrapper with tier provider | Review tier logic |
 | `pages/test.js` | Tier testing page | May be obsolete |
-| Stripe integration | Subscription billing | Reconfigure for invoicing |
-| `README.md` | Describes "self-reflection platform" | REWRITE for L&D company |
+| Stripe integration | Subscription billing | Reconfigure for per-tier purchase |
+| `README.md` | Describes "self-reflection platform" | REWRITE for L&D company with application surface |
 
 ---
 
@@ -254,36 +292,36 @@ Internal capabilities for personal excellence:
 
 ### DO:
 
-- Maintain and expand KSA content
-- Build tools that support human-delivered services
+- Maintain and expand KSA content (Phase 1 core)
+- Prepare schemas, content structure, and data outputs for ReportLab pipeline integration (Layer 3)
 - Create documentation that codifies methodology
-- Design with Phase 2 in mind (digital intake, assessments)
-- Keep Phase 3 code preserved but clearly separated
+- Design content and data outputs so the Phase 2 application surface (intake, assessment, $97 automated tier) can consume them directly
+- Keep `flows/` preserved as reference for the eventual Phase 3 reassessment
 
 ### DO NOT:
 
-- Invest development time in AI companion features
-- Build SaaS subscription infrastructure
-- Treat the 7-day intake flow as current priority
-- Develop features that bypass human coaches
+- Begin Next.js application scaffolding for `app.caliberpath.com` until the full Web Platform Architecture Specification is filed
+- Build subscription-SaaS billing infrastructure — Phase 2 payment is per-tier purchase ($97 automated, $197 AI-assisted), not recurring subscription
+- Treat the 7-day intake flow as the canonical Phase 3 design — it predates the four-phase revision and will be reassessed
+- Develop features that bypass the human coach surface in Phase 1 deliveries
 
 ### ARCHITECTURE GUIDANCE:
 
 - Competency data is the foundation — keep it clean and complete
-- Any new features should support coaches/facilitators, not replace them
-- Client-facing technology should enhance the human relationship
-- Data collection should feed into human decision-making
+- Phase 2 application surface and Phase 3 coach portal should both treat KSA-REPO data as authoritative
+- Client-facing technology should enhance the human coaching relationship, not replace it
+- Schema and data outputs are the contract between this repo and downstream consumers (Layer 2 / Layer 3 / application surface)
 
 ---
 
 ## File Organization Recommendations
 
-### Suggested Restructure
+### Suggested Layout
 
 ```
 CaliberPath/
-├── CLAUDE.md                    # Claude Code context (create after this doc)
-├── README.md                    # REWRITE for L&D company positioning
+├── CLAUDE.md                    # Claude Code context
+├── README.md                    # REWRITE — L&D company with application surface
 ├── content/
 │   └── Individual_KSAs/         # CORE ASSET — maintain actively
 ├── schemas/                     # ACTIVE — maintain
@@ -293,40 +331,18 @@ CaliberPath/
 │   ├── STRATEGIC_DIRECTION.md   # THIS DOCUMENT
 │   ├── methodology/             # L&D methodology documentation
 │   ├── offerings/               # Service descriptions
-│   └── architecture/            # Technical architecture (review for relevance)
-├── _archive/
-│   └── phase3_ai_companion/     # MOVE deferred flows/ content here
-│       ├── intake/
-│       └── post_intake/
-├── components/                  # REVIEW — what's needed for Phase 2?
-├── pages/                       # REVIEW — what's needed for Phase 2?
-└── [Phase 2 directories TBD]
+│   └── architecture/            # Technical architecture
+├── flows/                       # PRESERVED — reassess at Phase 3 (see note below)
+├── components/                  # REVIEW — needs redesign for tier-purchase model
+├── pages/                       # REVIEW — needs redesign for tier-purchase model
+└── [Phase 2 application directories TBD per Web Platform Architecture Spec]
 ```
 
-### Archiving Phase 3 Content
+### Note on `flows/` Disposition
 
-The `flows/` directory should be moved to `_archive/phase3_ai_companion/` with a README explaining:
+The `flows/` directory contains the original AI companion design (7-day intake + post-intake companion model) authored under the prior AI-first conception of CaliberPath.
 
-```markdown
-# Phase 3 Archive — AI Companion System
-
-This directory contains the original AI companion design for CaliberPath.
-These features are DEFERRED until Phase 3 (2028+).
-
-## Contents
-- intake/ — 7-day AI-guided onboarding journey
-- post_intake/ — Ongoing AI companion model
-
-## Status
-Preserved for future development. Do not actively develop.
-The L&D company must be established (Phase 1) and technology-augmented
-(Phase 2) before these features become priority.
-
-## Reactivation
-When Phase 3 begins, these designs will be reviewed and updated to
-integrate with the competency framework and client data accumulated
-in Phases 1-2.
-```
+Under the four-phase framework, "Phase 3" refers to the AI-assisted tier ($197) layered on the Phase 2 application surface — **not** the AI companion model in `flows/`. The companion design is preserved as reference material and will be reassessed against the new framework when Phase 3 work begins. Do not archive or delete it preemptively, but do not treat it as the canonical Phase 3 design.
 
 ---
 
@@ -338,57 +354,71 @@ in Phases 1-2.
 - **GitHub Repository** — Competency database, version control
 - **Claude Code** — Technical implementation, scripts, validation
 
-### External Systems (Phase 2 — Planned)
+### External Systems (Phase 2 — 2026 Q2–Q3)
 
 - **CRM** (HubSpot or similar) — Client management
 - **Scheduling tool** (Calendly or similar) — Session booking
-- **Payment processor** — Invoicing (not subscription)
-- **Learning platform** — Course delivery
+- **Payment processor** — Per-tier purchase ($97 automated tier; $197 AI-assisted at Phase 3) — not recurring subscription
+- **ReportLab pipeline** — Layer 3 rendering integration
+
+### External Systems (Phase 3 — 2026 Q3–Q4)
+
+- **OI-GAR-V2** — Layer 2 integration for AI-assisted tier
 
 ### Data Flow
 
 ```
-Competency Database (GitHub)
+Competency Database (KSA-REPO / GitHub)
          │
          ▼
 Claude.ai Projects ←→ Strategic Documents (Handbook, Curriculum)
          │
          ▼
-Claude Code → Validation, Reports, Exports
+Claude Code → Validation, Reports, Exports, ReportLab pipeline prep
          │
          ▼
-[Phase 2] Client Tools → Intake, Assessment, Progress Tracking
+[Phase 2] app.caliberpath.com → Intake, Assessment, $97 Payment, Delivery Dashboard, Layer 3 Rendering
          │
          ▼
-[Phase 3] AI Companion → Ongoing support, reflection, growth
+[Phase 3] AI-Assisted Tier ($197) + Coach Portal → Layer 2 (OI-GAR-V2)
+         │
+         ▼
+[Phase 4] B2B Aggregate Tier, Geographic Expansion, Advanced Analytics
 ```
 
 ---
 
 ## Success Metrics by Phase
 
-### Phase 1 Success (2026-2027)
+### Phase 1 Success (2026)
 
-- [ ] 50+ B2C clients served
-- [ ] 5+ B2B organizational clients
-- [ ] Revenue covering founder's financial obligations
+- [ ] KSA content complete and validated (build chain green)
+- [ ] Schemas and data outputs ready to feed the Phase 2 application surface
+- [ ] ReportLab pipeline integration prepared (Layer 3)
 - [ ] Methodology documented and repeatable
-- [ ] Local reputation established in Augusta market
+- [ ] Initial coaching/workshop revenue established
 
-### Phase 2 Success (2027-2028)
+### Phase 2 Success (2026 Q2–Q3)
 
-- [ ] Digital intake forms operational
+- [ ] `app.caliberpath.com` live (Next.js application surface, this repo)
+- [ ] Digital intake operational
 - [ ] Self-assessment tools deployed
-- [ ] Online learning platform launched
-- [ ] Client portal functional
-- [ ] 50% of clients using digital tools
+- [ ] $97 automated-tier payment flow operational (per-tier purchase, not subscription)
+- [ ] Delivery dashboard rendering output via Layer 3
+- [ ] First clients served through the digital surface
 
-### Phase 3 Success (2028+)
+### Phase 3 Success (2026 Q3–Q4)
 
-- [ ] AI companion MVP launched
-- [ ] Hybrid human-AI delivery model proven
-- [ ] Scalable beyond founder's personal capacity
-- [ ] Original vision realized with sustainable foundation
+- [ ] $197 AI-assisted tier launched
+- [ ] Layer 2 integration (OI-GAR-V2) operational
+- [ ] Coach portal in production use by facilitators
+- [ ] Hybrid human + AI-assisted delivery model proven
+
+### Phase 4 Success (Longer-term)
+
+- [ ] B2B aggregate tier serving organizational clients
+- [ ] Geographic expansion templating in use beyond Augusta
+- [ ] Advanced analytics across cohorts and tiers
 
 ---
 
@@ -401,8 +431,14 @@ Updates require:
 2. Documentation of rationale
 3. Update to `CLAUDE.md` if development priorities change
 
-**Last Reviewed:** February 2026
-**Next Review:** Upon Phase 2 initiation
+### Authority Trail
+
+- Digital-First Decision Memo (2026-04-20) — pulled the application phase forward
+- DR_WebPlatform_RepoArchitecture_v1 (2026-04-24, registered LSA v4.17) — adopted Hybrid (Option C); KSA-REPO becomes the application surface at `app.caliberpath.com`
+- Strategist → Claude Code handoff `2026-04-24_Strategist-to-CC_KSARepo_CLAUDEmd_PhaseFrameworkRevision_v1` — authorized this revision
+
+**Last Reviewed:** April 2026
+**Next Review:** Upon filing of the full Web Platform Architecture Specification (precondition for Phase 2 scaffolding)
 
 ---
 
@@ -412,11 +448,14 @@ When working in this repository:
 
 | If you're asked to... | Priority | Action |
 |----------------------|----------|--------|
-| Modify KSA content | HIGH | Proceed — this is core |
+| Modify KSA content | HIGH | Proceed — Phase 1 core |
 | Run validation scripts | HIGH | Proceed — maintain quality |
 | Update documentation | HIGH | Proceed — support methodology |
-| Build AI companion features | LOW | Check STRATEGIC_DIRECTION.md first |
-| Develop flows/ content | DEFERRED | This is Phase 3 — preserve only |
-| Build intake/assessment tools | MEDIUM | This is Phase 2 — plan carefully |
+| Prepare schemas/data outputs for ReportLab pipeline | HIGH | Proceed — Phase 1 critical |
+| Begin Next.js application scaffolding for `app.caliberpath.com` | BLOCKED | Wait — requires Web Platform Architecture Specification first |
+| Build intake / assessment / payment / delivery for $97 tier | NEAR-TERM | Phase 2 (2026 Q2–Q3) — plan against the Web Platform Architecture Spec |
+| Develop AI-assisted tier or coach portal | PLANNED | Phase 3 (2026 Q3–Q4) — defer until Phase 2 ships |
+| Develop `flows/` content | DO NOT | Pre-revision AI companion design — preserve only; reassess at Phase 3 |
+| Build subscription-SaaS billing | DO NOT | Payment is per-tier purchase, not recurring subscription |
 
 > **When in doubt, reference this document.**

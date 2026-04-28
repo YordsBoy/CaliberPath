@@ -10,19 +10,23 @@ CaliberPath is a Learning & Development (L&D) company delivering human-led coach
 
 See **[docs/STRATEGIC_DIRECTION.md](docs/STRATEGIC_DIRECTION.md)** for the authoritative development roadmap.
 
+Under the Hybrid repository architecture (DR_WebPlatform_RepoArchitecture_v1, 2026-04-24, registered LSA v4.17), this repo (KSA-REPO) becomes the application surface at `app.caliberpath.com`. The Digital-First Decision Memo (2026-04-20) pulled the application phase forward from 2027–2028 to 2026 Q2–Q3, replacing the previous three-phase roadmap with the four-phase framework below.
+
 ### Phase Summary
 
 | Phase | Timeframe | Status | Focus |
 |-------|-----------|--------|-------|
-| **Phase 1** — Human-Delivered | 2026-2027 | **CURRENT** | Coaching, workshops, KSA content, documentation |
-| **Phase 2** — Technology-Augmented | 2027-2028 | Planned | Digital intake, assessments, client portal |
-| **Phase 3** — AI-Native | 2028+ | Deferred | AI companion, memory integration, tone calibration |
+| **Phase 1** — Content & Pipeline Foundation | 2026 (now) | **CURRENT** | KSA content authoring, schemas, documentation, ReportLab pipeline integration preparation |
+| **Phase 2** — Application Surface (pulled forward) | 2026 Q2–Q3 | **NEAR-TERM CRITICAL PATH** | `app.caliberpath.com`: intake, assessment, payment ($97 automated tier), delivery dashboard, Layer 3 rendering integration |
+| **Phase 3** — AI-Assisted Tier | 2026 Q3–Q4 | Planned | $197 AI-assisted tier; Layer 2 integration via OI-GAR-V2; coach-portal surfaces |
+| **Phase 4** — Scale & Expansion | Longer-term | Future | B2B aggregate tier; geographic expansion templating; advanced analytics |
 
 ### What's Active vs. Deferred
 
 - **ACTIVE (Phase 1):** `content/Individual_KSAs/`, `schemas/`, `scripts/`, `data/`, `docs/`
-- **DEFERRED (Phase 3):** `flows/` — the 7-day AI intake and post-intake companion model. Preserve but do not develop.
-- **NEEDS REVIEW:** `components/UserTierContext.js`, Stripe integration, `README.md` — built for SaaS model, may need redesign.
+- **NEAR-TERM (Phase 2 — pulled forward):** Next.js application surface at `app.caliberpath.com` — intake, assessment, $97 automated-tier payment, delivery dashboard, Layer 3 rendering integration. Scaffolding work is sequenced after the full Web Platform Architecture Specification is filed; do not begin implementation until that specification is in hand.
+- **PRESERVED:** `flows/` — the 7-day AI intake and post-intake companion model originated under the prior AI-first conception. Preserve as reference; reassess against the four-phase framework when Phase 3 (AI-assisted tier) work begins.
+- **NEEDS REVIEW:** `components/UserTierContext.js`, Stripe integration, `README.md` — built for the prior subscription-SaaS framing. Under Option C the repo IS becoming an application (Next.js), but not "SaaS" in the subscription sense — payment is per-tier ($97 automated, $197 AI-assisted), not recurring subscription. These components likely need redesign for the tier-purchase model.
 
 ## Tech Stack
 
@@ -62,7 +66,7 @@ data/master_ksa.json           # Compiled KSA output (regenerate with build:ksas
 docs/policies/                 # Governing policies (ASSESSMENT_FRAMEWORK_POLICY, KSA_CHANGE_MANAGEMENT_PROTOCOL)
 docs/architecture/             # System architecture
 HORIZON_POLICY.md              # Horizon tier governance
-flows/                         # DEFERRED — Phase 3 AI companion content
+flows/                         # PRESERVED — pre-revision AI companion content; reassess at Phase 3
 ```
 
 ---
@@ -142,16 +146,16 @@ A successful `write_file` return does **not** guarantee valid content. `npm run 
 ## Development Principles
 
 **DO:**
-- Maintain and expand KSA content
-- Build tools that support human-delivered services
+- Maintain and expand KSA content (Phase 1 core)
+- Prepare schemas, content structure, and data outputs for ReportLab pipeline integration
 - Create documentation that codifies methodology
-- Design with Phase 2 in mind (digital intake, assessments)
+- Design content and data outputs so Phase 2 (intake, assessment, $97 automated tier) can consume them directly
 
 **DO NOT:**
-- Invest development time in AI companion features (Phase 3)
-- Build SaaS subscription infrastructure
-- Treat `flows/` as a current priority
-- Develop features that bypass human coaches
+- Begin Next.js application scaffolding for `app.caliberpath.com` until the full Web Platform Architecture Specification is filed
+- Build subscription-SaaS billing infrastructure — Phase 2 payment is per-tier purchase ($97 automated, $197 AI-assisted), not recurring subscription
+- Treat `flows/` as current Phase 2 work — it predates the four-phase revision and will be reassessed at Phase 3
+- Develop features that bypass the human coach surface in Phase 1 deliveries
 
 ## Git Conventions
 
@@ -163,6 +167,7 @@ A successful `write_file` return does **not** guarantee valid content. `npm run 
 
 ## Changelog
 
+- 2026-04-24 (v1.3): Revised Phase framework from three-phase (2026–2028+) to four-phase model. Phase 2 (application surface at `app.caliberpath.com`) pulled forward from 2027–2028 to 2026 Q2–Q3 per Digital-First Decision Memo (2026-04-20) and Hybrid architecture decision DR_WebPlatform_RepoArchitecture_v1 (2026-04-24, registered LSA v4.17). Updated Phase Summary table, Active/Deferred section, Project Structure flows/ note, and Development Principles. Qualified "SaaS" framing — repo IS becoming a Next.js application but with per-tier purchase, not subscription billing. Authority: Strategist → CC handoff 2026-04-24_Strategist-to-CC_KSARepo_CLAUDEmd_PhaseFrameworkRevision_v1.
 - 2026-04-01 (v1.2): Renamed domain directory from universal_professional/ to professionalism/ and updated all 15 category fields. Updated framework name expansion in What Is CaliberPath and Project Structure. Authority: DR_DomainNaming_Professionalism_Correction_v1.
 - 2026-03-17 (v1.1): Replaced thin "KSA Authoring Rules" with comprehensive "KSA Change Management" section. Added protocol references (`docs/policies/KSA_CHANGE_MANAGEMENT_PROTOCOL.md` and OPSDIR master). Added write authority rule. Added three-script build chain (`build:ksas`, `validate:ksas`, `inventory:ksas`). Added cluster_tags/adjacency matrix obligation. Added `npm run inventory:ksas` to Key Commands. Updated KSA count from "400+" to 684 in Project Structure. Added `docs/policies/` and `HORIZON_POLICY.md` to Project Structure listing.
 - 2026-02-xx (v1.0): Initial configuration.
