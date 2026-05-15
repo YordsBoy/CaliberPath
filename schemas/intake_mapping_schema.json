@@ -2,7 +2,8 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "CaliberPath Intake Mapping Schema",
   "description": "Maps intake form dimensions to UPLS and sector-specific competencies with artifact evidence support",
-  "version": "1.0.0",
+  "version": "1.4.1",
+  "$comment": "Schema Spec v1.4.1 (predicate narrowing on 3 anon INSERT policies + SECURITY DEFINER search_path canonical pin extension on 4 functions via WS-SUPABASE-SECURITY-V1 v1.4.1; version-bump only — no field changes)",
   "definitions": {
     "proficiency_level": {
       "type": "string",
@@ -197,14 +198,46 @@
             }
           }
         },
-        "coach_notes": { "type": "string" }
+        "coach_notes": { "type": "string" },
+        "sector_cluster_assessments": {
+          "type": "array",
+          "description": "Per-cluster proficiency ratings within mapped sector modules (Phase 3 Layer 2 extension; v1.2.0)",
+          "items": {
+            "type": "object",
+            "required": ["cluster_id", "assessed_level"],
+            "properties": {
+              "cluster_id": {
+                "type": "string",
+                "description": "Canonical cluster identifier from Sector Module Supplement v2 §4.2 (e.g., 'HC-MOD-02_C-1')"
+              },
+              "assessed_level": {
+                "$ref": "#/definitions/proficiency_level"
+              },
+              "evidence_note": {
+                "type": ["string", "null"],
+                "description": "Coach narrative evidence for this cluster; plain text; multiline permitted; NULL permitted (graceful-degradation pattern per Annotation A R-01)"
+              }
+            },
+            "additionalProperties": false
+          },
+          "default": []
+        },
+        "sector_cluster_skips": {
+          "type": "array",
+          "description": "Cluster IDs intentionally skipped at coach intake time (Phase 4 §9.2 Path A skip-persistence extension; v1.3.0). Companion to sector_cluster_assessments[]: rated rows produce sector_cluster_assessments[] entries; skipped rows produce sector_cluster_skips[] entries. Per ID Functional Spec §8.1+§8.2.",
+          "items": {
+            "type": "string",
+            "description": "Canonical cluster_id reference (e.g., 'HC-MOD-02_C-3')"
+          },
+          "default": []
+        }
       }
     }
   },
   "type": "object",
   "required": ["schema_version", "client_type", "client_profile", "assessment_metadata"],
   "properties": {
-    "schema_version": { "type": "string", "const": "1.0.0" },
+    "schema_version": { "type": "string", "const": "1.4.1" },
     "client_type": { "type": "string", "enum": ["B2C", "B2B"] },
     "client_profile": {
       "type": "object",
