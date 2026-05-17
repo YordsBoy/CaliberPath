@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 // scripts/inventory_ksas.js
 //
-// Scans content/Individual_KSAs/**/*.md (skipping README.md files),
-// validates each against schemas/ksa.schema.json, and writes:
+// Scans content/Individual_KSAs/**/*.md (skipping README.md files and
+// _crosswalk/ documentation artifacts), validates each against
+// schemas/ksa.schema.json, and writes:
 //   reports/ksa_inventory.json       — full structured inventory
 //   reports/ksa_inventory_report.md  — human-readable summary
 //   reports/validation_errors.json   — schema violations
@@ -30,10 +31,20 @@ const validate = ajv.compile(schema);
 
 // ── Collect files ─────────────────────────────────────────────────────────────
 const allFiles = glob.sync(SRC_GLOB, { cwd: ROOT });
-// Exclude README.md files — they are sector overviews, not KSA definitions
-const ksaFiles = allFiles.filter(f => path.basename(f).toLowerCase() !== "readme.md");
+// Exclusions from KSA classification scope:
+//   - README.md files: sector overviews, not KSA definitions.
+//   - Anything under a _crosswalk/ path segment: documentation artifacts
+//     (sector adjacency matrices, population-pathway crosswalks) that
+//     intentionally lack KSA front-matter. Without this exclusion they
+//     produce persistent schema-invalid surface in validation output.
+const isReadme    = f => path.basename(f).toLowerCase() === "readme.md";
+const isCrosswalk = f => f.split(/[\\/]/).includes("_crosswalk");
+const ksaFiles    = allFiles.filter(f => !isReadme(f) && !isCrosswalk(f));
 
-console.log(`Found ${allFiles.length} .md files total, ${ksaFiles.length} KSA files (${allFiles.length - ksaFiles.length} READMEs excluded)\n`);
+const readmeCount    = allFiles.filter(isReadme).length;
+const crosswalkCount = allFiles.filter(f => !isReadme(f) && isCrosswalk(f)).length;
+
+console.log(`Found ${allFiles.length} .md files total, ${ksaFiles.length} KSA files (${readmeCount} READMEs + ${crosswalkCount} _crosswalk artifacts excluded)\n`);
 
 // ── Accumulators ──────────────────────────────────────────────────────────────
 const inventory        = [];   // one entry per KSA file
