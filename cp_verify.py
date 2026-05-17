@@ -95,12 +95,24 @@ CANONICAL_VBS_FONTS = {
     # Friendly aliases used in source content
     'Inter', 'Cormorant', 'Cormorant Garamond',
 }
-# Non-canonical font tokens that should be flagged when found verbatim
+# Non-canonical font tokens that should be flagged when found verbatim.
+# 'Georgia' deliberately omitted — the U.S. state name is common in CSRA
+# market-context references and produces dense false-positive matches.
+# 'Garamond' standalone is permitted because the canonical Cormorant
+# Garamond typeface contains it as a substring; word-boundary regex
+# matching (see _NON_CANONICAL_FONT_RE) prevents partial-match flags
+# while still catching standalone 'Garamond' tokens.
 NON_CANONICAL_FONT_TOKENS = (
     'Times New Roman', 'Times Roman', 'Times', 'Arial', 'Calibri',
-    'Verdana', 'Tahoma', 'Georgia', 'Courier', 'Garamond',
+    'Verdana', 'Tahoma', 'Courier',
     'Palatino', 'Bookman', 'Lucida',
 )
+# Word-boundary regex compiled once; matches whole-word occurrences and
+# excludes 'Garamond' when preceded by 'Cormorant' (the canonical family).
+_NON_CANONICAL_FONT_RE = re.compile(
+    r'(?<!Cormorant )\b(?:'
+    + '|'.join(re.escape(t) for t in NON_CANONICAL_FONT_TOKENS)
+    + r'|(?<!Cormorant )Garamond)\b')
 
 # PRE_BS_003 — Canonical brandmark filenames per current Visual Identity
 # inventory. Non-canonical brandmark references in markdown image links
@@ -118,6 +130,49 @@ CANONICAL_BRANDMARK_FILENAMES = {
 UPLS_DOMAIN_KEYWORDS = (
     'professionalism', 'leadership', 'influence', 'self-mastery',
     'self mastery', 'universal professional',
+)
+
+# PRE_MC_005 — Substance-Grounded Cluster Determination Framework typical
+# ranges per Source-Authoring Guidance v1.1 §3.4 + InfoTech Phase 4
+# Re-Render Execution Routing §4.2 acceptance criterion. Size buckets
+# are inclusive ranges; cluster_typical is the (low, high) typical band.
+CLUSTER_SIZE_BUCKETS = (
+    # (size_label, ksa_low, ksa_high, cluster_low, cluster_high)
+    ('Small',      10, 15, 4, 6),
+    ('Medium',     16, 25, 6, 8),
+    ('Large',      26, 35, 7, 9),
+    ('Very Large', 36, 999, 8, 9),
+)
+
+# Word-to-integer mapping for source-content cluster-count narrative
+# parsing (e.g., "seven clusters", "twelve clusters"). Only English
+# number words 1-20 needed; larger counts are written as digits.
+_NUMBER_WORDS = {
+    'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'six': 6,
+    'seven': 7, 'eight': 8, 'nine': 9, 'ten': 10, 'eleven': 11,
+    'twelve': 12, 'thirteen': 13, 'fourteen': 14, 'fifteen': 15,
+    'sixteen': 16, 'seventeen': 17, 'eighteen': 18, 'nineteen': 19,
+    'twenty': 20,
+}
+
+# PRE_BS_004 — Restricted typeface set: pipeline emits these typefaces for
+# italic callout contexts (Coaching implication, Session opening,
+# parenthetical italic, italic-banner lines) per cig_template.py callout
+# rendering logic. Glyph-coverage validation operates on the manifest for
+# each restricted typeface.
+RESTRICTED_TYPEFACES_CIG = (
+    'CormorantGaramond-Italic',
+    'CormorantGaramond-SemiBoldItalic',
+)
+
+# Source markdown italic-callout context patterns (mirrors cig_template.py
+# Tier 3 callout dispatch). Used by PRE_BS_004 to extract segments whose
+# rendered glyphs come from RESTRICTED_TYPEFACES_CIG.
+_ITALIC_CONTEXT_PATTERNS = (
+    re.compile(r'^\*Coaching implication:\*\s*(.+?)\s*$', re.MULTILINE),
+    re.compile(r'^\*Session opening:\*\s*(.+?)\s*$', re.MULTILINE),
+    re.compile(r'^\*\((.+?)\)\*\s*$', re.MULTILINE),
+    re.compile(r'^\*([^*][^*]*?[^*])\*\s*$', re.MULTILINE),
 )
 
 # ELM cycle phase canonical names (PRE_MC_002). Mapping handles both
@@ -360,6 +415,93 @@ def _mk_warn(check_id: str, category: str,
 # Reference patterns for cross-reference resolution checks.
 _ELO_REF_RE = re.compile(r'(?<![A-Z-])\bELO\s+(\d+)\.(\d+)')
 _L2_REF_RE = re.compile(r'\bL2-([FR])(\d+)\b')
+
+
+# Helpers for PRE_MC_005 (cluster-count) + PRE_BS_004 (glyph-coverage)
+# per InfoTech Phase 4 Re-Render Execution Routing §4.2 + §4.3.
+def _glyph_manifest_dir() -> str:
+    return os.path.join(
+        _opsdir_root(), '08_Production_Pipeline',
+        'Verification_Config', 'font_manifests')
+
+
+_GLYPH_MANIFEST_CACHE: Dict[str, frozenset] = {}
+
+
+def _load_glyph_manifest(typeface_name: str) -> Optional[frozenset]:
+    """Load empirical glyph-coverage codepoint set for one typeface.
+
+    Returns frozenset[int] of supported Unicode codepoints, or None when
+    the manifest is unavailable (e.g., extract_font_manifests.py has not
+    been run yet at OPSDIR Verification_Config/font_manifests/).
+    """
+    if typeface_name in _GLYPH_MANIFEST_CACHE:
+        return _GLYPH_MANIFEST_CACHE[typeface_name]
+    path = os.path.join(
+        _glyph_manifest_dir(), f'{typeface_name}.glyph_manifest.json')
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+        codepoints = frozenset(int(cp) for cp in manifest.get('codepoints', []))
+        _GLYPH_MANIFEST_CACHE[typeface_name] = codepoints
+        return codepoints
+    except (OSError, ValueError, json.JSONDecodeError):
+        return None
+
+
+_CLUSTER_NARRATIVE_RE = re.compile(
+    r'(?:covers|includes|spans)\s+(\d+)\s+KSAs?\s+across\s+'
+    r'(\d+|[a-z]+)\s+clusters?\s*:?\s*([^.\n]*)',
+    re.IGNORECASE)
+_KSA_COUNT_ONLY_RE = re.compile(
+    r'(\d+)\s+KSAs?\s+(?:are|spanning|across)', re.IGNORECASE)
+
+
+def _extract_cluster_inventory_from_source(
+        text: str) -> Optional[Dict[str, Any]]:
+    """Parse the §1 cluster-list sentence from CIG source markdown.
+
+    Returns a dict with keys 'ksa_count', 'cluster_count', 'cluster_names'
+    on successful parse; None when no parseable cluster sentence is found.
+    Heuristic: matches sentences of the form
+        "The instrument covers N KSAs across M clusters: name1, name2, ..."
+    or analogous narrative forms. Tolerates count words ("seven clusters")
+    via _NUMBER_WORDS map.
+    """
+    m = _CLUSTER_NARRATIVE_RE.search(text)
+    if not m:
+        return None
+    try:
+        ksa_count = int(m.group(1))
+    except (ValueError, TypeError):
+        return None
+    cluster_token = m.group(2).strip().lower()
+    if cluster_token.isdigit():
+        cluster_count = int(cluster_token)
+    elif cluster_token in _NUMBER_WORDS:
+        cluster_count = _NUMBER_WORDS[cluster_token]
+    else:
+        return None
+    name_blob = m.group(3) or ''
+    # Split on commas + "and"; tolerate Oxford-comma + "and"-trailing forms.
+    name_blob = re.sub(r',?\s+and\s+', ', ', name_blob)
+    cluster_names = [
+        n.strip() for n in name_blob.split(',') if n.strip()]
+    return {
+        'ksa_count': ksa_count,
+        'cluster_count': cluster_count,
+        'cluster_names': cluster_names,
+    }
+
+
+def _bucket_for_ksa_count(ksa_count: int) -> Optional[Tuple[str, int, int]]:
+    """Map a KSA count to (size_label, cluster_low, cluster_high) typical."""
+    for label, k_lo, k_hi, c_lo, c_hi in CLUSTER_SIZE_BUCKETS:
+        if k_lo <= ksa_count <= k_hi:
+            return (label, c_lo, c_hi)
+    return None
 
 
 def verify_source_data_integrity(
@@ -799,6 +941,66 @@ def verify_methodology_conformance(
             details=f'Bloom\'s taxonomy check not applicable for '
                     f'{doc_class}.'))
 
+    # PRE_MC_005 — Substance-Grounded Cluster Determination Framework
+    # validation per InfoTech Phase 4 Re-Render Execution Routing §4.2
+    # (Source-Authoring Guidance v1.1 §3.4). Advisory; non-blocking. CIG
+    # doc classes only.
+    if doc_class in ('CIG_FULL', 'CIG_QRC'):
+        inventory = _extract_cluster_inventory_from_source(text)
+        if inventory is None:
+            results.append(_mk_warn(
+                'PRE_MC_005', 'methodology_conformance',
+                details='No parseable §1 cluster-list sentence found '
+                        '(expected form: "covers N KSAs across M clusters: '
+                        '...").',
+                fix='Add a §1 sentence stating KSA count and cluster '
+                    'count per Source-Authoring Guidance v1.1 §3.4 forward-'
+                    'authoring application protocol.'))
+        else:
+            ksa_count = inventory['ksa_count']
+            cluster_count = inventory['cluster_count']
+            names_count = len(inventory['cluster_names'])
+            bucket = _bucket_for_ksa_count(ksa_count)
+            findings: List[str] = []
+            if names_count != cluster_count:
+                findings.append(
+                    f'cluster-name list length {names_count} '
+                    f'differs from announced count {cluster_count}')
+            if bucket:
+                label, c_lo, c_hi = bucket
+                if not (c_lo <= cluster_count <= c_hi):
+                    findings.append(
+                        f'{cluster_count} clusters outside {label} '
+                        f'({ksa_count} KSAs) typical range '
+                        f'{c_lo}-{c_hi}')
+            else:
+                findings.append(
+                    f'KSA count {ksa_count} outside framework size buckets '
+                    f'(Small 10-15 / Medium 16-25 / Large 26-35 / Very '
+                    f'Large 36+)')
+            if findings:
+                results.append(_mk_warn(
+                    'PRE_MC_005', 'methodology_conformance',
+                    details='Cluster determination deviation(s): '
+                            + '; '.join(findings),
+                    fix='Review cluster-count against Source-Authoring '
+                        'Guidance v1.1 §3.4 framework. If deviation is '
+                        'intentional (single-KSA exception protocol or '
+                        'sector-specific substance justification), '
+                        'document rationale in §1 cluster-list section.'))
+            else:
+                results.append(_mk_pass(
+                    'PRE_MC_005', 'methodology_conformance',
+                    details=f'Cluster determination within framework: '
+                            f'{ksa_count} KSAs / {cluster_count} clusters '
+                            f'({bucket[0]} bucket typical {bucket[1]}-'
+                            f'{bucket[2]}).'))
+    else:
+        results.append(_mk_pass(
+            'PRE_MC_005', 'methodology_conformance',
+            details=f'Cluster-determination check not applicable for '
+                    f'{doc_class}.'))
+
     # PRE_MC_004 — CIF question-to-UPLS mapping
     is_cif = (
         doc_class == 'CALIBER_PROFILE' and 'intake' in fname_lower)
@@ -903,13 +1105,15 @@ def verify_brand_specification_adherence(
             details='All hex color references resolve to canonical VBS '
                     'palette (or no hex codes present).'))
 
-    # PRE_BS_002 — Non-canonical font tokens
+    # PRE_BS_002 — Non-canonical font tokens. Word-boundary regex match
+    # excludes substring false positives (e.g., 'Garamond' inside
+    # 'Cormorant Garamond' is preserved). 'Georgia' is deliberately
+    # omitted from the token list — U.S. state references in CSRA
+    # market-context content produce too many false positives.
     font_findings: List[Tuple[int, str]] = []
-    text_for_font_scan = text  # case-sensitive; font names are proper nouns
     for line_no, line in enumerate(text.split('\n'), 1):
-        for token in NON_CANONICAL_FONT_TOKENS:
-            if token in line:
-                font_findings.append((line_no, token))
+        for m in _NON_CANONICAL_FONT_RE.finditer(line):
+            font_findings.append((line_no, m.group(0)))
     if font_findings:
         sample = font_findings[:5]
         results.append(_mk_fail(
@@ -960,6 +1164,83 @@ def verify_brand_specification_adherence(
             'PRE_BS_003', 'brand_specification',
             details='All brandmark image references resolve to canonical '
                     'assets (or no brand image references present).'))
+
+    # PRE_BS_004 — Glyph-coverage validation per InfoTech Phase 4 Re-Render
+    # Execution Routing §4.3 (FR-CIG-F09 ASCII-equivalent discipline).
+    # Advisory; non-blocking. Scans italic-callout segments and flags any
+    # codepoint outside the empirical glyph manifest for the restricted
+    # typeface. CIG doc classes only; other classes return vacuous PASS.
+    if doc_class in ('CIG_FULL', 'CIG_QRC'):
+        restricted_typefaces = RESTRICTED_TYPEFACES_CIG
+        # Load manifests for all restricted typefaces; if any is missing
+        # the check degrades to WARN with the missing-manifest note.
+        manifests: Dict[str, frozenset] = {}
+        missing: List[str] = []
+        for tf in restricted_typefaces:
+            mset = _load_glyph_manifest(tf)
+            if mset is None:
+                missing.append(tf)
+            else:
+                manifests[tf] = mset
+        if missing and not manifests:
+            results.append(_mk_warn(
+                'PRE_BS_004', 'brand_specification',
+                details='Glyph-coverage manifests unavailable for '
+                        + ', '.join(missing)
+                        + '. Run extract_font_manifests.py at OPSDIR '
+                          'Verification_Config to populate.',
+                fix='cd [OPSDIR]/08_Production_Pipeline/Verification_Config '
+                    '&& python extract_font_manifests.py'))
+        else:
+            # Effective restricted coverage: union of available manifests
+            # (italic callouts may dispatch to either italic typeface variant
+            # depending on context; union approximates pipeline behavior).
+            effective_coverage: set = set()
+            for cps in manifests.values():
+                effective_coverage |= cps
+            # Walk italic-context segments and collect out-of-coverage
+            # codepoints with line numbers + sample character.
+            findings: List[Tuple[int, str, int]] = []
+            for line_no, line in enumerate(text.split('\n'), 1):
+                for pat in _ITALIC_CONTEXT_PATTERNS:
+                    m = pat.match(line)
+                    if m:
+                        segment = m.group(1)
+                        for ch in segment:
+                            cp = ord(ch)
+                            if cp not in effective_coverage:
+                                findings.append((line_no, ch, cp))
+                        break
+            if findings:
+                sample = findings[:5]
+                results.append(_mk_warn(
+                    'PRE_BS_004', 'brand_specification',
+                    details=f'{len(findings)} italic-callout codepoint(s) '
+                            f'outside restricted typeface coverage '
+                            f'({", ".join(sorted(manifests.keys()))}). '
+                            f'First {len(sample)}: '
+                            + '; '.join(
+                                f'line {ln}: {ch!r} (U+{cp:04X})'
+                                for ln, ch, cp in sample),
+                    fix=(
+                        'Replace out-of-coverage characters with ASCII-'
+                        'equivalent forms per FR-CIG-F09 discipline, or '
+                        'restructure callout to avoid restricted-glyph-set '
+                        'codepoints. Acceptable substitutions: ASCII '
+                        'apostrophe U+0027, ASCII hyphen-minus U+002D, '
+                        'en/em-dash if present in manifest. Reject '
+                        'typographic curly quotes when absent from font.')))
+            else:
+                results.append(_mk_pass(
+                    'PRE_BS_004', 'brand_specification',
+                    details=f'All italic-callout codepoints within '
+                            f'restricted typeface coverage '
+                            f'({", ".join(sorted(manifests.keys()))}; '
+                            f'{len(effective_coverage)} codepoints).'))
+    else:
+        results.append(_mk_pass(
+            'PRE_BS_004', 'brand_specification',
+            details=f'Glyph-coverage check not applicable for {doc_class}.'))
 
     return results
 
