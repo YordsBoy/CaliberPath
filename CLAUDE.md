@@ -2,7 +2,9 @@
 
 ## What Is CaliberPath
 
-CaliberPath is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Professionalism, Leadership & Influence, and Self-Mastery) plus 691 technical KSAs across 36 industry sectors.
+CaliberPath is a Learning & Development (L&D) company delivering human-led coaching, workshops, and consulting services. The core IP is the **UPLS competency framework** (Professionalism, Leadership & Influence, and Self-Mastery) plus 691 technical KSAs across 35 active industry sectors.
+
+> **KSA inventory:** 691 technical KSAs distributed across 35 active industry sectors at the `content/Individual_KSAs/technical_ksas/` substrate. The schema `sector.enum` totals 36 values — 35 industry sectors + 1 `cross_sector` meta-classification reserved for cross-cutting KSAs spanning multiple sectors. Reconciled at v1.5 from v1.4's "36 industry sectors" framing per Strategist Path C empirical investigation 2026-05-17 (LSA v4.76 governing; founder Tier 1 architectural disposition on schema cleanup).
 
 **Author:** YordsBoy | **Version:** 0.1.0 | **License:** UNLICENSED
 
@@ -69,7 +71,7 @@ content/Individual_KSAs/       # CORE ASSET — 691 KSA markdown files by sector
   professionalism/             #   15 Professionalism competencies
   leadership_influence/        #   15 Leadership competencies
   self_management_personal_mastery/  #   15+ Self-Mastery competencies
-  technical_ksas/              #   Sector-specific KSAs (36 sectors)
+  technical_ksas/              #   Sector-specific KSAs (35 active sectors)
 schemas/ksa.schema.json        # KSA validation schema
 scripts/build_ksa_json.js      # Compiles KSAs → data/master_ksa.json
 scripts/validate_ksas.js       # Schema validation
@@ -122,7 +124,7 @@ Every KSA is a Markdown file with YAML front-matter.
 
 Key field constraints:
 - `ksa_id` must match the regex pattern `^[a-z0-9_]+$` and **exactly match the filename** (basename without `.md`)
-- `sector` must be one of the 37 enum values in `schemas/ksa.schema.json` (36 named sectors + `cross_sector`)
+- `sector` must be one of the 36 enum values in `schemas/ksa.schema.json` (35 named industry sectors + `cross_sector`)
 - `horizon` must be one of: `core`, `emerging`, `perennial`, `watch_2030`, `peripheral`, `legacy` — governed by `HORIZON_POLICY.md`
 - `cluster_tags` values must be from the Controlled Vocabulary v1.0 — no freeform tags permitted:
   ```
@@ -179,6 +181,7 @@ A successful `write_file` return does **not** guarantee valid content. `npm run 
 
 ## Changelog
 
+- 2026-05-17 (v1.5): Sector count reconciliation. Reverts v1.4's "36 industry sectors" framing → **"35 active industry sectors"** (at lines 5, 72, and 125 of the v1.4 baseline). Adds an inline KSA inventory clarification block under §"What Is CaliberPath" registering the 35 active sectors at filesystem substrate vs. 36 schema-enum values (35 industry + `cross_sector` meta-classification). Authority: Strategist→CC handoff `2026-05-17_Strategist-to-CC_KSARepo_SectorCountReconciliation_CLAUDEmd_v15_v1`; LSA v4.76; founder Tier 1 architectural disposition on schema cleanup. **Substantive reasoning correction:** v1.4 (commit `8c26526`) reasoned that the 36th industry sector was `digital_content_creation_creator_economy`, inferring "post-addition state" from operational context. Strategist Path C empirical investigation (2026-05-17) established that `digital_content_creation_creator_economy` IS fully populated at the active substrate, and that the actually-unmatched enum value is `skilled_trades` — an architectural artifact slated for removal per founder canonical ("those skills/competencies are embedded in their respective sectors, vice the catch-all theme of skilled trades"). The schema enum cleanup removing `skilled_trades` is executed in a sibling commit. **Discipline candidate registered (advisory):** Substrate-Empirical-Verification-Before-Inference — when substrate count discrepancies surface across operational context vs. canonical substrate, empirical verification at the relevant substrate (filesystem listing for content presence; schema inspection for enum scope) precedes any inference-based reconciliation.
 - 2026-05-15 (v1.4): Phase 1B operational picture revision. Empirical numeric reconciliation: KSA count 684 → 691 (schema-valid figure from `npm run inventory:ksas`; 3 schema-invalid `_crosswalk/` documentation artifacts excluded), industry sector count 35 → 36 (37 enum values including `cross_sector`; reflects post-`digital_content_creation_creator_economy`-addition schema state). Phase Summary updated: Phase 1 row marked "Phase 1B (Dual-Market Validation) operational" with WS-CIG-UPLS-DRIFT-REVIEW lifecycle + Phase 3 Production Cycle in flight; Phase 2 row notes Layer 3 integration path + Supabase schema design as residual deferred decisions per LSA v4.74; Phase 3 row notes OI-GAR-V2-IMPL workstream COMPLETE 2026-05-01. What's Active vs. Deferred updated with WS-CIG-UPLS-DRIFT-REVIEW contribution scope + Phase 3 Production Cycle OPSDIR-layer-not-KSA-REPO clarification. Added new "Substrate-Tier Architectural Distinction (UPLS-01 Canonical Labels)" subsection under Strategic Context per LSA v4.74 Part X observation d (three-tier substrate architecture: OPSDIR CIG markdown layer / KSA-REPO content substrate / Phase 2 application surface; upstream-orthogonal at current maturity). Authority: Strategist → CC handoff `2026-05-15_Strategist-to-CC_KSARepo_CLAUDEmd_Phase1B_Operational_Picture_Revision_v1` (WS-PI-OPERATIONAL-PICTURE-REVISION, LSA v4.74).
 - 2026-04-24 (v1.3): Revised Phase framework from three-phase (2026–2028+) to four-phase model. Phase 2 (application surface at `app.caliberpath.com`) pulled forward from 2027–2028 to 2026 Q2–Q3 per Digital-First Decision Memo (2026-04-20) and Hybrid architecture decision DR_WebPlatform_RepoArchitecture_v1 (2026-04-24, registered LSA v4.17). Updated Phase Summary table, Active/Deferred section, Project Structure flows/ note, and Development Principles. Qualified "SaaS" framing — repo IS becoming a Next.js application but with per-tier purchase, not subscription billing. Authority: Strategist → CC handoff 2026-04-24_Strategist-to-CC_KSARepo_CLAUDEmd_PhaseFrameworkRevision_v1.
 - 2026-04-01 (v1.2): Renamed domain directory from universal_professional/ to professionalism/ and updated all 15 category fields. Updated framework name expansion in What Is CaliberPath and Project Structure. Authority: DR_DomainNaming_Professionalism_Correction_v1.
