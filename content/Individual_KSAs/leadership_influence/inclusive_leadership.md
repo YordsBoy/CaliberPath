@@ -23,4 +23,41 @@ proficiency_levels:
     indicator: Advocates for equitable policies; measures and reports diversity and inclusion (D&I) metrics; mentors others on inclusive behaviors.
   - level: Expert
     indicator: Embeds inclusion into organizational culture and strategy; influences industry or community standards for equity and belonging.
+matching_vocabulary:
+  - term: "inclusive leadership"
+    term_type: synonym
+  - term: "diversity and inclusion leadership"
+    term_type: synonym
+  - term: "leading inclusively"
+    term_type: synonym
+  - term: "fosters belonging"
+    term_type: related_phrase
+  - term: "leverages diverse perspectives"
+    term_type: related_phrase
+  - term: "removes barriers to inclusion"
+    term_type: related_phrase
+  - term: "advocates equitable policies"
+    term_type: related_phrase
+  - term: "ensures equitable participation"
+    term_type: related_phrase
+  - term: "mitigates proximity bias"
+    term_type: related_phrase
+  - term: "inclusive recruitment practices"
+    term_type: tool_or_method
+  - term: "equity audit"
+    term_type: tool_or_method
+  - term: "inclusion metrics"
+    term_type: tool_or_method
+  - term: "DEI"
+    term_type: acronym
+  - term: "D&I"
+    term_type: acronym
+  - term: "diversity, equity, and inclusion coursework"
+    term_type: credential_term
+  - term: "inclusive leadership training"
+    term_type: credential_term
+  - term: "Society for Human Resource Management (SHRM)"
+    term_type: issuing_body
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
 ---

@@ -24,4 +24,43 @@ proficiency_levels:
     indicator: Trains ML models to predict adoption risk; segments interventions by persona; validates accuracy against post-go-live KPIs.
   - level: Expert
     indicator: Designs enterprise change-analytics practice; governs ethical data use, privacy, and bias mitigation; publishes ROI of AI-driven change insights.
+matching_vocabulary:
+  - term: "change analytics"
+    term_type: synonym
+  - term: "change sentiment monitoring"
+    term_type: synonym
+  - term: "people analytics for change"
+    term_type: synonym
+  - term: "tracks employee sentiment"
+    term_type: related_phrase
+  - term: "measures change readiness"
+    term_type: related_phrase
+  - term: "forecasts adoption risk"
+    term_type: related_phrase
+  - term: "builds change-adoption dashboards"
+    term_type: related_phrase
+  - term: "analyzes engagement data"
+    term_type: related_phrase
+  - term: "monitors change resistance"
+    term_type: related_phrase
+  - term: "pulse surveys"
+    term_type: tool_or_method
+  - term: "sentiment analysis"
+    term_type: tool_or_method
+  - term: "engagement dashboard"
+    term_type: tool_or_method
+  - term: "people analytics"
+    term_type: tool_or_method
+  - term: "NLP"
+    term_type: acronym
+  - term: "HRIS"
+    term_type: acronym
+  - term: "people analytics coursework"
+    term_type: credential_term
+  - term: "HR analytics certificate"
+    term_type: credential_term
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
+  - term: "INFORMS"
+    term_type: issuing_body
 ---

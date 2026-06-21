@@ -22,4 +22,35 @@ proficiency_levels:
     indicator: Holds self and others accountable; enforces ethical guidelines; transparently reports outcomes.
   - level: Expert
     indicator: Embeds accountability mechanisms into organizational culture; mentors others on ethical decision-making and responsibility.
+matching_vocabulary:
+  - term: "accountability"
+    term_type: synonym
+  - term: "personal accountability"
+    term_type: synonym
+  - term: "ownership"
+    term_type: synonym
+  - term: "taking responsibility"
+    term_type: synonym
+  - term: "takes ownership of results"
+    term_type: related_phrase
+  - term: "follows through on commitments"
+    term_type: related_phrase
+  - term: "owns mistakes"
+    term_type: related_phrase
+  - term: "holds self and others accountable"
+    term_type: related_phrase
+  - term: "delivers on deadlines"
+    term_type: related_phrase
+  - term: "transparently reports outcomes"
+    term_type: related_phrase
+  - term: "performance metrics"
+    term_type: tool_or_method
+  - term: "commitment tracking"
+    term_type: tool_or_method
+  - term: "after-action review"
+    term_type: tool_or_method
+  - term: "performance management training"
+    term_type: credential_term
+  - term: "Society for Human Resource Management (SHRM)"
+    term_type: issuing_body
 ---

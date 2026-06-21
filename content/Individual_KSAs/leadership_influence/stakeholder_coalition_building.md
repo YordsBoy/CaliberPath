@@ -23,4 +23,35 @@ proficiency_levels:
     indicator: Leads multi-organizational coalitions; resolves competing priorities to maintain momentum.
   - level: Expert
     indicator: Creates enduring networks that drive systemic change across sectors; influences policy or industry standards through broad coalitions.
+matching_vocabulary:
+  - term: "coalition building"
+    term_type: synonym
+  - term: "stakeholder engagement"
+    term_type: synonym
+  - term: "stakeholder alliance building"
+    term_type: synonym
+  - term: "builds strategic alliances"
+    term_type: related_phrase
+  - term: "aligns stakeholder interests"
+    term_type: related_phrase
+  - term: "cultivates collaborative networks"
+    term_type: related_phrase
+  - term: "secures stakeholder support"
+    term_type: related_phrase
+  - term: "resolves competing priorities"
+    term_type: related_phrase
+  - term: "leads multi-organizational coalitions"
+    term_type: related_phrase
+  - term: "stakeholder analysis"
+    term_type: tool_or_method
+  - term: "stakeholder mapping"
+    term_type: tool_or_method
+  - term: "power-interest grid"
+    term_type: tool_or_method
+  - term: "public affairs coursework"
+    term_type: credential_term
+  - term: "stakeholder management training"
+    term_type: credential_term
+  - term: "International Association for Public Participation (IAP2)"
+    term_type: issuing_body
 ---

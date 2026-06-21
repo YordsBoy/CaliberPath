@@ -22,4 +22,35 @@ proficiency_levels:
     indicator: Coaches others to adopt growth mindset; designs learning challenges that build resilience.
   - level: Expert
     indicator: Embeds growth-mindset culture; influences talent and performance systems to reward learning and adaptability.
+matching_vocabulary:
+  - term: "growth mindset"
+    term_type: synonym
+  - term: "learning orientation"
+    term_type: synonym
+  - term: "development mindset"
+    term_type: synonym
+  - term: "embraces challenges"
+    term_type: related_phrase
+  - term: "persists after setbacks"
+    term_type: related_phrase
+  - term: "requests and applies feedback"
+    term_type: related_phrase
+  - term: "reframes setbacks as learning"
+    term_type: related_phrase
+  - term: "pursues stretch goals"
+    term_type: related_phrase
+  - term: "believes abilities can be developed"
+    term_type: related_phrase
+  - term: "feedback seeking"
+    term_type: tool_or_method
+  - term: "deliberate practice"
+    term_type: tool_or_method
+  - term: "learning challenges"
+    term_type: tool_or_method
+  - term: "growth mindset training"
+    term_type: credential_term
+  - term: "learning and development coursework"
+    term_type: credential_term
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
 ---

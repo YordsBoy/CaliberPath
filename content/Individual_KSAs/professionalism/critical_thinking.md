@@ -22,4 +22,37 @@ proficiency_levels:
     indicator: Synthesizes complex data; anticipates implications; challenges unsupported conclusions.
   - level: Expert
     indicator: Establishes analytical standards; mentors others in rigorous evidence-based reasoning; innovates new analytic frameworks.
+matching_vocabulary:
+  - term: "critical thinking"
+    term_type: synonym
+  - term: "analytical thinking"
+    term_type: synonym
+  - term: "logical reasoning"
+    term_type: synonym
+  - term: "evaluates evidence"
+    term_type: related_phrase
+  - term: "weighs alternatives"
+    term_type: related_phrase
+  - term: "questions assumptions"
+    term_type: related_phrase
+  - term: "draws sound conclusions"
+    term_type: related_phrase
+  - term: "challenges unsupported claims"
+    term_type: related_phrase
+  - term: "analyzes complex information"
+    term_type: related_phrase
+  - term: "root cause analysis"
+    term_type: tool_or_method
+  - term: "argument mapping"
+    term_type: tool_or_method
+  - term: "cost-benefit analysis"
+    term_type: tool_or_method
+  - term: "decision matrix"
+    term_type: tool_or_method
+  - term: "critical thinking coursework"
+    term_type: credential_term
+  - term: "data analysis coursework"
+    term_type: credential_term
+  - term: "Foundation for Critical Thinking"
+    term_type: issuing_body
 ---

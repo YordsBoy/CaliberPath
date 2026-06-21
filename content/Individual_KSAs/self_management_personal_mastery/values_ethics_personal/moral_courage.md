@@ -22,4 +22,33 @@ proficiency_levels:
     indicator: Takes principled stands in high-stakes contexts; protects whistle-blowers; seeks systemic fixes.
   - level: Expert
     indicator: Inspires culture of moral courage; influences industry norms and legislation for ethical conduct.
+matching_vocabulary:
+  - term: "moral courage"
+    term_type: synonym
+  - term: "ethical courage"
+    term_type: synonym
+  - term: "principled courage"
+    term_type: synonym
+  - term: "speaks up about ethical concerns"
+    term_type: related_phrase
+  - term: "challenges unfair practices respectfully"
+    term_type: related_phrase
+  - term: "takes principled stands"
+    term_type: related_phrase
+  - term: "escalates serious issues"
+    term_type: related_phrase
+  - term: "defends others at risk"
+    term_type: related_phrase
+  - term: "acts on convictions despite risk"
+    term_type: related_phrase
+  - term: "ethical escalation"
+    term_type: tool_or_method
+  - term: "speaking-up practices"
+    term_type: tool_or_method
+  - term: "ethical leadership coursework"
+    term_type: credential_term
+  - term: "ethics and accountability coursework"
+    term_type: credential_term
+  - term: "Ethics & Compliance Initiative (ECI)"
+    term_type: issuing_body
 ---

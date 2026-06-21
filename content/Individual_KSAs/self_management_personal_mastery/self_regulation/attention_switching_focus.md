@@ -25,4 +25,35 @@ proficiency_levels:
     indicator: Designs team norms for deep work vs. collaboration windows; leverages apps/analytics to monitor and optimize focus time.
   - level: Expert
     indicator: Leads organizational initiatives to reduce distraction culture; mentors others in cognitive-load management and attention training.
+matching_vocabulary:
+  - term: "focus management"
+    term_type: synonym
+  - term: "attention management"
+    term_type: synonym
+  - term: "sustained focus"
+    term_type: synonym
+  - term: "minimizes distractions"
+    term_type: related_phrase
+  - term: "switches attention efficiently when goals change"
+    term_type: related_phrase
+  - term: "sustains focus on priority tasks"
+    term_type: related_phrase
+  - term: "schedules focused work blocks"
+    term_type: related_phrase
+  - term: "prevents attention residue"
+    term_type: related_phrase
+  - term: "manages cognitive load"
+    term_type: related_phrase
+  - term: "Pomodoro technique"
+    term_type: tool_or_method
+  - term: "focus blocks"
+    term_type: tool_or_method
+  - term: "time blocking"
+    term_type: tool_or_method
+  - term: "notification management"
+    term_type: tool_or_method
+  - term: "attention and focus training"
+    term_type: credential_term
+  - term: "productivity coursework"
+    term_type: credential_term
 ---

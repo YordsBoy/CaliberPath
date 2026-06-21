@@ -21,4 +21,29 @@ proficiency_levels:
     indicator: Drives significant initiatives aligned with organizational goals; secures resources and stakeholder buy-in.
   - level: Expert
     indicator: Cultivates a culture of proactive behavior; mentors others in opportunity recognition and entrepreneurial action.
+matching_vocabulary:
+  - term: "initiative"
+    term_type: synonym
+  - term: "proactivity"
+    term_type: synonym
+  - term: "self-direction"
+    term_type: synonym
+  - term: "acts without being asked"
+    term_type: related_phrase
+  - term: "identifies opportunities proactively"
+    term_type: related_phrase
+  - term: "volunteers for additional work"
+    term_type: related_phrase
+  - term: "suggests process improvements"
+    term_type: related_phrase
+  - term: "launches value-adding projects"
+    term_type: related_phrase
+  - term: "anticipates needs"
+    term_type: related_phrase
+  - term: "proactive problem-solving"
+    term_type: tool_or_method
+  - term: "continuous improvement suggestions"
+    term_type: tool_or_method
+  - term: "entrepreneurship coursework"
+    term_type: credential_term
 ---

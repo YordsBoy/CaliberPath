@@ -21,4 +21,35 @@ proficiency_levels:
     indicator: Learns ahead of need for upcoming challenges; designs learning resources for others; evaluates learning return on investment (ROI).
   - level: Expert
     indicator: Embeds continuous-learning systems in the organization; anticipates skill trends and orchestrates upskilling strategies at scale.
+matching_vocabulary:
+  - term: "learning agility"
+    term_type: synonym
+  - term: "continuous learning"
+    term_type: synonym
+  - term: "adaptive learning"
+    term_type: synonym
+  - term: "learns new skills quickly"
+    term_type: related_phrase
+  - term: "applies lessons to new situations"
+    term_type: related_phrase
+  - term: "transfers insights across domains"
+    term_type: related_phrase
+  - term: "seeks feedback to improve"
+    term_type: related_phrase
+  - term: "reflects on experience"
+    term_type: related_phrase
+  - term: "upskills proactively"
+    term_type: related_phrase
+  - term: "reflective practice"
+    term_type: tool_or_method
+  - term: "feedback seeking"
+    term_type: tool_or_method
+  - term: "deliberate practice"
+    term_type: tool_or_method
+  - term: "continuous learning coursework"
+    term_type: credential_term
+  - term: "professional upskilling program"
+    term_type: credential_term
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
 ---

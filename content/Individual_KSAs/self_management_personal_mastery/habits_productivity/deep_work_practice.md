@@ -25,4 +25,33 @@ proficiency_levels:
     indicator: Designs weekly cadence of deep vs. shallow work; tracks output metrics (e.g., words written, features shipped); mentors peers on setup and rituals.
   - level: Expert
     indicator: Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organization-wide practices.
+matching_vocabulary:
+  - term: "deep work"
+    term_type: synonym
+  - term: "focused work"
+    term_type: synonym
+  - term: "distraction-free work"
+    term_type: synonym
+  - term: "protects focus time"
+    term_type: related_phrase
+  - term: "schedules distraction-free work blocks"
+    term_type: related_phrase
+  - term: "minimizes context-switching"
+    term_type: related_phrase
+  - term: "sustains concentrated work"
+    term_type: related_phrase
+  - term: "balances focus with recovery breaks"
+    term_type: related_phrase
+  - term: "silences notifications during focus sessions"
+    term_type: related_phrase
+  - term: "time blocking"
+    term_type: tool_or_method
+  - term: "focus blocks"
+    term_type: tool_or_method
+  - term: "meeting-free mornings"
+    term_type: tool_or_method
+  - term: "focus and productivity coursework"
+    term_type: credential_term
+  - term: "attention management coursework"
+    term_type: credential_term
 ---

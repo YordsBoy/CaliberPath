@@ -22,4 +22,37 @@ proficiency_levels:
     indicator: Persuades diverse stakeholders with well-structured messages; facilitates discussions to resolve misunderstandings and reach consensus.
   - level: Expert
     indicator: Crafts compelling narratives that influence organizational direction; mentors others in advanced communication strategy and active-listening techniques.
+matching_vocabulary:
+  - term: "effective communication"
+    term_type: synonym
+  - term: "communication skills"
+    term_type: synonym
+  - term: "interpersonal communication"
+    term_type: synonym
+  - term: "communicates clearly in writing and speech"
+    term_type: related_phrase
+  - term: "practices active listening"
+    term_type: related_phrase
+  - term: "tailors messages to the audience"
+    term_type: related_phrase
+  - term: "explains complex ideas simply"
+    term_type: related_phrase
+  - term: "gives constructive feedback"
+    term_type: related_phrase
+  - term: "paraphrases to confirm understanding"
+    term_type: related_phrase
+  - term: "active listening"
+    term_type: tool_or_method
+  - term: "public speaking"
+    term_type: tool_or_method
+  - term: "presentation skills"
+    term_type: tool_or_method
+  - term: "business communication coursework"
+    term_type: credential_term
+  - term: "professional writing coursework"
+    term_type: credential_term
+  - term: "Toastmasters International"
+    term_type: issuing_body
+  - term: "National Communication Association (NCA)"
+    term_type: issuing_body
 ---
