@@ -23,4 +23,39 @@ proficiency_levels:
     indicator: Mediates high-stakes disputes; rebuilds trust and commitment among stakeholders.
   - level: Expert
     indicator: Establishes conflict-management frameworks and training; resolves organizational or multi-party conflicts with lasting agreements.
+matching_vocabulary:
+  - term: "conflict resolution"
+    term_type: synonym
+  - term: "conflict management"
+    term_type: synonym
+  - term: "dispute resolution"
+    term_type: synonym
+  - term: "de-escalates tension"
+    term_type: related_phrase
+  - term: "mediates disputes"
+    term_type: related_phrase
+  - term: "finds win-win solutions"
+    term_type: related_phrase
+  - term: "rebuilds trust after conflict"
+    term_type: related_phrase
+  - term: "facilitates difficult conversations"
+    term_type: related_phrase
+  - term: "resolves interpersonal conflict"
+    term_type: related_phrase
+  - term: "mediation"
+    term_type: tool_or_method
+  - term: "active listening"
+    term_type: tool_or_method
+  - term: "win-win negotiation"
+    term_type: tool_or_method
+  - term: "mediation training"
+    term_type: credential_term
+  - term: "conflict resolution certificate"
+    term_type: credential_term
+  - term: "negotiation and dispute resolution coursework"
+    term_type: credential_term
+  - term: "Association for Conflict Resolution (ACR)"
+    term_type: issuing_body
+  - term: "American Arbitration Association (AAA)"
+    term_type: issuing_body
 ---

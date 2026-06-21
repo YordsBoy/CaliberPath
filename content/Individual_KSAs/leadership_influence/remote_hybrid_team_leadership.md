@@ -22,4 +22,39 @@ proficiency_levels:
     indicator: Balances synchronous vs. asynchronous collaboration strategically; leverages analytics (engagement dashboards, pulse surveys) to adjust workload and support; champions inclusive meeting practices (rotation of time zones, closed captions).
   - level: Expert
     indicator: Architects enterprise-wide hybrid-work strategy; integrates remote-leadership competencies into talent systems; mentors other leaders on sustaining innovation, culture, and DEI in distributed environments.
+matching_vocabulary:
+  - term: "remote team leadership"
+    term_type: synonym
+  - term: "hybrid team leadership"
+    term_type: synonym
+  - term: "distributed team leadership"
+    term_type: synonym
+  - term: "virtual team leadership"
+    term_type: synonym
+  - term: "sets remote work norms"
+    term_type: related_phrase
+  - term: "leads distributed teams"
+    term_type: related_phrase
+  - term: "facilitates virtual collaboration"
+    term_type: related_phrase
+  - term: "mitigates proximity bias"
+    term_type: related_phrase
+  - term: "sustains engagement across locations"
+    term_type: related_phrase
+  - term: "designs asynchronous workflows"
+    term_type: related_phrase
+  - term: "asynchronous communication"
+    term_type: tool_or_method
+  - term: "virtual collaboration tools"
+    term_type: tool_or_method
+  - term: "engagement pulse surveys"
+    term_type: tool_or_method
+  - term: "team working agreement"
+    term_type: tool_or_method
+  - term: "remote leadership coursework"
+    term_type: credential_term
+  - term: "managing distributed teams training"
+    term_type: credential_term
+  - term: "Society for Human Resource Management (SHRM)"
+    term_type: issuing_body
 ---

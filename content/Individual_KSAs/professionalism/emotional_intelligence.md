@@ -22,4 +22,39 @@ proficiency_levels:
     indicator: Coaches others in emotional self-management; de-escalates tense situations by naming shared goals, acknowledging emotional stakes, and redirecting to productive problem-solving.
   - level: Expert
     indicator: Embeds emotional-intelligence practices in organizational culture; mentors leaders in leveraging EI for strategy and change.
+matching_vocabulary:
+  - term: "emotional intelligence"
+    term_type: synonym
+  - term: "emotional quotient"
+    term_type: synonym
+  - term: "people skills"
+    term_type: synonym
+  - term: "recognizes own emotions"
+    term_type: related_phrase
+  - term: "manages emotional reactions under stress"
+    term_type: related_phrase
+  - term: "reads emotional cues in others"
+    term_type: related_phrase
+  - term: "demonstrates empathy"
+    term_type: related_phrase
+  - term: "de-escalates tense situations"
+    term_type: related_phrase
+  - term: "builds positive interactions"
+    term_type: related_phrase
+  - term: "self-regulation techniques"
+    term_type: tool_or_method
+  - term: "empathic listening"
+    term_type: tool_or_method
+  - term: "emotion labeling"
+    term_type: tool_or_method
+  - term: "EI"
+    term_type: acronym
+  - term: "EQ"
+    term_type: acronym
+  - term: "emotional intelligence coursework"
+    term_type: credential_term
+  - term: "EQ assessment coursework"
+    term_type: credential_term
+  - term: "International Coaching Federation (ICF)"
+    term_type: issuing_body
 ---

@@ -21,4 +21,33 @@ proficiency_levels:
     indicator: Models professional conduct under pressure; mentors peers in workplace etiquette and ethics.
   - level: Expert
     indicator: Shapes organizational policies on professionalism; leads initiatives to uphold and evolve ethical standards industry-wide.
+matching_vocabulary:
+  - term: "professionalism"
+    term_type: synonym
+  - term: "professional conduct"
+    term_type: synonym
+  - term: "professional demeanor"
+    term_type: synonym
+  - term: "maintains reliability"
+    term_type: related_phrase
+  - term: "demonstrates respectful conduct"
+    term_type: related_phrase
+  - term: "handles confidential information responsibly"
+    term_type: related_phrase
+  - term: "models professional conduct under pressure"
+    term_type: related_phrase
+  - term: "meets attendance and punctuality expectations"
+    term_type: related_phrase
+  - term: "upholds ethical standards"
+    term_type: related_phrase
+  - term: "professional etiquette"
+    term_type: tool_or_method
+  - term: "business etiquette"
+    term_type: tool_or_method
+  - term: "workplace readiness training"
+    term_type: credential_term
+  - term: "professional ethics coursework"
+    term_type: credential_term
+  - term: "Society for Human Resource Management (SHRM)"
+    term_type: issuing_body
 ---

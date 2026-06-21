@@ -22,4 +22,29 @@ proficiency_levels:
     indicator: Models sustained high-effort engagement visibly, prompting colleagues to maintain performance; communicates project milestones and progress narratives to sustain team momentum over time.
   - level: Expert
     indicator: Establishes systems that foster intrinsic motivation across teams; mentors colleagues in self-leadership techniques.
+matching_vocabulary:
+  - term: "self-motivation"
+    term_type: synonym
+  - term: "self-drive"
+    term_type: synonym
+  - term: "self-starting"
+    term_type: synonym
+  - term: "pursues goals with sustained energy"
+    term_type: related_phrase
+  - term: "works without constant supervision"
+    term_type: related_phrase
+  - term: "sets and monitors personal targets"
+    term_type: related_phrase
+  - term: "pursues stretch goals"
+    term_type: related_phrase
+  - term: "maintains focus despite obstacles"
+    term_type: related_phrase
+  - term: "self-directs effort"
+    term_type: related_phrase
+  - term: "goal setting"
+    term_type: tool_or_method
+  - term: "self-management routines"
+    term_type: tool_or_method
+  - term: "self-leadership training"
+    term_type: credential_term
 ---

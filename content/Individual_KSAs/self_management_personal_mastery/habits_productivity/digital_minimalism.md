@@ -22,4 +22,35 @@ proficiency_levels:
     indicator: Coaches team in digital-minimalism practices; redesigns workflows to reduce digital overload.
   - level: Expert
     indicator: Shapes organizational tech-use policies to promote focused, healthy digital environments; measures impact on productivity and well-being.
+matching_vocabulary:
+  - term: "digital minimalism"
+    term_type: synonym
+  - term: "digital decluttering"
+    term_type: synonym
+  - term: "intentional technology use"
+    term_type: synonym
+  - term: "mindful technology use"
+    term_type: synonym
+  - term: "curates digital tools intentionally"
+    term_type: related_phrase
+  - term: "reduces digital distraction"
+    term_type: related_phrase
+  - term: "schedules screen-free periods"
+    term_type: related_phrase
+  - term: "limits notifications"
+    term_type: related_phrase
+  - term: "practices single-tasking online"
+    term_type: related_phrase
+  - term: "audits app usage"
+    term_type: related_phrase
+  - term: "app audit"
+    term_type: tool_or_method
+  - term: "notification management"
+    term_type: tool_or_method
+  - term: "screen-time limits"
+    term_type: tool_or_method
+  - term: "email batching"
+    term_type: tool_or_method
+  - term: "digital wellbeing coursework"
+    term_type: credential_term
 ---

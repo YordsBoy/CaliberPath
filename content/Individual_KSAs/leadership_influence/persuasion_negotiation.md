@@ -22,4 +22,41 @@ proficiency_levels:
     indicator: Leads high-stakes negotiations; overcomes resistance with tailored value propositions; achieves complex agreements that balance multiple interests.
   - level: Expert
     indicator: Shapes organizational or inter-organizational decisions through expert negotiation; mentors others in advanced influence strategies; brokers consensus on contentious strategic issues.
+matching_vocabulary:
+  - term: "persuasion"
+    term_type: synonym
+  - term: "negotiation"
+    term_type: synonym
+  - term: "influencing"
+    term_type: synonym
+  - term: "builds rapport"
+    term_type: related_phrase
+  - term: "finds common ground"
+    term_type: related_phrase
+  - term: "makes evidence-based arguments"
+    term_type: related_phrase
+  - term: "negotiates win-win agreements"
+    term_type: related_phrase
+  - term: "tailors value propositions"
+    term_type: related_phrase
+  - term: "overcomes objections"
+    term_type: related_phrase
+  - term: "brokers consensus"
+    term_type: related_phrase
+  - term: "principled negotiation"
+    term_type: tool_or_method
+  - term: "stakeholder mapping"
+    term_type: tool_or_method
+  - term: "value proposition"
+    term_type: tool_or_method
+  - term: "BATNA"
+    term_type: acronym
+  - term: "negotiation coursework"
+    term_type: credential_term
+  - term: "negotiation and influence certificate"
+    term_type: credential_term
+  - term: "Program on Negotiation (Harvard Law School)"
+    term_type: issuing_body
+  - term: "American Management Association (AMA)"
+    term_type: issuing_body
 ---

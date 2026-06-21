@@ -22,4 +22,33 @@ proficiency_levels:
     indicator: Builds cross-functional partnerships; mediates conflicts to consensus.
   - level: Expert
     indicator: Fosters a collaborative culture across the organization; designs systems that reward teamwork and shared success.
+matching_vocabulary:
+  - term: "collaboration"
+    term_type: synonym
+  - term: "teamwork"
+    term_type: synonym
+  - term: "cooperation"
+    term_type: synonym
+  - term: "works toward shared goals"
+    term_type: related_phrase
+  - term: "shares information openly"
+    term_type: related_phrase
+  - term: "builds cross-functional partnerships"
+    term_type: related_phrase
+  - term: "values diverse perspectives"
+    term_type: related_phrase
+  - term: "contributes to group problem-solving"
+    term_type: related_phrase
+  - term: "supports teammates"
+    term_type: related_phrase
+  - term: "cross-functional collaboration"
+    term_type: tool_or_method
+  - term: "team problem-solving"
+    term_type: tool_or_method
+  - term: "teamwork and collaboration coursework"
+    term_type: credential_term
+  - term: "interpersonal skills training"
+    term_type: credential_term
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
 ---

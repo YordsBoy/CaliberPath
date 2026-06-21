@@ -22,4 +22,41 @@ proficiency_levels:
     indicator: Leads mindfulness sessions for teams; integrates mindful pauses into meetings and workflows.
   - level: Expert
     indicator: Designs organizational mindfulness programs; researches and shares outcomes on stress, focus, and well-being.
+matching_vocabulary:
+  - term: "mindfulness"
+    term_type: synonym
+  - term: "sensory mindfulness"
+    term_type: synonym
+  - term: "present-moment awareness"
+    term_type: synonym
+  - term: "mindful awareness"
+    term_type: synonym
+  - term: "practices present-moment awareness"
+    term_type: related_phrase
+  - term: "uses grounding exercises"
+    term_type: related_phrase
+  - term: "applies mindful pauses during stress"
+    term_type: related_phrase
+  - term: "maintains a mindfulness routine"
+    term_type: related_phrase
+  - term: "brings focus back to the present"
+    term_type: related_phrase
+  - term: "breathing exercises"
+    term_type: tool_or_method
+  - term: "grounding techniques"
+    term_type: tool_or_method
+  - term: "body scan"
+    term_type: tool_or_method
+  - term: "mindful breathing"
+    term_type: tool_or_method
+  - term: "Mindfulness-Based Stress Reduction"
+    term_type: tool_or_method
+  - term: "MBSR"
+    term_type: acronym
+  - term: "mindfulness training"
+    term_type: credential_term
+  - term: "workplace mindfulness coursework"
+    term_type: credential_term
+  - term: "International Mindfulness Teachers Association (IMTA)"
+    term_type: issuing_body
 ---

@@ -25129,6 +25129,72 @@
         "level": "Expert",
         "indicator": "Designs enterprise stress-management programs; measures impact on wellbeing and retention; advocates for systemic changes that reduce chronic stressors."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "stress management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "stress-management techniques",
+        "term_type": "synonym"
+      },
+      {
+        "term": "stress reduction",
+        "term_type": "synonym"
+      },
+      {
+        "term": "recognizes stress signals",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "applies coping strategies under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "uses relaxation techniques",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages workload stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reflects on stress triggers",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains performance under stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "breathing exercises",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "progressive relaxation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "time-boxing",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "micro-breaks",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "stress management coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "workplace wellbeing coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25165,6 +25231,80 @@
       {
         "level": "Expert",
         "indicator": "Designs organizational mindfulness programs; researches and shares outcomes on stress, focus, and well-being."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "mindfulness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "sensory mindfulness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "present-moment awareness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "mindful awareness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "practices present-moment awareness",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "uses grounding exercises",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "applies mindful pauses during stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains a mindfulness routine",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "brings focus back to the present",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "breathing exercises",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "grounding techniques",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "body scan",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "mindful breathing",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Mindfulness-Based Stress Reduction",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "MBSR",
+        "term_type": "acronym"
+      },
+      {
+        "term": "mindfulness training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "workplace mindfulness coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Mindfulness Teachers Association (IMTA)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25203,6 +25343,68 @@
         "level": "Expert",
         "indicator": "Embeds growth-mindset culture; influences talent and performance systems to reward learning and adaptability."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "growth mindset",
+        "term_type": "synonym"
+      },
+      {
+        "term": "learning orientation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "development mindset",
+        "term_type": "synonym"
+      },
+      {
+        "term": "embraces challenges",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "persists after setbacks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "requests and applies feedback",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reframes setbacks as learning",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "pursues stretch goals",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "believes abilities can be developed",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "feedback seeking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "deliberate practice",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "learning challenges",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "growth mindset training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "learning and development coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25239,6 +25441,64 @@
       {
         "level": "Expert",
         "indicator": "Inspires culture of moral courage; influences industry norms and legislation for ethical conduct."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "moral courage",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ethical courage",
+        "term_type": "synonym"
+      },
+      {
+        "term": "principled courage",
+        "term_type": "synonym"
+      },
+      {
+        "term": "speaks up about ethical concerns",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "challenges unfair practices respectfully",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "takes principled stands",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "escalates serious issues",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "defends others at risk",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "acts on convictions despite risk",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "ethical escalation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "speaking-up practices",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ethical leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "ethics and accountability coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Ethics & Compliance Initiative (ECI)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25277,6 +25537,60 @@
         "level": "Expert",
         "indicator": "Embeds integrity systems in culture; influences external partners toward higher ethical standards."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "integrity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "personal integrity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "honesty",
+        "term_type": "synonym"
+      },
+      {
+        "term": "aligns actions with stated values",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "acts honestly under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "keeps commitments",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "admits mistakes promptly",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "upholds standards despite inconvenience",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains transparency",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "values alignment",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ethical self-audit",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "professional ethics coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "integrity and ethics training",
+        "term_type": "credential_term"
+      }
     ]
   },
   {
@@ -25314,6 +25628,72 @@
         "level": "Expert",
         "indicator": "Shapes codes of conduct; mentors others in ethical reasoning; influences industry ethics standards."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "ethical reasoning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ethical reflection",
+        "term_type": "synonym"
+      },
+      {
+        "term": "moral reasoning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ethical decision-making",
+        "term_type": "synonym"
+      },
+      {
+        "term": "examines moral dilemmas",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "applies ethical principles",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "weighs competing values",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "justifies decisions against values",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "anticipates ethical consequences",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "documents ethical rationale",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "stakeholder impact matrix",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ethical decision-making framework",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "values-based decision-making",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "applied ethics coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "business ethics coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Ethics & Compliance Initiative (ECI)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25350,6 +25730,68 @@
       {
         "level": "Expert",
         "indicator": "Designs programs that enhance behavioral self-regulation at scale; links impulse control to organizational safety and ethics outcomes."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "impulse control",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-control",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-regulation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-discipline",
+        "term_type": "synonym"
+      },
+      {
+        "term": "delays gratification",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages impulses under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "pauses before reacting",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains constructive behavior under stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "recovers quickly after lapses",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains self-control during prolonged stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "implementation intentions",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "environment design",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "habit substitution",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "behavioral self-regulation coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "habit formation coursework",
+        "term_type": "credential_term"
       }
     ]
   },
@@ -25389,6 +25831,68 @@
         "level": "Expert",
         "indicator": "Leads organizational initiatives to reduce distraction culture; mentors others in cognitive-load management and attention training."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "focus management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "attention management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "sustained focus",
+        "term_type": "synonym"
+      },
+      {
+        "term": "minimizes distractions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "switches attention efficiently when goals change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains focus on priority tasks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "schedules focused work blocks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "prevents attention residue",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages cognitive load",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "Pomodoro technique",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "focus blocks",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "time blocking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "notification management",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "attention and focus training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "productivity coursework",
+        "term_type": "credential_term"
+      }
     ]
   },
   {
@@ -25425,6 +25929,76 @@
       {
         "level": "Expert",
         "indicator": "Embeds reflective-learning systems across teams; champions a culture of continuous introspection and adaptation."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "self-reflection",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-reflective insight",
+        "term_type": "synonym"
+      },
+      {
+        "term": "introspection",
+        "term_type": "synonym"
+      },
+      {
+        "term": "examines own thoughts and emotions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reflects to identify what worked",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "analyzes behavioral patterns",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sets growth goals from reflection",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "debriefs experiences",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "adjusts based on self-insight",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reflective journaling",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "after-action review",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "learning log",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "structured debrief",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "AAR",
+        "term_type": "acronym"
+      },
+      {
+        "term": "reflective practice coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "self-development coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Coaching Federation (ICF)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25463,6 +26037,68 @@
         "level": "Expert",
         "indicator": "Embeds metacognitive routines in organizational learning systems; innovates new reflection frameworks for complex problem-solving."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "metacognition",
+        "term_type": "synonym"
+      },
+      {
+        "term": "metacognitive skills",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-regulated learning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "monitors own thinking",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "selects learning strategies deliberately",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "evaluates strategy effectiveness",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "adapts approach in real time",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "articulates why a method works",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "regulates learning processes",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "retrieval practice",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "note-taking strategies",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "learning logs",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "self-explanation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "learning sciences coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "study skills coursework",
+        "term_type": "credential_term"
+      }
     ]
   },
   {
@@ -25499,6 +26135,68 @@
       {
         "level": "Expert",
         "indicator": "Mentors emerging leaders in self-authorship; shapes culture that honours individual purpose and integrity."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "self-authorship",
+        "term_type": "synonym"
+      },
+      {
+        "term": "authentic self-definition",
+        "term_type": "synonym"
+      },
+      {
+        "term": "authenticity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "lives by internally defined values",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "makes authentic choices",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns choices with self-defined purpose",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "resists incongruent pressures",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "references personal values in decisions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains consistent commitments across contexts",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "values clarification",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "personal values inventory",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "reflective journaling",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "leadership identity development coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "self-leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Coaching Federation (ICF)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25537,6 +26235,76 @@
         "level": "Expert",
         "indicator": "Designs organizational roles or ventures anchored in shared purpose; mentors others in articulating and living purpose."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "sense of purpose",
+        "term_type": "synonym"
+      },
+      {
+        "term": "purpose clarity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "career purpose",
+        "term_type": "synonym"
+      },
+      {
+        "term": "life purpose",
+        "term_type": "synonym"
+      },
+      {
+        "term": "writes a personal purpose statement",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns goals with purpose",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "evaluates opportunities through a purpose lens",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "shares purpose narratives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "communicates purpose for accountability",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "mentors others in articulating purpose",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "personal purpose statement",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Ikigai",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "values clarification exercise",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "purpose-driven leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "career development coaching certification",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Coaching Federation (ICF)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Center for Credentialing & Education (CCE)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25574,6 +26342,64 @@
         "level": "Expert",
         "indicator": "Integrates energy-management programs into organizational health strategy; leverages data analytics to link energy patterns to productivity and wellbeing KPIs."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "energy management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "personal energy management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "energy optimization",
+        "term_type": "synonym"
+      },
+      {
+        "term": "schedules demanding tasks at peak energy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "balances work and recovery",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains performance through recovery routines",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "monitors personal energy patterns",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains rest and movement routines",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "work-recovery cycles",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "energy audit",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "restorative breaks",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "workplace wellbeing coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "performance and recovery coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25610,6 +26436,68 @@
       {
         "level": "Expert",
         "indicator": "Shapes organizational tech-use policies to promote focused, healthy digital environments; measures impact on productivity and well-being."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "digital minimalism",
+        "term_type": "synonym"
+      },
+      {
+        "term": "digital decluttering",
+        "term_type": "synonym"
+      },
+      {
+        "term": "intentional technology use",
+        "term_type": "synonym"
+      },
+      {
+        "term": "mindful technology use",
+        "term_type": "synonym"
+      },
+      {
+        "term": "curates digital tools intentionally",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reduces digital distraction",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "schedules screen-free periods",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "limits notifications",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "practices single-tasking online",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "audits app usage",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "app audit",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "notification management",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "screen-time limits",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "email batching",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "digital wellbeing coursework",
+        "term_type": "credential_term"
       }
     ]
   },
@@ -25649,6 +26537,64 @@
         "level": "Expert",
         "indicator": "Embeds deep-work norms in team culture (meeting-free mornings, focus hours); measures impact on innovation and delivery KPIs; evangelises organization-wide practices."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "deep work",
+        "term_type": "synonym"
+      },
+      {
+        "term": "focused work",
+        "term_type": "synonym"
+      },
+      {
+        "term": "distraction-free work",
+        "term_type": "synonym"
+      },
+      {
+        "term": "protects focus time",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "schedules distraction-free work blocks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "minimizes context-switching",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains concentrated work",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "balances focus with recovery breaks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "silences notifications during focus sessions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "time blocking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "focus blocks",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "meeting-free mornings",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "focus and productivity coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "attention management coursework",
+        "term_type": "credential_term"
+      }
     ]
   },
   {
@@ -25685,6 +26631,72 @@
       {
         "level": "Expert",
         "indicator": "Designs organizational time-management systems; mentors others; aligns time allocation with strategic priorities."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "time management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "personal productivity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "prioritization",
+        "term_type": "synonym"
+      },
+      {
+        "term": "prioritizes competing tasks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "meets deadlines consistently",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "allocates time efficiently",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "balances multiple projects",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "adjusts priorities as conditions change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages a calendar effectively",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "time blocking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Eisenhower matrix",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Pomodoro technique",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "to-do lists",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "time management training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "productivity coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25723,6 +26735,56 @@
         "level": "Expert",
         "indicator": "Establishes systems that foster intrinsic motivation across teams; mentors colleagues in self-leadership techniques."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "self-motivation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-drive",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-starting",
+        "term_type": "synonym"
+      },
+      {
+        "term": "pursues goals with sustained energy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "works without constant supervision",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sets and monitors personal targets",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "pursues stretch goals",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "maintains focus despite obstacles",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "self-directs effort",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "goal setting",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "self-management routines",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "self-leadership training",
+        "term_type": "credential_term"
+      }
     ]
   },
   {
@@ -25760,6 +26822,64 @@
         "level": "Expert",
         "indicator": "Builds organizational resilience frameworks; leads cultural initiatives that normalize adaptive coping and recovery."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "resilience",
+        "term_type": "synonym"
+      },
+      {
+        "term": "stress tolerance",
+        "term_type": "synonym"
+      },
+      {
+        "term": "professional resilience",
+        "term_type": "synonym"
+      },
+      {
+        "term": "maintains performance under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "recovers from setbacks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "persists through challenges",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains a constructive outlook",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "applies coping strategies",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "helps teammates regain focus",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "coping strategies",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "after-action reflection",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "resilience training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "workplace wellbeing coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25795,6 +26915,64 @@
       {
         "level": "Expert",
         "indicator": "Shapes organizational policies on professionalism; leads initiatives to uphold and evolve ethical standards industry-wide."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "professionalism",
+        "term_type": "synonym"
+      },
+      {
+        "term": "professional conduct",
+        "term_type": "synonym"
+      },
+      {
+        "term": "professional demeanor",
+        "term_type": "synonym"
+      },
+      {
+        "term": "maintains reliability",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "demonstrates respectful conduct",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "handles confidential information responsibly",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "models professional conduct under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "meets attendance and punctuality expectations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "upholds ethical standards",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "professional etiquette",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "business etiquette",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "workplace readiness training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "professional ethics coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society for Human Resource Management (SHRM)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -25832,6 +27010,68 @@
         "level": "Expert",
         "indicator": "Embeds continuous-learning systems in the organization; anticipates skill trends and orchestrates upskilling strategies at scale."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "learning agility",
+        "term_type": "synonym"
+      },
+      {
+        "term": "continuous learning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "adaptive learning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "learns new skills quickly",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "applies lessons to new situations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "transfers insights across domains",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "seeks feedback to improve",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reflects on experience",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "upskills proactively",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reflective practice",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "feedback seeking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "deliberate practice",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "continuous learning coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "professional upskilling program",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25867,6 +27107,56 @@
       {
         "level": "Expert",
         "indicator": "Cultivates a culture of proactive behavior; mentors others in opportunity recognition and entrepreneurial action."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "initiative",
+        "term_type": "synonym"
+      },
+      {
+        "term": "proactivity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "self-direction",
+        "term_type": "synonym"
+      },
+      {
+        "term": "acts without being asked",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "identifies opportunities proactively",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "volunteers for additional work",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "suggests process improvements",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "launches value-adding projects",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "anticipates needs",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "proactive problem-solving",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "continuous improvement suggestions",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "entrepreneurship coursework",
+        "term_type": "credential_term"
       }
     ]
   },
@@ -25905,6 +27195,76 @@
         "level": "Expert",
         "indicator": "Embeds emotional-intelligence practices in organizational culture; mentors leaders in leveraging EI for strategy and change."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "emotional intelligence",
+        "term_type": "synonym"
+      },
+      {
+        "term": "emotional quotient",
+        "term_type": "synonym"
+      },
+      {
+        "term": "people skills",
+        "term_type": "synonym"
+      },
+      {
+        "term": "recognizes own emotions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages emotional reactions under stress",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reads emotional cues in others",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "demonstrates empathy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "de-escalates tense situations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "builds positive interactions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "self-regulation techniques",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "empathic listening",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "emotion labeling",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "EI",
+        "term_type": "acronym"
+      },
+      {
+        "term": "EQ",
+        "term_type": "acronym"
+      },
+      {
+        "term": "emotional intelligence coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "EQ assessment coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Coaching Federation (ICF)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25942,6 +27302,72 @@
         "level": "Expert",
         "indicator": "Crafts compelling narratives that influence organizational direction; mentors others in advanced communication strategy and active-listening techniques."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "effective communication",
+        "term_type": "synonym"
+      },
+      {
+        "term": "communication skills",
+        "term_type": "synonym"
+      },
+      {
+        "term": "interpersonal communication",
+        "term_type": "synonym"
+      },
+      {
+        "term": "communicates clearly in writing and speech",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "practices active listening",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "tailors messages to the audience",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "explains complex ideas simply",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "gives constructive feedback",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "paraphrases to confirm understanding",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "active listening",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "public speaking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "presentation skills",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "business communication coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "professional writing coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Toastmasters International",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "National Communication Association (NCA)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -25977,6 +27403,84 @@
       {
         "level": "Expert",
         "indicator": "Leads digital adoption initiatives; ensures digital-inclusion best practices; mentors others in advanced tool optimization and cybersecurity hygiene."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "digital literacy",
+        "term_type": "synonym"
+      },
+      {
+        "term": "digital fluency",
+        "term_type": "synonym"
+      },
+      {
+        "term": "computer literacy",
+        "term_type": "synonym"
+      },
+      {
+        "term": "technology fluency",
+        "term_type": "synonym"
+      },
+      {
+        "term": "uses productivity software",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages files securely",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "adopts new workplace software",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "recognizes phishing attempts",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "uses AI-assisted tools",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "troubleshoots minor technical issues",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "spreadsheets",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "word processing",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "multi-factor authentication",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "collaboration platforms",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "MFA",
+        "term_type": "acronym"
+      },
+      {
+        "term": "digital skills coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "IT fundamentals certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "CompTIA",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "International Society for Technology in Education (ISTE)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26015,6 +27519,72 @@
         "level": "Expert",
         "indicator": "Establishes analytical standards; mentors others in rigorous evidence-based reasoning; innovates new analytic frameworks."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "critical thinking",
+        "term_type": "synonym"
+      },
+      {
+        "term": "analytical thinking",
+        "term_type": "synonym"
+      },
+      {
+        "term": "logical reasoning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "evaluates evidence",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "weighs alternatives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "questions assumptions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "draws sound conclusions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "challenges unsupported claims",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "analyzes complex information",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "root cause analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "argument mapping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "cost-benefit analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "decision matrix",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "critical thinking coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "data analysis coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Foundation for Critical Thinking",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26051,6 +27621,76 @@
       {
         "level": "Expert",
         "indicator": "Shapes organizational strategy through breakthrough ideas; mentors others in structured creativity techniques."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "creative thinking",
+        "term_type": "synonym"
+      },
+      {
+        "term": "creativity",
+        "term_type": "synonym"
+      },
+      {
+        "term": "innovative thinking",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ideation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "generates novel ideas",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "questions assumptions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "connects disparate concepts",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "brainstorms solutions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "prototypes and tests concepts",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads innovation initiatives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "brainstorming",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "design thinking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "mind mapping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "prototyping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "design thinking coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "innovation management certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Product Development and Management Association (PDMA)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26089,6 +27729,64 @@
         "level": "Expert",
         "indicator": "Fosters a collaborative culture across the organization; designs systems that reward teamwork and shared success."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "collaboration",
+        "term_type": "synonym"
+      },
+      {
+        "term": "teamwork",
+        "term_type": "synonym"
+      },
+      {
+        "term": "cooperation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "works toward shared goals",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "shares information openly",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "builds cross-functional partnerships",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "values diverse perspectives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "contributes to group problem-solving",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "supports teammates",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "cross-functional collaboration",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "team problem-solving",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "teamwork and collaboration coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "interpersonal skills training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26124,6 +27822,80 @@
       {
         "level": "Expert",
         "indicator": "Establishes organization-wide standards for accuracy; mentors others on precision and quality assurance."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "attention to detail",
+        "term_type": "synonym"
+      },
+      {
+        "term": "thoroughness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "accuracy",
+        "term_type": "synonym"
+      },
+      {
+        "term": "meticulousness",
+        "term_type": "synonym"
+      },
+      {
+        "term": "catches errors before submission",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "detects subtle discrepancies",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "ensures accuracy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "follows detailed procedures",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "designs quality-control checks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "prevents errors proactively",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "quality control checklist",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "proofreading",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "quality assurance",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "QA",
+        "term_type": "acronym"
+      },
+      {
+        "term": "QC",
+        "term_type": "acronym"
+      },
+      {
+        "term": "quality assurance coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "quality management certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "American Society for Quality (ASQ)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26162,6 +27934,64 @@
         "level": "Expert",
         "indicator": "Champions adaptive culture across functions; designs processes that remain effective in rapidly changing environments."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "adaptability",
+        "term_type": "synonym"
+      },
+      {
+        "term": "flexibility",
+        "term_type": "synonym"
+      },
+      {
+        "term": "agility",
+        "term_type": "synonym"
+      },
+      {
+        "term": "adjusts to shifting priorities",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "stays productive amid change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "embraces new ways of working",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reprioritizes when conditions change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "responds to evolving circumstances",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "helps teams adapt",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reprioritization",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "agile working practices",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "change adaptability training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "agile foundations coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26198,6 +28028,68 @@
       {
         "level": "Expert",
         "indicator": "Embeds accountability mechanisms into organizational culture; mentors others on ethical decision-making and responsibility."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "accountability",
+        "term_type": "synonym"
+      },
+      {
+        "term": "personal accountability",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ownership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "taking responsibility",
+        "term_type": "synonym"
+      },
+      {
+        "term": "takes ownership of results",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "follows through on commitments",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "owns mistakes",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "holds self and others accountable",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "delivers on deadlines",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "transparently reports outcomes",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "performance metrics",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "commitment tracking",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "after-action review",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "performance management training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society for Human Resource Management (SHRM)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26236,6 +28128,68 @@
         "level": "Expert",
         "indicator": "Shapes enterprise-wide or societal vision; influences external stakeholders and resources to realize long-range goals."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "vision setting",
+        "term_type": "synonym"
+      },
+      {
+        "term": "visioning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "vision casting",
+        "term_type": "synonym"
+      },
+      {
+        "term": "articulates a compelling vision",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "inspires shared direction",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "links team objectives to the vision",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "crafts a multi-year vision",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "communicates future opportunities",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns efforts with strategic priorities",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "vision statement",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "strategic roadmap",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "future-state mapping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "executive leadership program",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "organizational leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Center for Creative Leadership (CCL)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26272,6 +28226,76 @@
       {
         "level": "Expert",
         "indicator": "Cultivates a culture of trust and collaboration organization-wide; designs team-building programs and mentors leaders in team development."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "team leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "team building",
+        "term_type": "synonym"
+      },
+      {
+        "term": "team collaboration",
+        "term_type": "synonym"
+      },
+      {
+        "term": "builds team cohesion",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "fosters trust within teams",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "facilitates team cooperation",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "motivates team members",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "defines team roles and goals",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads high-performing teams",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "recognizes team contributions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "team charter",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "team-building activities",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "team norms",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "team leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "leadership development program",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Center for Creative Leadership (CCL)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26310,6 +28334,80 @@
         "level": "Expert",
         "indicator": "Shapes enterprise strategy; anticipates industry disruptions; guides resource allocation to realize long-range vision."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "strategic thinking",
+        "term_type": "synonym"
+      },
+      {
+        "term": "strategic planning",
+        "term_type": "synonym"
+      },
+      {
+        "term": "strategic analysis",
+        "term_type": "synonym"
+      },
+      {
+        "term": "anticipates future trends",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "formulates long-term plans",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "synthesizes internal and external trends",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "evaluates strategic options",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns resources with strategy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "anticipates industry disruption",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "SWOT analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "PESTLE analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "scenario planning",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "competitive analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "SWOT",
+        "term_type": "acronym"
+      },
+      {
+        "term": "PESTLE",
+        "term_type": "acronym"
+      },
+      {
+        "term": "business strategy coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "strategic management certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Strategic Planning (ASP)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26346,6 +28444,72 @@
       {
         "level": "Expert",
         "indicator": "Orchestrates enterprise communication strategy; manages high-stakes messaging (media, investors); mentors leaders in strategic influence."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "strategic communication",
+        "term_type": "synonym"
+      },
+      {
+        "term": "executive communication",
+        "term_type": "synonym"
+      },
+      {
+        "term": "strategic messaging",
+        "term_type": "synonym"
+      },
+      {
+        "term": "tailors messages to the audience",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "crafts persuasive narratives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns messaging across channels",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "anticipates objections",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "uses data storytelling",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages high-stakes messaging",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "message framing",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "communication strategy",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "audience analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "corporate communications coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "public relations certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Public Relations Society of America (PRSA)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "International Association of Business Communicators (IABC)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26385,6 +28549,68 @@
         "level": "Expert",
         "indicator": "Creates enduring networks that drive systemic change across sectors; influences policy or industry standards through broad coalitions."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "coalition building",
+        "term_type": "synonym"
+      },
+      {
+        "term": "stakeholder engagement",
+        "term_type": "synonym"
+      },
+      {
+        "term": "stakeholder alliance building",
+        "term_type": "synonym"
+      },
+      {
+        "term": "builds strategic alliances",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns stakeholder interests",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "cultivates collaborative networks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "secures stakeholder support",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "resolves competing priorities",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads multi-organizational coalitions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "stakeholder analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "stakeholder mapping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "power-interest grid",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "public affairs coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "stakeholder management training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Association for Public Participation (IAP2)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26421,6 +28647,76 @@
       {
         "level": "Expert",
         "indicator": "Architects enterprise-wide hybrid-work strategy; integrates remote-leadership competencies into talent systems; mentors other leaders on sustaining innovation, culture, and DEI in distributed environments."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "remote team leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "hybrid team leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "distributed team leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "virtual team leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "sets remote work norms",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads distributed teams",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "facilitates virtual collaboration",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "mitigates proximity bias",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains engagement across locations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "designs asynchronous workflows",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "asynchronous communication",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "virtual collaboration tools",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "engagement pulse surveys",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "team working agreement",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "remote leadership coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "managing distributed teams training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society for Human Resource Management (SHRM)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26459,6 +28755,80 @@
         "level": "Expert",
         "indicator": "Shapes organizational or inter-organizational decisions through expert negotiation; mentors others in advanced influence strategies; brokers consensus on contentious strategic issues."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "persuasion",
+        "term_type": "synonym"
+      },
+      {
+        "term": "negotiation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "influencing",
+        "term_type": "synonym"
+      },
+      {
+        "term": "builds rapport",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "finds common ground",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "makes evidence-based arguments",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "negotiates win-win agreements",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "tailors value propositions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "overcomes objections",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "brokers consensus",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "principled negotiation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "stakeholder mapping",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "value proposition",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "BATNA",
+        "term_type": "acronym"
+      },
+      {
+        "term": "negotiation coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "negotiation and influence certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Program on Negotiation (Harvard Law School)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "American Management Association (AMA)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26495,6 +28865,80 @@
       {
         "level": "Expert",
         "indicator": "Creates mentoring programs; embeds coaching culture in the organization; builds pipelines of future leaders."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "mentoring",
+        "term_type": "synonym"
+      },
+      {
+        "term": "coaching",
+        "term_type": "synonym"
+      },
+      {
+        "term": "developing others",
+        "term_type": "synonym"
+      },
+      {
+        "term": "mentorship",
+        "term_type": "synonym"
+      },
+      {
+        "term": "provides constructive feedback",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "creates development plans",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "asks open-ended coaching questions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "builds others' capability",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "supports career growth",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns development with succession planning",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "GROW coaching model",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "individual development plan",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "feedback conversations",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "IDP",
+        "term_type": "acronym"
+      },
+      {
+        "term": "professional coaching certification",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "coaching and mentoring coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Coaching Federation (ICF)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26533,6 +28977,80 @@
         "level": "Expert",
         "indicator": "Embeds inclusion into organizational culture and strategy; influences industry or community standards for equity and belonging."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "inclusive leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "diversity and inclusion leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "leading inclusively",
+        "term_type": "synonym"
+      },
+      {
+        "term": "fosters belonging",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leverages diverse perspectives",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "removes barriers to inclusion",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "advocates equitable policies",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "ensures equitable participation",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "mitigates proximity bias",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "inclusive recruitment practices",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "equity audit",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "inclusion metrics",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "DEI",
+        "term_type": "acronym"
+      },
+      {
+        "term": "D&I",
+        "term_type": "acronym"
+      },
+      {
+        "term": "diversity, equity, and inclusion coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "inclusive leadership training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society for Human Resource Management (SHRM)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26569,6 +29087,76 @@
       {
         "level": "Expert",
         "indicator": "Establishes industry-leading governance frameworks; advises external bodies on ethics policy; fosters culture of integrity and accountability."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "ethical governance",
+        "term_type": "synonym"
+      },
+      {
+        "term": "ethics and compliance leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "corporate governance",
+        "term_type": "synonym"
+      },
+      {
+        "term": "establishes ethics policies",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "ensures regulatory compliance",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "conducts ethical risk assessments",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads ethics investigations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "models organizational integrity",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "embeds a culture of integrity",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "code of conduct",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ethics risk assessment",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "compliance program",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "GRC",
+        "term_type": "acronym"
+      },
+      {
+        "term": "corporate governance coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "ethics and compliance certification",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society of Corporate Compliance and Ethics (SCCE)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Ethics & Compliance Initiative (ECI)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26607,6 +29195,72 @@
         "level": "Expert",
         "indicator": "Cultivates an organizational culture of empowerment and accountability; designs systems that reinforce distributed decision-making and talent growth."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "delegation",
+        "term_type": "synonym"
+      },
+      {
+        "term": "empowerment",
+        "term_type": "synonym"
+      },
+      {
+        "term": "empowering others",
+        "term_type": "synonym"
+      },
+      {
+        "term": "delegates responsibility",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "entrusts decision-making authority",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "matches tasks to team strengths",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "develops team autonomy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "builds a culture of empowerment",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "holds delegated work accountable",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "responsibility assignment matrix",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "RACI matrix",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "delegation framework",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "RACI",
+        "term_type": "acronym"
+      },
+      {
+        "term": "people management training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "supervisory skills certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Society for Human Resource Management (SHRM)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26643,6 +29297,84 @@
       {
         "level": "Expert",
         "indicator": "Designs crisis-management frameworks; anticipates systemic risks; mentors leaders in resilience and antifragile practices."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "crisis leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "crisis management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "emergency leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "maintains composure under pressure",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "makes timely decisions in emergencies",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "directs coordinated crisis response",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "leads teams through disruption",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "reallocates resources during a crisis",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "anticipates systemic risks",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "crisis management plan",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "business continuity planning",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "after-action review",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "tabletop exercise",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Incident Command System",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ICS",
+        "term_type": "acronym"
+      },
+      {
+        "term": "emergency management coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "business continuity certification",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "International Association of Emergency Managers (IAEM)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "Disaster Recovery Institute International (DRI)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26682,6 +29414,76 @@
         "level": "Expert",
         "indicator": "Establishes conflict-management frameworks and training; resolves organizational or multi-party conflicts with lasting agreements."
       }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "conflict resolution",
+        "term_type": "synonym"
+      },
+      {
+        "term": "conflict management",
+        "term_type": "synonym"
+      },
+      {
+        "term": "dispute resolution",
+        "term_type": "synonym"
+      },
+      {
+        "term": "de-escalates tension",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "mediates disputes",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "finds win-win solutions",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "rebuilds trust after conflict",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "facilitates difficult conversations",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "resolves interpersonal conflict",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "mediation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "active listening",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "win-win negotiation",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "mediation training",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "conflict resolution certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "negotiation and dispute resolution coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Conflict Resolution (ACR)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "American Arbitration Association (AAA)",
+        "term_type": "issuing_body"
+      }
     ]
   },
   {
@@ -26719,6 +29521,84 @@
       {
         "level": "Expert",
         "indicator": "Leads enterprise-wide or multi-sector change initiatives; establishes continuous-improvement culture for ongoing transformation."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "change leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "leading change",
+        "term_type": "synonym"
+      },
+      {
+        "term": "transformation leadership",
+        "term_type": "synonym"
+      },
+      {
+        "term": "communicates the case for change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "engages stakeholders through transition",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "manages resistance to change",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "sustains change momentum",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "aligns culture with new strategy",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "drives organizational transformation",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "develops a change plan with milestones",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "change management plan",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "stakeholder engagement plan",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "change readiness assessment",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "change impact analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "Kotter's 8-Step change model",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "ADKAR",
+        "term_type": "acronym"
+      },
+      {
+        "term": "change management certification",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "organizational change management coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association of Change Management Professionals (ACMP)",
+        "term_type": "issuing_body"
       }
     ]
   },
@@ -26758,6 +29638,84 @@
       {
         "level": "Expert",
         "indicator": "Designs enterprise change-analytics practice; governs ethical data use, privacy, and bias mitigation; publishes ROI of AI-driven change insights."
+      }
+    ],
+    "matching_vocabulary": [
+      {
+        "term": "change analytics",
+        "term_type": "synonym"
+      },
+      {
+        "term": "change sentiment monitoring",
+        "term_type": "synonym"
+      },
+      {
+        "term": "people analytics for change",
+        "term_type": "synonym"
+      },
+      {
+        "term": "tracks employee sentiment",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "measures change readiness",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "forecasts adoption risk",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "builds change-adoption dashboards",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "analyzes engagement data",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "monitors change resistance",
+        "term_type": "related_phrase"
+      },
+      {
+        "term": "pulse surveys",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "sentiment analysis",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "engagement dashboard",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "people analytics",
+        "term_type": "tool_or_method"
+      },
+      {
+        "term": "NLP",
+        "term_type": "acronym"
+      },
+      {
+        "term": "HRIS",
+        "term_type": "acronym"
+      },
+      {
+        "term": "people analytics coursework",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "HR analytics certificate",
+        "term_type": "credential_term"
+      },
+      {
+        "term": "Association for Talent Development (ATD)",
+        "term_type": "issuing_body"
+      },
+      {
+        "term": "INFORMS",
+        "term_type": "issuing_body"
       }
     ]
   }

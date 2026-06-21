@@ -22,4 +22,33 @@ proficiency_levels:
     indicator: Anticipates change drivers; helps team adjust plans and resources proactively.
   - level: Expert
     indicator: Champions adaptive culture across functions; designs processes that remain effective in rapidly changing environments.
+matching_vocabulary:
+  - term: "adaptability"
+    term_type: synonym
+  - term: "flexibility"
+    term_type: synonym
+  - term: "agility"
+    term_type: synonym
+  - term: "adjusts to shifting priorities"
+    term_type: related_phrase
+  - term: "stays productive amid change"
+    term_type: related_phrase
+  - term: "embraces new ways of working"
+    term_type: related_phrase
+  - term: "reprioritizes when conditions change"
+    term_type: related_phrase
+  - term: "responds to evolving circumstances"
+    term_type: related_phrase
+  - term: "helps teams adapt"
+    term_type: related_phrase
+  - term: "reprioritization"
+    term_type: tool_or_method
+  - term: "agile working practices"
+    term_type: tool_or_method
+  - term: "change adaptability training"
+    term_type: credential_term
+  - term: "agile foundations coursework"
+    term_type: credential_term
+  - term: "Association for Talent Development (ATD)"
+    term_type: issuing_body
 ---
